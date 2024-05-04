@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1030" height="689.865" viewBox="0 0 1030 689.865">
+  <g id="Grupo_1044016" data-name="Grupo 1044016" transform="translate(-285 -1669.894)">
+    <g id="Grupo_1043682" data-name="Grupo 1043682" transform="translate(0 -247)">
+      <rect id="Rectángulo_33770" data-name="Rectángulo 33770" width="4" height="25" transform="translate(287 1916.894)" fill="#ff6148"/>
+      <text id="Tabla_1._Cronograma_de_actividades_de_proyectos_de_TI" data-name="Tabla  1. Cronograma de actividades de proyectos de TI" transform="translate(302 1933.894)" fill="#12263f" font-size="13" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0" xml:space="preserve">Tabla  1. </tspan><tspan y="0" font-family="SegoeUI, Segoe UI" font-weight="400">Cronograma de actividades de proyectos de TI</tspan></text>
+    </g>
+    <g id="Grupo_145874" data-name="Grupo 145874" transform="translate(94.341 -4668.106)">
+      <rect id="Rectángulo_46392" data-name="Rectángulo 46392" width="1029.656" height="641.039" transform="translate(190.659 6386.826)" fill="#fff"/>
+      <path id="Trazado_194606" data-name="Trazado 194606" d="M0,0H1029.307V49.88H0Z" transform="translate(191.008 6387.867)" fill="#fed9d3"/>
+      <path id="Trazado_195373" data-name="Trazado 195373" d="M0,0H1029.308V147.133H0Z" transform="translate(191.008 6586.732)" fill="#faf0ef"/>
+      <path id="Trazado_198345" data-name="Trazado 198345" d="M0,0H1029.308V147.133H0Z" transform="translate(191.008 6880.732)" fill="#fcf2f1"/>
+      <text id="Fase" transform="translate(205 6401.867)" fill="#12263f" font-size="20" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="22">Fase</tspan></text>
+      <text id="Fase-2" data-name="Fase" transform="translate(438.471 6401.867)" fill="#12263f" font-size="20" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="22">Fase</tspan></text>
+      <text id="Actividad" transform="translate(651.168 6401.867)" fill="#12263f" font-size="20" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="22">Actividad</tspan></text>
+      <text id="Fecha_inicio" data-name="Fecha inicio" transform="translate(883.62 6401.867)" fill="#12263f" font-size="20" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="22">Fecha inicio</tspan></text>
+      <text id="Fecha_fin" data-name="Fecha fin" transform="translate(1087.678 6401.867)" fill="#12263f" font-size="20" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="22">Fecha fin</tspan></text>
+      <line id="Línea_1802" data-name="Línea 1802" y2="639.998" transform="translate(590.01 6387.868)" fill="none" stroke="#afafaf" stroke-width="1"/>
+      <line id="Línea_1804" data-name="Línea 1804" y2="639.998" transform="translate(814.846 6387.868)" fill="none" stroke="#afafaf" stroke-width="1"/>
+      <line id="Línea_1805" data-name="Línea 1805" y2="639.998" transform="translate(1050.655 6387.868)" fill="none" stroke="#afafaf" stroke-width="1"/>
+      <line id="Línea_1803" data-name="Línea 1803" y2="639.998" transform="translate(332 6387.868)" fill="none" stroke="#afafaf" stroke-width="1"/>
+      <text id="PLANEAR" transform="translate(209 6502)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">PLANEAR</tspan></text>
+      <text id="VERIFICAR" transform="translate(209 6796)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">VERIFICAR</tspan></text>
+      <text id="HACER" transform="translate(209 6653)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">HACER</tspan></text>
+      <text id="ACTUAR" transform="translate(209 6947)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">ACTUAR</tspan></text>
+      <text id="Objetivo_1" data-name="Objetivo 1" transform="translate(422.362 6502)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">Objetivo 1</tspan></text>
+      <text id="Objetivo_1-2" data-name="Objetivo 1" transform="translate(422.362 6796)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">Objetivo 1</tspan></text>
+      <text id="Objetivo_1-3" data-name="Objetivo 1" transform="translate(422.362 6653)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">Objetivo 1</tspan></text>
+      <text id="Objetivo_1-4" data-name="Objetivo 1" transform="translate(422.362 6947)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">Objetivo 1</tspan></text>
+      <text id="Actividad_1_Actividad_2_" data-name="Actividad 1
+Actividad 2
+…
+" transform="translate(651.167 6454)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="22.23" y="17">Actividad 1</tspan><tspan x="22.23" y="65">Actividad 2</tspan><tspan x="55.637" y="113">…</tspan></text>
+      <text id="Actividad_1_Actividad_2_2" data-name="Actividad 1
+Actividad 2
+…
+" transform="translate(651.167 6748)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="22.23" y="17">Actividad 1</tspan><tspan x="22.23" y="65">Actividad 2</tspan><tspan x="55.637" y="113">…</tspan></text>
+      <text id="Actividad_1_Actividad_2_3" data-name="Actividad 1
+Actividad 2
+…
+" transform="translate(651.167 6605)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="22.23" y="17">Actividad 1</tspan><tspan x="22.23" y="65">Actividad 2</tspan><tspan x="55.637" y="113">…</tspan></text>
+      <text id="Actividad_1_Actividad_2_4" data-name="Actividad 1
+Actividad 2
+…
+" transform="translate(651.167 6899)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="22.23" y="17">Actividad 1</tspan><tspan x="22.23" y="65">Actividad 2</tspan><tspan x="55.637" y="113">…</tspan></text>
+      <text id="_01_11_2021_11_11_2021_" data-name="01/11/2021
+11/11/2021
+…" transform="translate(888.895 6454)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="7.766" y="17">01/11/2021</tspan><tspan x="7.766" y="65">11/11/2021</tspan><tspan x="42.637" y="113">…</tspan></text>
+      <text id="_16_12_2021_21_12_2021_" data-name="16/12/2021
+21/12/2021
+…" transform="translate(888.895 6748)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="7.766" y="17">16/12/2021</tspan><tspan x="7.766" y="65">21/12/2021</tspan><tspan x="42.637" y="113">…</tspan></text>
+      <text id="_25_11_2021_01_12_2021_" data-name="25/11/2021
+01/12/2021
+…" transform="translate(888.895 6605)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="7.766" y="17">25/11/2021</tspan><tspan x="7.766" y="65">01/12/2021</tspan><tspan x="42.637" y="113">…</tspan></text>
+      <text id="_25_12_2021_29_12_2021_" data-name="25/12/2021
+29/12/2021
+…" transform="translate(888.895 6899)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="7.766" y="17">25/12/2021</tspan><tspan x="7.766" y="65">29/12/2021</tspan><tspan x="42.637" y="113">…</tspan></text>
+      <text id="_10_11_2021_18_11_2021_" data-name="10/11/2021
+18/11/2021
+…" transform="translate(1065.337 6454)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="20.766" y="17">10/11/2021</tspan><tspan x="20.766" y="65">18/11/2021</tspan><tspan x="55.637" y="113">…</tspan></text>
+      <text id="_20_12_2021_23_12_2021_" data-name="20/12/2021
+23/12/2021
+…" transform="translate(1065.337 6748)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="20.766" y="17">20/12/2021</tspan><tspan x="20.766" y="65">23/12/2021</tspan><tspan x="55.637" y="113">…</tspan></text>
+      <text id="_30_11_2021_15_12_2021_" data-name="30/11/2021
+15/12/2021
+…" transform="translate(1065.337 6605)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="20.766" y="17">30/11/2021</tspan><tspan x="20.766" y="65">15/12/2021</tspan><tspan x="55.637" y="113">…</tspan></text>
+      <text id="_28_12_2021_31_12_2021_" data-name="28/12/2021
+31/12/2021
+…" transform="translate(1065.337 6899)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="20.766" y="17">28/12/2021</tspan><tspan x="20.766" y="65">31/12/2021</tspan><tspan x="55.637" y="113">…</tspan></text>
+      <path id="Trazado_198249" data-name="Trazado 198249" d="M563.659,6476.264h630.649" transform="translate(26.351 11)" fill="none" stroke="#afafaf" stroke-width="1"/>
+      <path id="Trazado_198341" data-name="Trazado 198341" d="M563.659,6476.264h630.649" transform="translate(26.351 305)" fill="none" stroke="#afafaf" stroke-width="1"/>
+      <path id="Trazado_198339" data-name="Trazado 198339" d="M563.659,6476.264h630.649" transform="translate(26.351 162)" fill="none" stroke="#afafaf" stroke-width="1"/>
+      <path id="Trazado_198343" data-name="Trazado 198343" d="M563.659,6476.264h630.649" transform="translate(26.351 456)" fill="none" stroke="#afafaf" stroke-width="1"/>
+      <path id="Trazado_198250" data-name="Trazado 198250" d="M563.659,6476.264h630.649" transform="translate(26.351 63)" fill="none" stroke="#afafaf" stroke-width="1"/>
+      <path id="Trazado_198342" data-name="Trazado 198342" d="M563.659,6476.264h630.649" transform="translate(26.351 357)" fill="none" stroke="#afafaf" stroke-width="1"/>
+      <path id="Trazado_198340" data-name="Trazado 198340" d="M563.659,6476.264h630.649" transform="translate(26.351 214)" fill="none" stroke="#afafaf" stroke-width="1"/>
+      <path id="Trazado_198344" data-name="Trazado 198344" d="M563.659,6476.264h630.649" transform="translate(26.351 508)" fill="none" stroke="#afafaf" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="244.505" height="47" viewBox="0 0 244.505 47">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_356105" data-name="Rectángulo 356105" width="49" height="47" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1044022" data-name="Grupo 1044022" transform="translate(-180 -4848.705)">
+    <rect id="Rectángulo_356102" data-name="Rectángulo 356102" width="225.001" height="39" rx="19.5" transform="translate(180 4852.303)" fill="#083142"/>
+    <g id="Enmascarar_grupo_80044" data-name="Enmascarar grupo 80044" transform="translate(375.505 4848.705)" clip-path="url(#clip-path)">
+      <g id="Grupo_1043696" data-name="Grupo 1043696" transform="translate(-3.775 -3.529)">
+        <rect id="Rectángulo_356103" data-name="Rectángulo 356103" width="24.699" height="51.752" rx="12.349" transform="translate(36.594) rotate(45)" fill="#ff6148"/>
+        <rect id="Rectángulo_356104" data-name="Rectángulo 356104" width="15.615" height="32.719" rx="7.808" transform="translate(43.912 14.927) rotate(45)" fill="#ffb476"/>
+      </g>
+    </g>
+    <text id="Aspectos_legales" data-name="Aspectos legales" transform="translate(204.996 4860.303)" fill="#fff" font-size="20" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="22">Aspectos legales</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="295" height="47" viewBox="0 0 295 47">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_356088" data-name="Rectángulo 356088" width="49" height="47" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1044016" data-name="Grupo 1044016" transform="translate(-180 -1288)">
+    <rect id="Rectángulo_356085" data-name="Rectángulo 356085" width="275.496" height="39" rx="19.5" transform="translate(180 1292)" fill="#083142"/>
+    <g id="Enmascarar_grupo_80042" data-name="Enmascarar grupo 80042" transform="translate(426 1288)" clip-path="url(#clip-path)">
+      <g id="Grupo_1043684" data-name="Grupo 1043684" transform="translate(-3.775 -3.529)">
+        <rect id="Rectángulo_356086" data-name="Rectángulo 356086" width="24.699" height="51.752" rx="12.349" transform="translate(36.594) rotate(45)" fill="#ff6148"/>
+        <rect id="Rectángulo_356087" data-name="Rectángulo 356087" width="15.615" height="32.719" rx="7.808" transform="translate(43.912 14.927) rotate(45)" fill="#ffb476"/>
+      </g>
+    </g>
+    <text id="Conexión_a_Internet" data-name="Conexión a Internet" transform="translate(201.748 1298)" fill="#fff" font-size="20" font-family="SegoeUIBlack, Segoe UI"><tspan x="0" y="22">Conexión a Internet</tspan></text>
+  </g>
+</svg>
