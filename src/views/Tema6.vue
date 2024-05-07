@@ -182,7 +182,7 @@
       .row(data-aos="fade-right").p-4
       .mb-4.d-flex
         .d-flex.flex-wrap.align-items-center.pe-4.azul-borde
-          h3.col.px-4.mb-0.text-white(data-aos="fade-right") Criterios para la planeación de actividades 
+          h4.col.px-4.mb-0.text-white(data-aos="fade-right") Criterios para la planeación de actividades 
           img.col-lg.d-none.d-lg-flex(src='@/assets/curso/temas/img01.svg' style="max-width: 70px; left: 476px; position: absolute" data-aos="fade-left")
       
       .row.justify-content-center.align-items-center(data-aos="fade-right")
@@ -193,13 +193,13 @@
         .col-lg-6.col-12.mb-4-lg-0.py-2
           .tarjeta.resaltado-azul.p-4
             img.recurso(src='@/assets/curso/temas/tema6/recurso.svg' alt='AvatarTop')
-            h5.py-3.text-white Recursos disponibles
+            h4.py-3.text-white Recursos disponibles
             p.text-white Se debe tener en cuenta los recursos que se disponen (Humanos, económicos, tecnológicos, e información), de esta manera se pueden planear la realización de las actividades de manera objetiva.
   
         .col-lg-6.col-12.mb-4-lg-0
           .tarjeta.resaltado-azul.p-4
             img.recurso(src='@/assets/curso/temas/tema6/tiempo.svg' alt='AvatarTop')
-            h5.py-3.text-white Tiempo estimado de realización
+            h4.py-3.text-white Tiempo estimado de realización
             p.text-white Establecer con base a los recursos disponibles, especialmente los humanos, el conocimiento y el esfuerzo que se requiere para realizar la actividad el periodo de tiempo que tomaría realizar cada actividad del proyecto.
           
 
