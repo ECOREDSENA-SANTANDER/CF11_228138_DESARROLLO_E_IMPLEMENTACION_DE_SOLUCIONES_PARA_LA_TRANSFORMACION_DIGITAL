@@ -101,49 +101,6 @@ export default {
           },
         ],
       },
-      {
-        nombreRuta: 'tema3',
-        numero: '3',
-        titulo: 'PRUEBA1',
-        desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '3.1',
-            titulo: ' Conceptos básicos Networking',
-            hash: 't_3_1',
-          },
-        ],
-      },
-      {
-        nombreRuta: 'tema4',
-        numero: '4',
-        titulo: 'PRUEBA2',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema5',
-        numero: '5',
-        titulo: 'PRUEBA3',
-        desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '5.1',
-            titulo: ' Aplicaciones',
-            hash: 't_5_1',
-          },
-          {
-            numero: '5.2',
-            titulo: ' Desarrollos',
-            hash: 't_5_2',
-          },
-        ],
-      },
-      {
-        nombreRuta: 'tema6',
-        numero: '6',
-        titulo: 'PRUEBA3',
-        desarrolloContenidos: true,
-      },
     ],
     subMenu: [
       {

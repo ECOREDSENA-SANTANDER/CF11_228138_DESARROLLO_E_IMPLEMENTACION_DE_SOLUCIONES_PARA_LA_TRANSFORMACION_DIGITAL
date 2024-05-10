@@ -4,8 +4,8 @@
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
       .titulo-principal.color-acento-botones
         .titulo-principal__numero
-          span 3
-        h1 Tecnologías y conceptos básicos de <i>networking</i>
+          span 2
+        h1 Roles y responsabilidades en la nube
 
       .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
         .col-lg-17.col-22
