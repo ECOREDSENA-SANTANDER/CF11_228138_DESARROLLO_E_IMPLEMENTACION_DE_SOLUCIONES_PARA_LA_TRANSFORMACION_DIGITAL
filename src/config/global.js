@@ -59,9 +59,9 @@ export default {
       },
 
       {
-        nombreRuta: 'Roles y responsabilidades en la nube',
+        nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Redes de datos',
+        titulo: 'Roles y responsabilidades en la nube',
         desarrolloContenidos: true,
         subMenu: [
           {
