@@ -304,7 +304,11 @@
               .row.justify-content-center.align-items-center
                 .col-md-10
                   p Dado que las áreas bajo revisión dependen en gran medida de la efectividad de los controles generales de TI básicos, se suelen realizar revisiones de aseguramiento de las siguientes áreas previas a la ejecución de la revisión propiamente dicha de los servicios de nube. 
-
+        
+        Separador
+        #t_2_2.titulo-segundo.color-acento-contenido
+         h2 2.2 Roles y actividades asociadas al proveedor
+        
         .row.justify-content-center.align-items-center(data-aos="fade-left")
           .col-lg-10
             .row.justify-content-center.align-items-center(data-aos="fade-left").fondo2.p-4
@@ -655,14 +659,405 @@
         .row.py-3
           #7.subtitulo.mb-4(data-aos="fade")
             h3.mb-0 Gestor de riesgos y seguridad del servicio en la nube
+            
         p Tiene la responsabilidad de garantizar que el proveedor gestione adecuadamente los riesgos asociados con el desarrollo, la entrega, el uso y el soporte de los servicios en la nube, esto incluye garantizar la alineación de las políticas de seguridad de la información del cliente y el proveedor para cumplir, en último término, con los requisitos de seguridad establecidos en el SLA.
         h5 Gestionar la seguridad y los riesgos. Esta actividad consiste en la gestión de la seguridad y los riesgos asociados con el desarrollo, la entrega, el uso y el soporte de los servicios en la nube, como puede verse a continuación:
 
 
+        .py-3
+        .row.justify-content-center.align-items-center(data-aos="fade-left")
+          .col-lg-7
+            PasosA.color-primario.mb-5(tipo="n")
+              .row.justify-content-center.align-items-center
+                .col-md-10.mb-4.mb-md-0
+                  p Definir la política de seguridad de la información, teniendo en cuenta los requisitos del servicio, los requisitos legales y reglamentarios y las obligaciones contractuales y SLA.
+              .row.justify-content-center.align-items-center
+                .col-md-10
+                  p Definir los riesgos de seguridad de la información relacionados con el servicio en la nube y detectar aquellos riesgos relacionados con el cumplimiento de los objetivos comerciales del proveedor Como consideración importante, indicada en el tema sobre rentabilidad en la nube y modelos económicos del cliente y del proveedor, es que la gestión de los riesgos de seguridad de la información tiene un costo asociado. En consecuencia, el proveedor podría asumir la posición comercial de no manejar algunos riesgos, dejando la responsabilidad de esos riesgos al cliente mediante el contrato de servicio, con el fin de no asumir estos costes directamente y redirigiéndolos a otras partes del mercado.
+              .row.justify-content-center.align-items-center
+                .col-md-10.mb-4.mb-md-0
+                  p Seleccionar el punto de diseño y los controles de seguridad de la información necesarios para abordar los riesgos asociados con el servicio y el punto de diseño elegido. Los controles suelen cubrir un conjunto de categorías como la gestión de identidad y acceso, seguridad física y personal, protección de datos y activos de información y que se pueden presentar organizados de diferente forma en el caso de los marcos de seguridad de referencia (ISO 27002, ISO 27017, Cloud Security Alliance, NIST.
+              .row.justify-content-center.align-items-center
+                .col-md-10
+                  p Asegurar que los controles identificados estén implementados de manera efectiva en el servicio desplegado y en la infraestructura subyacente.
+              .row.justify-content-center.align-items-center
+                .col-md-10.mb-4.mb-md-0
+                  p Diseñar, implementar y evaluar la seguridad de sistemas y aplicaciones.
+              .row.justify-content-center.align-items-center
+                .col-md-10
+                  p Administrar, diseñar, implementar y evaluar la seguridad de los servicios en la nube de los proveedores homólogos.
+              .row.justify-content-center.align-items-center
+                .col-md-10
+                  p Evaluar la efectividad de los controles implementados y realizar cambios basados en la experiencia.
+              .row.justify-content-center.align-items-center
+                .col-md-10
+                  p Asegurar que los sistemas de soporte operativo y comercial brinden acceso a los datos al personal del proveedor en función de los inquilinos de los clientes, en particular a los que brindan un servicio.
+        
+        .row.justify-content-center.align-items-center(data-aos="fade-left") 
+          h5 Gestionar la seguridad y los riesgos. Esta actividad consiste en la gestión de la seguridad y los riesgos asociados con el desarrollo, la entrega, el uso y el soporte de los servicios en la nube, como puede verse a continuación:
+          .py-3
+          h5 Asegurar el cumplimiento. Esta actividad consiste en implementar el cumplimiento de normas y regulaciones e implica:
+          ul.lista-ul--color
+              li 
+                i.fas.fa-chevron-right
+                | Asegurar que la implementación del servicio en la nube y su infraestructura de soporte cumpla con los requisitos de cualquier estándar que deba ser compatible, por ejemplo, los estándares pueden ser requeridos por el cliente objetivo o pueden ser requeridos por el esquema de certificación que el proveedor ha elegido asegurar el servicio.
+              li
+                i.fas.fa-chevron-right
+                | Asegurar que la implementación del servicio en la nube y su infraestructura de soporte (incluido el manejo de datos) cumpla con los requisitos reglamentarios que puedan existir para el servicio o para los datos almacenados o procesados por el servicio.
+
+
+        .py-3
+        .row.py-3
+          #7.subtitulo.mb-4(data-aos="fade")
+            h3.mb-0 Proveedor de red
+
+          p El proveedor de red puede proporcionar conectividad de red entre sistemas dentro del Datacenter del proveedor o proporcionar conectividad de red entre los sistemas del proveedor y los sistemas fuera del Datacenter del proveedor, por ejemplo, sistemas de clientes o sistemas que pertenecen a otros proveedores homólogos.
+          p Las actividades de computación en la nube del proveedor de red, son:
+
+        .row.justify-content-center.align-items-center(data-aos="fade-rigth")
+          .col-lg-12.col-12
+            acordionA.mb-3(tipo="b" clase-tarjeta="tarjeta gris-claro")
+              div(titulo="Proporciona conectividad de red")
+                .row.justify-content-center.align-items-center
+                  .col-lg-6
+                    p Esta actividad implica la configuración de las conexiones de red solicitadas y las capacidades relacionadas incluidas, entre otras, conexiones entre el cliente y el sistema del proveedor y entre el sistema de un proveedor y el sistema de otro proveedor. Esto puede incluir el establecimiento de instalaciones como una VPN o conexiones dedicadas. Las capacidades de red incluyen la capacidad de proporcionar retardo, fluctuación, ancho de banda, calidad de servicio y confiabilidad adecuados para todas las categorías de servicios en la nube y para fines, tanto en la nube, como fuera de la nube en el caso de NaaS.
+                  .col-lg-6
+                    img(src="@/assets/curso/temas/tema2/img36.png", alt="")
+              
+              div(titulo="Prestar servicios de red")
+                .row.justify-content-center.align-items-center
+                  .col-md-6
+                    p.mb-0 Esta actividad implica la prestación de servicios relacionados con la red, como firewalls o equilibrio de carga.
+                  .col-md-6.col-3.py-2
+                    img(src="@/assets/curso/temas/tema2/img37.png", alt="")
+
+              div(titulo="Proporcionar servicios de gestión de red")
+                .row.justify-content-center.align-items-center 
+                  .col-md-6
+                    p.mb-0 Esta actividad se centra en la gestión de la infraestructura de red utilizada para transportar servicios en la nube. Proporciona métodos, herramientas y procedimientos que permiten la operación, administración, mantenimiento y aprovisionamiento de la infraestructura de la red en la nube. Incluye tareas para:
+                    ul.lista-ul--color
+                      li 
+                        i.fas.fa-chevron-right
+                        | Mantener la red funcionando sin problemas.
+                      li
+                        i.fas.fa-chevron-right
+                        | Realizar un seguimiento de los recursos en la red y cómo se asignan.
+                      li 
+                        i.fas.fa-chevron-right
+                        | Realizar reparaciones y actualizaciones, por ejemplo, cuando el equipo debe reemplazarse o actualizarse con nuevas funciones.
+                      li
+                        i.fas.fa-chevron-right
+                        | Configurar recursos en la red para soportar un servicio en la nube.
+                  .col-md-6.col-3.py-2
+                    img(src="@/assets/curso/temas/tema2/img38.png", alt="")
+
+
+        Separador
+        #t_2_3.titulo-segundo.color-acento-contenido
+         h2 2.3 Roles y actividades asociadas a los partners
+
+        p Un partner, socio u operador de servicios en la nube (CSN) es una parte que se dedica a respaldar o proporcionar actividades de soporte auxiliar a las actividades del proveedor de servicios y el cliente o de ambos.
+        p Por tanto, las actividades de un partner pueden ser muy diversas según el tipo de socio de que se trate y de sus relaciones con el cliente y/o el proveedor.
+        p Por ejemplo, siguiendo el modelo de proveedores en nube pública, algunos de los tipos de partners que se pueden encontrar son:
+
+        .py-4
+        .row.justify-content-center.align-items-center(data-aos="fade-left")
+          .col-lg-10
+            .tarjeta-avatar-b.mb-5
+              .tarjeta-avatar-b__img
+                img.size(src='@/assets/curso/temas/tema2/img37.svg' alt='AvatarTop')
+              .tarjeta.tarjeta--azul
+                .p-2
+                  h4 Consultor
+                  p Socio que cuenta con un equipo técnico capacitado, certificado por el proveedor y que es capaz de brindar consultoría en cuanto a la mejor utilización de los recursos de la nube pública, servicios de optimización de costos, integración de software de terceros, arquitectura para diferentes cargas de trabajo, entre otro tipo de apoyos. 
+              
+            .tarjeta-avatar-b.mb-5
+              .tarjeta-avatar-b__img
+                img.size(src='@/assets/curso/temas/tema2/img38.svg' alt='AvatarTop')
+              .tarjeta.tarjeta--azul
+                .p-2
+                  h4 Proveedor de servicios gestionados (MSP)
+                  p Socio que realmente se ocupa del entorno de nube pública del cliente y actúa como un equipo de infraestructura o DevOps externo, de acuerdo con los principios de confiabilidad del sitio.
+            
+            .tarjeta-avatar-b.mb-5
+              .tarjeta-avatar-b__img
+                img.size(src='@/assets/curso/temas/tema2/img39.svg' alt='AvatarTop')
+              .tarjeta.tarjeta--azul
+                .p-2
+                  h4 Revendedores
+                  p Socio que brinda acceso a los servicios de nube pública a través de su propia consola. También se ocupan de la facturación y brindan soporte administrativo relacionado con la facturación.
+  
+          p Entre los beneficios típicos destacados por los propios partners a los clientes se encuentran:
 
 
 
+        .row.justify-content-center.align-items-center(data-aos="fade-rigth")
+          .col-lg-12.col-12
+            acordionA.mb-3(tipo="b" clase-tarjeta="tarjeta gris-claro")
+              div(titulo="Optimización de gastos y más flexibilidad")
+                .row.justify-content-center
+                  .col-lg-6
+                    p La compra de servicios por el cliente directamente del proveedor público de la nube o a través del socio es inicialmente exactamente el mismo al ser un modelo de pago por uso de los recursos consumidos. Sin embargo, en algunos casos un socio puede ofrecer mejores precios mediante la negociación directa con el proveedor, además del asesoramiento sobre las técnicas y enfoques efectivos de optimización de costos.
+                    p La estrategia de compra por volumen, es decir, alta concentración de clientes y/o servicios el mismo proveedor o en un número reducido de ellos, se consigue que la facturación proporcionada por el socio sea más reducida, los socios pueden aportar más flexibilidad en los métodos de pago y en las fechas de vencimiento, entre otros aspectos relevantes a la fiscalidad o riesgos de fluctuación en los cambios de las monedas proporcionando una facturación en la moneda local. 
+                  .col-lg-5
+                    img(src="@/assets/curso/temas/tema2/img40.png", alt="")
+              
+              div(titulo="El socio se ocupa de tu Cloud")
+                .row.justify-content-center
+                  .col-md-6
+                    p.mb-0 Los proveedores desarrollan una red de asociaciones con el objetivo de crear centros de excelencia. Un socio calificado tiene un amplio conocimiento de los diferentes servicios ofrecidos por el proveedor y puede asesorarlo sobre las mejores prácticas y brindarle soporte de migración y planificación arquitectónica. 
+                    p También puede consultar temas de desarrollo y operación, seguridad y estrategia de salida. De esta manera, el cliente puede concentrarse totalmente en las actividades de su negocio mientras un socio de confianza se encarga de los aspectos y habilitación de las funcionalidades de los servicios en la nube en su lugar.
+                  .col-lg-5
+                    img(src="@/assets/curso/temas/tema2/img41.png", alt="")
 
+              div(titulo="Especialistas disponibles en cualquier momento que los necesite")
+                .row.justify-content-center
+                  .col-md-6
+                    p.mb-0 La escasez de personal preparado complica a las organizaciones la disponibilidad de profesionales a los equipos de infraestructura o de desarrollo de aplicaciones en entornos actuales como DevOps, un socio puede evitar la espera de meses de contratación asignando miembros de su equipo cuando sea requerido. Además de las habilidades necesarias, estos miembros estarían respaldados por otros arquitectos y expertos de soluciones certificados de alto nivel y directamente del proveedor.
+                  .col-lg-5
+                    img(src="@/assets/curso/temas/tema2/img42.png", alt="")
+              
+              div(titulo="Soporte 24/7")
+                .row.justify-content-center
+                  .col-md-6
+                    p.mb-0 Los socios pueden ofrecer asistencia las 24 horas, los 7 días de la semana en el idioma local y dentro de su zona horaria. El soporte de un socio es proporcionado por consultores y arquitectos certificados y capacitados y su objetivo es resolver el problema sin necesidad de planteárselo al proveedor. 
+                    p En último término, un socio puede presentar el ticket en nombre del cliente directamente con el proveedor y escalar el problema a instancias superiores dentro de la organización de soporte del proveedor si es necesario. 
+                    p Existe una gran variedad de programas de atención al cliente disponibles con la planificación proactiva de las actividades futuras con el cliente en los más avanzados.
+                  .col-lg-5
+                    img(src="@/assets/curso/temas/tema2/img43.png", alt="")
+
+
+              div(titulo="Servicios gestionados")
+                .row.justify-content-center
+                  .col-md-6
+                    p.mb-0 La forma más avanzada de asociación con el proveedor es la provisión de servicios administrados (MSP), los socios de nivel MSP son capaces de ofrecer un paquete completo de servicios expertos para mantener la pila de aplicaciones del cliente en la nube funcionando 24 horas al día, 7 días a la semana.
+                    p El objetivo es permitir que el departamento TI del cliente se concentre en las actividades principales del negocio mientras el socio se encarga del mantenimiento, las reparaciones y la configuración de la infraestructura. 
+                  .col-lg-5
+                    img(src="@/assets/curso/temas/tema2/img44.png", alt="")
+        .py-3
+        p A modo de clasificación general resumida, únicamente como ayuda para la identificación de las actividades principales en un mercado competitivo entre socios cada vez más diverso y variado, a continuación, se indican los roles y actividades principales de los partners.  El objetivo de esta introducción es la de diferenciar la labor de los partners con respecto al rol y actividades de los proveedores de forma más clara.
+        .py-3
+        TabsB.color-primario
+          .py-4.py-md-5(titulo="Partner como proveedor" :icono="require('@/assets/curso/temas/tema2/img45.svg')")
+            .row.justify-content-center.align-items-center(data-aos="fade-left")
+              .col-md-6.mb-4.mb-md-0
+                ul.lista-ul--color
+                  li 
+                    i.fas.fa-chevron-right
+                    | Utiliza su experiencia para analizar modelos comerciales.
+
+                  li
+                    i.fas.fa-chevron-right
+                    | Crea servicios en la nube personalizados para satisfacer las necesidades de negocio de los clientes.
+
+                  li 
+                    i.fas.fa-chevron-right
+                    | Admite solicitudes de usuarios finales.
+
+                  li
+                    i.fas.fa-chevron-right
+                    | Cobra tarifas a los clientes.
+              .col-md-4
+                figure
+                  img(src='@/assets/curso/temas/tema2/img49.svg', alt='Texto que describa la imagen')
+
+          .py-4.py-md-5(titulo="Partner como comprador" :icono="require('@/assets/curso/temas/tema2/img46.svg')")
+            .row.justify-content-center.align-items-center(data-aos="fade-left")
+              .col-md-6.mb-4.mb-md-0
+                ul.lista-ul--color
+                  li 
+                    i.fas.fa-chevron-right
+                    | Asesora a los clientes para garantizar que una solución en la nube se utilice en todo su potencial.
+
+                  li
+                    i.fas.fa-chevron-right
+                    | Aprovecha recursos propios de valor añadido (una red extensa, una marca de renombre y escala) para comprar servicios en la nube que se ajustan al modelo comercial de un cliente.
+
+                  li 
+                    i.fas.fa-chevron-right
+                    | Trabaja junto con un cliente para la instalación de la aplicación de servicio en la nube que compra.
+                  
+                  li 
+                    i.fas.fa-chevron-right
+                    | Proporciona soporte al servicio en nube.
+              .col-md-4
+                figure
+                  img(src='@/assets/curso/temas/tema2/img50.svg', alt='Texto que describa la imagen')
+     
+          .py-4.py-md-5(titulo="Partner como soporte" :icono="require('@/assets/curso/temas/tema2/img47.svg')")
+            .row.justify-content-center.align-items-center(data-aos="fade-left")
+              .col-md-6.mb-4.mb-md-0
+                ul.lista-ul--color
+                  li 
+                    i.fas.fa-chevron-right
+                    | Actúa como comerciante vendiendo el software del proveedor a sus clientes nuevos y existentes.
+
+                  li
+                    i.fas.fa-chevron-right
+                    | Trabaja con un cliente para instalar y respaldar la infraestructura tecnológica necesaria para ejecutar un servicio en la nube (por ejemplo, red y alojamiento). Mientras que el proveedor de servicios en la nube crea y actualiza el software, el socio gestiona las relaciones entre el proveedor y los clientes.
+              .col-md-4
+                figure
+                  img(src='@/assets/curso/temas/tema2/img51.svg', alt='Texto que describa la imagen')
+
+          .py-4.py-md-5(titulo="Partner como orquestador de segundo nivel" :icono="require('@/assets/curso/temas/tema2/img48.svg')")
+            .row.justify-content-center.align-items-center(data-aos="fade-left")
+              .col-md-6.mb-4.mb-md-0
+                ul.lista-ul--color
+                  li 
+                    i.fas.fa-chevron-right
+                    | Trabaja en estrecha colaboración con los proveedores para agregar e integrar varios servicios en la nube para un cliente.
+
+                  li
+                    i.fas.fa-chevron-right
+                    | Interactúa con sus clientes únicamente a través de un ecosistema de segundo nivel
+
+                  li 
+                    i.fas.fa-chevron-right
+                    | Proporciona recomendaciones para servicios en la nube o para obtener el máximo valor de un servicio según los datos de uso del cliente.
+
+                  li
+                    i.fas.fa-chevron-right
+                    | Diseña portales web fáciles de usar con gestión de identidad para el cliente.
+              .col-md-4
+                figure
+                  img(src='@/assets/curso/temas/tema2/img52.svg', alt='Texto que describa la imagen')
+
+
+        Separador
+        #t_2_4.titulo-segundo.color-acento-contenido
+         h2 2.4 Desarrollador de servicios de nube
+
+        p Es el responsable de diseñar, desarrollar, probar y mantener la implementación de un servicio en la nube, esto puede implicar componer la implementación del servicio a partir de implementaciones de servicios existentes.
+        p El integrador de servicios en la nube y el desarrollador de componentes de servicios en la nube describen sub-roles del desarrollador de servicios en la nube, donde el integrador de servicios en la nube se ocupa de la composición de un servicio desde otros servicios y donde el desarrollador del componente del servicio en la nube se ocupa del diseño, creación, prueba y mantenimiento de componentes de servicio individuales. Esto incluye implementaciones de servicios y componentes de servicios que implican interacciones con proveedores de servicio homólogos.
+        p Las actividades de computación en la nube del desarrollador de servicios en la nube incluyen:
+        
+        .bg2.mb-4(data-aos="fade-down")
+          SlyderA(tipo="b").p-4
+            .row.justify-content-center.align-items-center(data-aos="fade-left").p-4
+              .col-md-6.mb-4.mb-md-0
+                h4.py-2 Diseñar, crear y mantener componentes de servicio
+                p Esta actividad implica la gestión de la relación comercial del proveedor con el cliente en la nube, que incluye:
+                ul.lista-ul--color
+                  li 
+                    i.fas.fa-chevron-right
+                    | Diseñar y crear componentes de software que son parte de la implementación de un servicio.
+
+                  li
+                    i.fas.fa-chevron-right
+                    | Crear la funcionalidad que se ofrece a los usuarios del servicio, lo que también implica conectar los componentes del servicio a los sistemas de soporte operativo del proveedor, de modo que la implementación del servicio pueda ser monitoreada y controlada.
+
+                  li 
+                    i.fas.fa-chevron-right
+                    | Procesar informes de problemas relacionados con el funcionamiento de la implementación de un servicio.
+
+                  li
+                    i.fas.fa-chevron-right
+                    | Proporcionar arreglos para las implementaciones de servicios.
+
+                  li
+                    i.fas.fa-chevron-right
+                    | Proporcionar mejoras a las implementaciones de servicios.
+       
+              .col-md-5.mb-3.mb-md-0
+                img(src='@/assets/curso/temas/tema2/img53.svg', alt='')
+            
+            .row.justify-content-center.align-items-center(data-aos="fade-left").p-4
+              .col-md-6.mb-4.mb-md-0
+                h4.py-2 Redactar servicios
+                p Esta actividad consiste en la composición de servicios utilizando servicios existentes e implica:
+                ul.lista-ul--color
+                  li 
+                    i.fas.fa-chevron-right
+                    | Crear funcionalidad de servicio mediante la composición de uno o más servicios existentes proporcionados en otro lugar.
+
+                  li
+                    i.fas.fa-chevron-right
+                    | Describir los aspectos técnicos del servicio (interfaces funcionales, SLA, entre otros).
+
+                  li 
+                    i.fas.fa-chevron-right
+                    | Diseñar una interfaz para el cliente del servicio en la nube que represente los servicios compuestos a través de múltiples ofertas de proveedores de servicios en la nube.
+
+                  li 
+                    i.fas.fa-chevron-right
+                    | Realizar una composición que pueda implicar la intermediación, agregación o arbitraje de los servicios existentes.
+              .col-md-5.mb-3.mb-md-0
+                img(src='@/assets/curso/temas/tema2/img54.svg', alt='')
+           
+            .row.justify-content-center.align-items-center(data-aos="fade-left").p-4
+              .col-md-6.mb-4.mb-md-0
+                h4.py-2 Servicios de prueba/test
+                p Esta actividad tiene por objetivo probar los componentes y servicios creados por el desarrollador de servicios en la nube. Esta actividad implica:
+                ul.lista-ul--color
+                  li 
+                    i.fas.fa-chevron-right
+                    | Realizar pruebas de los componentes que componen la implementación de un servicio para asegurar que realizan la funcionalidad del servicio completa y correctamente.
+
+                  li
+                    i.fas.fa-chevron-right
+                    | Garantizar la interoperabilidad con los servicios en la nube proporcionados por un proveedor de servicios en la nube homólogo.
+                  li 
+                    i.fas.fa-chevron-right
+                    | Pruebas que deben incluir la verificación de que las conexiones a los sistemas de soporte operativo del proveedor de servicios en la nube funcionan correctamente. Como resultado, normalmente es necesario realizar algunas de las pruebas en un área de prueba del Datacenter del proveedor de servicios en la nube.
+              .col-md-5.mb-3.mb-md-0
+                img(src='@/assets/curso/temas/tema2/img55.svg', alt='')
+        Separador
+        #t_2_5.titulo-segundo.color-acento-contenido
+         h2 2.5 Auditor de servicios en la nube
+
+        p El auditor de la nube es el responsable de realizar una auditoría de la provisión y uso de los servicios en la nube, una auditoría de la nube generalmente cubre las operaciones, el rendimiento y la seguridad y examina si se cumple un conjunto específico de criterios de auditoría. 
+
+        .cajon.color-secundario.bg-9.p-4.mb-4
+          p Los criterios de auditoría son el conjunto de requisitos a verificar y que pueden proceder de normas internacionales (por ejemplo: normas ISO), regulatorias (por ejemplo: del propio sector económico o industrial en el que la organización desarrolla sus actividades de negocio principales), normativas (por ejemplo: políticas internas de la organización), legales (por ejemplo: leyes para el almacenamiento, intercambio y/o tratamientos de datos como el artículo 2 de la Ley 1581 de 2012, de propiedad intelectual, de privacidad como el artículo 4 de la Ley 1581 de 2012) y/o contractuales (por ejemplo: compromisos en los contratos).
+
+        p En el área de las normas internacionales, se ha mencionado la relevancia en el cumplimiento de los criterios para la seguridad de la información indicados en la norma ISO/IEC 27001.
+        p Este estándar se complementa con adaptaciones específicas en su interpretación a aspectos como los servicios en nube (ISO 27017), privacidad (ISO 27701) o en sectores de actividad de alta sensibilidad como sector hospitalario (ISO 27799) para la interpretación de controles en seguridad, entre otras guías de apoyo de la “serie 27000” de publicaciones relacionadas.
+
+     
+        .row.justify-content-center(data-aos="fade-left")
+          .col-lg-10.fondopink
+            .row.justify-content-center.align-items-center(data-aos="fade-left").p-4
+              .col-lg-8
+                h5 Las actividades de computación en la nube del auditor de servicios en la nube incluyen:
+
+            .row.justify-content-center.align-items-center(data-aos="fade-left").p-4
+              .col-lg-7
+                h4.subtitulo2 Realizar una auditoría
+                ul.lista-ul--color
+                  li 
+                    i.fas.fa-chevron-right
+                    | Solicitar u obtener evidencia de auditoría.
+
+                  li
+                    i.fas.fa-chevron-right
+                    | Realizar las pruebas necesarias en el sistema que se audita.
+
+                  li 
+                    i.fas.fa-chevron-right
+                    | Obtener evidencia mediante programación, a través de un conjunto de interfaces proporcionadas por el sistema que se audita.
+
+                  li
+                    i.fas.fa-chevron-right
+                    | Redactar la evidencia, si es necesario, para proteger información sensible o información sujeta a control regulatorio (por ejemplo, PII).
+
+                  li 
+                    i.fas.fa-chevron-right
+                    | Comparar la evidencia de auditoría obtenida con los criterios de auditoría descritos por el esquema o estándar de auditoría que se está utilizando.
+              .col-lg-4
+                img(src='@/assets/curso/temas/tema2/img56.svg', alt='')
+            
+            img(src='@/assets/curso/temas/tema2/blanca.svg', alt='')
+    
+            .row.justify-content-center.align-items-center(data-aos="fade-left").p-4
+              .col-lg-5
+                h4.subtitulo2 Informar los resultados de la auditoría
+                img(src='@/assets/curso/temas/tema2/img57.svg', alt='')
+              .col-lg-7
+                p El informe documentado y la forma de entrega, puede ser prescrito por el esquema de auditoría que se está utilizando. Los resultados de la auditoría pueden entregarse al proveedor de servicios en la nube, o posiblemente a solicitud de un CSP, según la situación comercial o el contexto legal. Esta actividad implica:
+                ul.lista-ul--color
+                  li 
+                    i.fas.fa-chevron-right
+                    | Proporcionar un informe documentado de los resultados de la realización de una auditoría, por ejemplo, en un determinado servicio en la nube o en un proveedor de servicios en la nube o en el uso de un servicio en la nube por parte del cliente.
 </template>
 
 <script>
