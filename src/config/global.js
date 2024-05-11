@@ -37,22 +37,22 @@ export default {
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Tipos de software',
+            titulo: 'Tipos de servicios y modelos Cloud ',
             hash: 't_1_1',
           },
           {
             numero: '1.2',
-            titulo: 'Escalabilidad',
+            titulo: 'Capas funcionales: usuario, acceso, servicio y recursos',
             hash: 't_1_2',
           },
           {
             numero: '1.3',
-            titulo: 'Licenciamiento',
+            titulo: 'Relaciones entre la vista del usuario y la funcionalidad',
             hash: 't_1_3',
           },
           {
             numero: '1.4',
-            titulo: 'Marcos de referencia y buenas prácticas',
+            titulo: 'Consideraciones operativas de los servicios en la nube',
             hash: 't_1_4',
           },
         ],
@@ -66,38 +66,28 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: ' Historia',
+            titulo: 'Roles asociados al cliente',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
-            titulo: 'Conceptos básicos y componentes de una red',
+            titulo: 'Roles y actividades asociadas al proveedor',
             hash: 't_2_2',
           },
           {
             numero: '2.3',
-            titulo: 'Medios de transmisión',
+            titulo: 'Roles y actividades asociadas a los partners',
             hash: 't_2_3',
           },
           {
             numero: '2.4',
-            titulo: 'Protocolos de comunicación',
+            titulo: 'Desarrollador de servicios de nube',
             hash: 't_2_4',
           },
           {
             numero: '2.5',
-            titulo: 'Clasificación de redes',
+            titulo: 'Auditor de servicios en la nube',
             hash: 't_2_5',
-          },
-          {
-            numero: '2.6',
-            titulo: 'Topologías de redes',
-            hash: 't_2_6',
-          },
-          {
-            numero: '2.7',
-            titulo: 'Modelo TCP/IP y OSI',
-            hash: 't_2_7',
           },
         ],
       },

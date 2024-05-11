@@ -29,13 +29,13 @@
               h4.py-2.text-center.txt-naranja Pass
               p.text-white.text-center Se refiere a un servicio que ofrece una plataforma para desarrollar y ejecutar aplicaciones, usualmente incluye un lenguaje de programación, acceso a APIS, farmework de desarrollo, bases de datos entre otros.
     
-          .col-lg-3.col-12.mb-4-lg-0
+          .col-lg-3.col-12.mb-4-lg-0.py-2
             .tarjeta.resaltado-azul.p-4
               img.recurso(src='@/assets/curso/temas/tema1/img3.svg' alt='AvatarTop')
               h4.py-2.text-center.txt-naranja Sass
               p.text-center.text-white Es el acceso a Aplicaciones o plataformas totalmente administradas por el proveedor, el cliente solo requiere de un navegador y conexión a internet para acceder a los servicios contratados.
           
-          .col-lg-3.col-12.mb-4-lg-0
+          .col-lg-3.col-12.mb-4-lg-0.py-2
             .tarjeta.resaltado-azul.p-4
               img.recurso(src='@/assets/curso/temas/tema1/img4.svg' alt='AvatarTop')
               h4.py-2.text-center.txt-naranja Idas
@@ -72,7 +72,7 @@
                 .col-md-8.mb-4.mb-md-0
                   p.text-small Incluyen funciones de recuperación ante desastres como copia de seguridad y replicación, servicios de regulación de implementación que hacen cumplir las reglas sobre los tipos y la configuración de servicios que se pueden usar, automatización de la configuración y servicios de monitoreo que brindan información (en algunos casos, en tiempo real o alertas casi en tiempo real) sobre problemas de rendimiento y seguridad.,
  
-          .col-lg-4.col-7 
+          .col-lg-4.col-7.py-2 
             img(alt="" src="@/assets/curso/temas/tema1/img5.svg")
 
         Separador
@@ -97,7 +97,7 @@
             .row.justify-content-center.align-items-center(data-aos="fade-left")
               .col-md-8.mb-4.mb-md-0
                 p  La capa de usuario es la interfaz de usuario a través de la cual un cliente de servicios en la nube interactúa con el proveedor de servicios en la nube y con los servicios en la nube, realiza actividades administrativas relacionadas con el cliente y monitorea los servicios adquiridos por su organización.
-              .col-md-4
+              .col-md-4.col-8
                 figure
                   img(src='@/assets/curso/temas/tema1/img7.1.svg', alt='Texto que describa la imagen')
 
@@ -105,7 +105,7 @@
             .row.justify-content-center.align-items-center(data-aos="fade-left")
               .col-md-8.mb-4.mb-md-0
                 p This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion.
-              .col-md-4
+              .col-md-4.col-8
                 figure
                   img(src='@/assets/curso/temas/tema1/img8.1.svg', alt='Texto que describa la imagen')
      
@@ -114,7 +114,7 @@
               .col-md-8.mb-4.mb-md-0
                 p Contiene la implementación de los servicios que proporciona el proveedor. Esta capa contiene y controla los componentes de software que implementan los servicios, sin incluir aquellos componentes subyacentes como los hipervisores, los sistemas operativos, los controladores de dispositivos, entre otros; y se encarga de ofrecer los servicios en la nube a los usuarios a través de la capa de acceso.
                 p El software de implementación de servicios en esta capa, a su vez, se basa en las capacidades disponibles en la capa de recursos, para proporcionar los servicios que se ofrecen y así garantizar que se cumplan los requisitos de cualquier acuerdo de nivel de servicio (SLA-Service Level Agreement), por ejemplo, mediante el uso de suficientes recursos.
-              .col-md-4
+              .col-md-4.col-8
                 figure
                   img(src='@/assets/curso/temas/tema1/img9.1.svg', alt='Texto que describa la imagen')
       
@@ -124,7 +124,7 @@
                 p En esta capa es donde residen los recursos y que incluye equipamiento típico de un Datacenter como: servidores, switches y routers de red, dispositivos de almacenamiento y también el software correspondiente no específico de la nube que se ejecuta en los servidores y otros equipos como sistemas operativos host, hipervisores, controladores de dispositivos y software de gestión de sistemas genérico.
                 |La capa de recursos también representa y aloja la funcionalidad de la red de transporte en la nube, necesaria para la conectividad de red subyacente entre el proveedor de servicios en la nube y los usuarios, así como en la parte interna del propio proveedor de servicios en la nube y sus proveedores de servicios de soporte asociados en la cadena de provisión.
                 |Tenga en cuenta que para que un proveedor de servicios en la nube proporcione servicios consistentes con el SLA, puede requerir conexiones dedicadas y/o seguras entre los usuarios y el proveedor de servicios en la nube.
-              .col-md-4
+              .col-md-4.col-8
                 figure
                   img(src='@/assets/curso/temas/tema1/img10.1.svg', alt='Texto que describa la imagen')
         .py-4  
@@ -226,13 +226,13 @@
               h5.py-3.text-center.txt-naranja Aplicación
               p.text-white.text-center.text-small Se encuentra en la capa más alta, es un servicio ofrecido bajo demanada a través de multitenencia, es accesible por medio de un navegador web, el usuario no tiene control sobre ella, y posibilita la reducción de costos de soporte y mantenimiento.
           
-          .col-lg-3.col-12.mb-4-lg-0
+          .col-lg-3.col-12.mb-4-lg-0.py-2
             .tarjeta.resaltado-azul.p-4.tamano-tarjeta
               img.recurso(src='@/assets/curso/temas/tema1/img3.svg' alt='AvatarTop')
               h5.py-2.text-center.txt-naranja Servicios de networking (Acceso a Redes)
               p.text-center.text-white.text-small Aquí, el proveedor proporciona la plataforma para el desarrollo de aplicaciones, así como su mantenimiento y gestión. Es decir, ofrece todo lo que se necesita para completar el ciclo de vida y despliegue de dichas aplicaciones o servicios web. El usuario carece de control sobre la infraestructura de almacenamiento o redes.
           
-          .col-lg-3.col-12.mb-4-lg-0
+          .col-lg-3.col-12.mb-4-lg-0.py-2
             .tarjeta.resaltado-azul.p-4.tamano-tarjeta
               img.recurso(src='@/assets/curso/temas/tema1/img4.svg' alt='AvatarTop')
               h5.py-3.text-center.txt-naranja Infraestructura
@@ -294,14 +294,14 @@
               .row.justify-content-center.align-items-center(data-aos="fade-rigth")
                 .col-md-5
                   p.mb-0 Incluye componentes funcionales que facilitan la distribución de funciones y la interconexión.
-                .col-md-6.col-9
+                .col-md-6.col-9.py-2
                   img(src="@/assets/curso/temas/tema1/img20.png", alt="")
 
             div(titulo="Capa de servicio")
               .row.justify-content-center.align-items-center(data-aos="fade-rigth") 
                 .col-md-5
                   p.mb-0 Incluye componentes funcionales que proporcionan los propios servicios en la nube más las capacidades administrativas y comerciales relacionadas, y las capacidades de orquestación necesarias para realizarlos.
-                .col-md-6.col-9
+                .col-md-6.col-9.py-2
                   img(src="@/assets/curso/temas/tema1/img21.png", alt="")
           
             div(titulo="Capa de recursos")
@@ -399,7 +399,7 @@
               .row(numero="6" titulo="Gestión de conexiones")
                 .col-md-12.mb-4.mb-md-0
                   p.text-small Este componente funcional proporciona la aplicación de las políticas de QoS con respecto al tráfico desde y/o hacia los componentes funcionales de la capa de usuario. El componente funcional de gestión de la conexión interactúa con las funciones de múltiples capas para recuperar las políticas almacenadas allí y las aplica localmente en la capa de acceso.
-        .col-lg-5
+        .col-lg-5.col-8.py-3
           img(src="@/assets/curso/temas/tema1/img27.svg", alt="")
       .py-4
       .row.py-4
@@ -443,7 +443,7 @@
         .row.p-4.mb-4.justify-content-center.align-items-center
           .col-lg-10
             .row.cajon-gris.justify-content-center.align-items-center(data-aos="fade-left").p-4
-              .col-lg-2
+              .col-lg-2.col-8.py-2
                 img(src='@/assets/curso/temas/tema1/img32.svg', alt='')
               .col-lg-9
                 p.mb-4 Existen aspectos transversales que, como su nombre lo indica, aplican tanto a la vista del usuario como en la arquitectura y en lo funcional del lado del proveedor de servicios de computación en la nube. Estos aspectos transversales son cuestiones compartidas entre los roles, actividades y componentes funcionales que aplican a roles y sub-roles en la vista del usuario y deben considerarse en las actividades que desempeñan directa o indirectamente.
@@ -468,7 +468,7 @@
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
         h2 Auditabilidad
         .row.justify-content-center.align-items-center(data-aos="fade-left").p-4
-          .col-lg-4
+          .col-lg-4.col-8.py-2
             img(src='@/assets/curso/temas/tema1/img36.svg', alt='')
           .col-lg-8
             p Hace referencia a la propiedad o capacidad de poder auditarse, este es un aspecto que se refiere a la capacidad de recopilar y poner a disposición la información probatoria necesaria relacionada con la operación y el uso de un servicio en la nube, con el objetivo de realizar una auditoría. 
@@ -549,7 +549,7 @@
         .row.justify-content-center.align-items-center(data-aos="fade-left")
           .col-lg-6
             img(src='@/assets/curso/temas/tema1/img38.svg', alt='')
-          .col-lg-6
+          .col-lg-6.py-2
             p Este aspecto se refiere a la propiedad de poder garantizar que los servicios estén siempre disponibles, o accesibles y utilizables en todo momento a pedido de una entidad autorizada. La “entidad autorizada” suele ser un cliente de servicios en la nube.
             p La implicación de este aspecto se integra dentro de otros aspectos que se explican de forma más amplia como el de la seguridad y del gobierno, tal y como se puede ver más adelante.
             p La disponibilidad como tal en los servicios en nube es un aspecto que debe ser concretizado en los SLA asociados.
@@ -571,7 +571,7 @@
             .row.justify-content-center.align-items-center(data-aos="fade-left").fondo2.p-2
               .col-lg-8
                 p.px-3 Adicionalmente se conoce el término de gobierno externo de la nube al acuerdo entre el cliente y el proveedor de servicios en la nube respecto al uso de los servicios por parte del cliente, puede hacer referencia a un acuerdo de nivel de servicio que proporciona información detallada sobre los aspectos funcionales y no funcionales de los servicios.
-              .col-lg-4
+              .col-lg-4.py-2
                 img.desbordante(src='@/assets/curso/temas/tema1/img40.svg', alt='')
 
         .py-4
@@ -602,10 +602,10 @@
             p En cualquier caso, el proveedor es responsable del entorno en el que se ejecutan los componentes de la aplicación, que varía según los detalles del servicio pero que puede incluir elementos como los recursos de hardware, el sistema operativo o el middleware.
             .cajon.color-secundario.bg-9.p-4.mb-4
               p Aunque inicialmente es interesante para el cliente que un servicio o una plataforma de servicios se actualice o se arregle hay que considerar que cualquier cambio en el comportamiento de un servicio puede tener un impacto negativo en la parte del cliente y que acarrea, frecuentemente, cambios en los componentes de la aplicación y en los sistemas TIC del cliente y/o nuevas acciones de capacitación de los usuarios del servicio del proveedor. Por tanto, es importante que el mantenimiento de los servicios esté sujeto a prácticas de gobierno transparentes para que el proveedor pueda estar en la mejor posición para estar prevenido anticipando acciones internas convenientemente y con el objetivo de evitar impactos significativos en el negocio.
-          .col-lg-4
+          .col-lg-4.col-8
             img(src='@/assets/curso/temas/tema1/img42.svg', alt='')
         
-        p Las prácticas de mantenimiento en los servicios deben estar documentadas en el SLA e incluir la capacidad para que el cliente informe problemas y solicite soluciones junto a mecanismos de comunicación para que el proveedor notifique al cliente los cambios asociados a mantenimientos pendientes y su programación en el tiempo.
+        p.py-2 Las prácticas de mantenimiento en los servicios deben estar documentadas en el SLA e incluir la capacidad para que el cliente informe problemas y solicite soluciones junto a mecanismos de comunicación para que el proveedor notifique al cliente los cambios asociados a mantenimientos pendientes y su programación en el tiempo.
 
         .row.justify-content-center.t1-1.mb-5(data-aos="fade-down")
           .col-lg-10      

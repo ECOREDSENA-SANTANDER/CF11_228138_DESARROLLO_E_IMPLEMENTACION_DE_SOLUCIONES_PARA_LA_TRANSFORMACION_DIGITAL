@@ -15,11 +15,11 @@
           h3 Roles y responsabilidades
           p La definición de roles y responsabilidades asociadas a la adquisición y uso de servicios en la nube tiene relación adicional directa con las competencias que las personas designadas deben disponer para un desarrollo eficaz de las actividades.
           .row.cajon-gris.justify-content-center.align-items-center(data-aos="fade-left").p-4
-            .col-lg-2
+            .col-lg-2.col-8.py-2
               img(src='@/assets/curso/temas/tema1/img32.svg', alt='')
             .col-lg-9
               p.mb-4 Cuanto mayor y/o más compleja se vuelve una organización, un mayor nivel de formalización y documentación asociada a la descripción y designación de los roles y responsabilidades que intervienen en los procesos se pueden encontrar y que además habilitan a la organización para el desarrollo de las competencias, alcanzar mayores grados de coordinación y eficiencia o, la incorporación de nuevo personal y rotación de este a nivel interno.
-        .col-lg-4
+        .col-lg-4.col-8
           img(src='@/assets/curso/temas/tema2/img01.svg', alt='')
 
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
@@ -62,7 +62,7 @@
               li
                 i.fas.fa-chevron-right
                 | La invocación del servicio en la nube, que luego opera y entrega los resultados especificados.
-          .col-lg-4
+          .col-lg-4.py-2
             img(src='@/assets/curso/temas/tema2/img04.svg', alt='')
 
         .row.py-3
@@ -315,7 +315,7 @@
               .col-lg-9
                 p Un proveedor de servicios en la nube pone los servicios en la nube a disposición de los clientes de servicios en la nube, esta función (y todas sus sub-funciones) se centra en las actividades de computación necesarias en la nube para proporcionar un servicio allí y para garantizar su entrega al proveedor, así como el mantenimiento del servicio en la nube.
                 p Adicionalmente a la propia prestación del servicio, el proveedor es responsable de gestionar la relación comercial con los clientes del servicio en la nube; se indica a continuación los sub-roles más habituales en el lado del proveedor con las actividades típicas relacionadas.
-              .col-lg-3
+              .col-lg-3.col-8
                 img(src='@/assets/curso/temas/tema2/img21.png', alt='')
         .py-3
         .row.py-3
@@ -459,7 +459,7 @@
                       i.fas.fa-chevron-right
                       | Informar de un problema si no se puede mantener el cumplimiento.
       
-          .col-lg-4.col-7 
+          .col-lg-4.col-8.py-3
             img(alt="" src="@/assets/curso/temas/tema2/img28.svg")
 
         .py-4
@@ -611,7 +611,7 @@
               i.fas.fa-chevron-right
               | Coordinar las credenciales de identidad y seguridad entre el cliente y todos los proveedores homólogos. 
         
-        .col-lg-4
+        .col-lg-4.col-8.py-2
           img(src='@/assets/curso/temas/tema2/img34.png', alt='')
 
 
@@ -622,7 +622,7 @@
 
     .container.amarillo.p-4.p-md-5
       .row.justify-content-center.align-items-center(data-aos="fade-left")
-        .col-lg-4
+        .col-lg-4.col-8.py-2
           img(src='@/assets/curso/temas/tema2/img35.png', alt='')
         
         .col-lg-8
@@ -728,7 +728,7 @@
                 .row.justify-content-center.align-items-center
                   .col-md-6
                     p.mb-0 Esta actividad implica la prestación de servicios relacionados con la red, como firewalls o equilibrio de carga.
-                  .col-md-6.col-3.py-2
+                  .col-lg-6
                     img(src="@/assets/curso/temas/tema2/img37.png", alt="")
 
               div(titulo="Proporcionar servicios de gestión de red")
@@ -748,7 +748,7 @@
                       li
                         i.fas.fa-chevron-right
                         | Configurar recursos en la red para soportar un servicio en la nube.
-                  .col-md-6.col-3.py-2
+                  .col-lg-6
                     img(src="@/assets/curso/temas/tema2/img38.png", alt="")
 
 
@@ -857,7 +857,7 @@
                   li
                     i.fas.fa-chevron-right
                     | Cobra tarifas a los clientes.
-              .col-md-4
+              .col-md-4.col-8
                 figure
                   img(src='@/assets/curso/temas/tema2/img49.svg', alt='Texto que describa la imagen')
 
@@ -880,7 +880,7 @@
                   li 
                     i.fas.fa-chevron-right
                     | Proporciona soporte al servicio en nube.
-              .col-md-4
+              .col-md-4.col-8
                 figure
                   img(src='@/assets/curso/temas/tema2/img50.svg', alt='Texto que describa la imagen')
      
@@ -895,7 +895,7 @@
                   li
                     i.fas.fa-chevron-right
                     | Trabaja con un cliente para instalar y respaldar la infraestructura tecnológica necesaria para ejecutar un servicio en la nube (por ejemplo, red y alojamiento). Mientras que el proveedor de servicios en la nube crea y actualiza el software, el socio gestiona las relaciones entre el proveedor y los clientes.
-              .col-md-4
+              .col-md-4.col-8
                 figure
                   img(src='@/assets/curso/temas/tema2/img51.svg', alt='Texto que describa la imagen')
 
@@ -918,7 +918,7 @@
                   li
                     i.fas.fa-chevron-right
                     | Diseña portales web fáciles de usar con gestión de identidad para el cliente.
-              .col-md-4
+              .col-md-4.col-8
                 figure
                   img(src='@/assets/curso/temas/tema2/img52.svg', alt='Texto que describa la imagen')
 
@@ -1043,7 +1043,7 @@
                   li 
                     i.fas.fa-chevron-right
                     | Comparar la evidencia de auditoría obtenida con los criterios de auditoría descritos por el esquema o estándar de auditoría que se está utilizando.
-              .col-lg-4
+              .col-lg-4.col-8
                 img(src='@/assets/curso/temas/tema2/img56.svg', alt='')
             
             img(src='@/assets/curso/temas/tema2/blanca.svg', alt='')
@@ -1051,7 +1051,7 @@
             .row.justify-content-center.align-items-center(data-aos="fade-left").p-4
               .col-lg-5
                 h4.subtitulo2 Informar los resultados de la auditoría
-                img(src='@/assets/curso/temas/tema2/img57.svg', alt='')
+                img(src='@/assets/curso/temas/tema2/img57.svg', alt='').py-2
               .col-lg-7
                 p El informe documentado y la forma de entrega, puede ser prescrito por el esquema de auditoría que se está utilizando. Los resultados de la auditoría pueden entregarse al proveedor de servicios en la nube, o posiblemente a solicitud de un CSP, según la situación comercial o el contexto legal. Esta actividad implica:
                 ul.lista-ul--color
