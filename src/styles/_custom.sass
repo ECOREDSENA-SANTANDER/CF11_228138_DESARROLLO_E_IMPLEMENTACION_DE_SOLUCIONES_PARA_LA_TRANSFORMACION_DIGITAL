@@ -16,7 +16,22 @@
 
   100%
     transform: translateY(0px)
-
+.t1-1 .bloque-texto-g
+  border-top-left-radius: 85px
+  border-bottom-left-radius: 70px
+.t1-3 
+  .bloque-texto-g
+    border-top-left-radius: 55px
+    border-bottom-left-radius: 10px
+  .bloque-texto-g__img  
+    border-top-left-radius: 55px
+    border-bottom-left-radius: 10px
+    border-bottom-right-radius: 55px
+    border-top-right-radius: 10px
+.titulo1
+  border-color: #FF6148 !important
+  width: fit-content
+  border-bottom: solid
 // utilities ------------------------------------------
 .img75
   width: 75px
@@ -507,7 +522,35 @@ p.resaltado-caja
 .tarjeta-flip.color-acento-contenido .tarjeta-flip__contenido
   background-color: #FF8E7C
   color: #12263F
-
+.fondo-menu
+  background-image: url('../assets/curso/temas/tema1/fondo-menu.png')
+  background-size: 100% 70%
+  background-repeat: no-repeat
+  @media (max-width: 769px)
+    background-size: cover
+.menu7
+  width: 14.2%
+  @media (min-width: 577px) and (max-width: 769px)
+    width: 49%
+  @media (max-width: 576px)
+    width: 100%
+.mt-n5
+  margin-top: -5%
+.caja
+  background-color: white
+  border-radius: 10px
+  height: 180px
+  -webkit-box-shadow: 1px 8px 21px -3px rgba(179,179,179,1)
+  -moz-box-shadow: 1px 8px 21px -3px rgba(179,179,179,1)
+  box-shadow: 1px 8px 21px -3px rgba(179,179,179,1)
+  z-index: 1
+  text-align: center 
+  @media (max-width: 769px)
+    height: auto
+  img
+    width: 60px
+  a
+    font-weight: bold
 // Slyder ---------------------------------------
 
 .tabs-b.color-primario .tabs-b__tab--active

@@ -23,7 +23,7 @@
           img(src='@/assets/curso/temas/tema2/img01.svg', alt='')
 
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-      .row.justify-content-center.t1-1.mb-5(data-aos="fade-down")
+      .row.justify-content-center.t1-3.mb-5(data-aos="fade-down")
         .col-lg-10      
           .bloque-texto-g.color-secundario.p-sm-5
             .bloque-texto-g__img(
@@ -324,7 +324,13 @@
         
         p Es responsable de realizar todos los procesos y procedimientos operativos del proveedor de servicios en la nube, asegurando que todos los servicios y la infraestructura asociada cumplan con los objetivos operativos.
         p Las actividades de computación en la nube del gerente de operaciones en la nube incluyen:
-
+        
+        .row.justify-content-center.d-none.d-md-flex.mb-5(data-aos="fade-down")
+          .col-lg-9
+            ImagenInfografica.color-acento-botones
+              template(v-slot:imagen)
+                figure
+                  img(src='@/assets/curso/temas/tema2/infografia.svg',alt='') 
         .py-3
         .row.py-3
           #7.subtitulo.mb-4(data-aos="fade")
@@ -552,7 +558,7 @@
                 p Se puede proporcionar a los clientes una variedad de medios para comunicarse, desde foros a través del correo electrónico, sistemas de soporte al cliente o portales web hasta comunicación en tiempo real con el personal de soporte del proveedor.
 
 
-      .row.justify-content-center.t1-1.mb-5(data-aos="fade-down")
+      .row.justify-content-center.t1-3.mb-5(data-aos="fade-down")
         .col-lg-10      
           .bloque-texto-g.color-secundario.p-sm-5
             .bloque-texto-g__img(

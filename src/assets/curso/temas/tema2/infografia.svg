@@ -1,0 +1,180 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1152" height="1328.192" viewBox="0 0 1152 1328.192">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f5f5f5"/>
+      <stop offset="0.25" stop-color="#f5f5f5"/>
+      <stop offset="1" stop-color="#afafaf"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_1078354" data-name="Grupo 1078354" transform="translate(-232.676 -10493.223)">
+    <g id="Grupo_162471" data-name="Grupo 162471">
+      <g id="Grupo_162467" data-name="Grupo 162467">
+        <line id="Línea_1863" data-name="Línea 1863" y2="52.314" transform="translate(327.676 10961.743)" fill="none" stroke="#173d7a" stroke-width="2"/>
+        <line id="Línea_2007" data-name="Línea 2007" y2="52.314" transform="translate(327.676 11061.743)" fill="none" stroke="#173d7a" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="Grupo_162474" data-name="Grupo 162474">
+      <g id="Grupo_162472" data-name="Grupo 162472">
+        <line id="Línea_2007-2" data-name="Línea 2007" y2="108.401" transform="translate(327.676 10522.5)" fill="none" stroke="#173d7a" stroke-width="2"/>
+        <line id="Línea_2019" data-name="Línea 2019" x1="337.979" transform="translate(327.176 10522.901)" fill="none" stroke="#173d7a" stroke-width="2"/>
+      </g>
+      <g id="Grupo_162473" data-name="Grupo 162473" transform="translate(934.676 10522.5)">
+        <line id="Línea_2007-3" data-name="Línea 2007" y2="108.401" transform="translate(337.479)" fill="none" stroke="#173d7a" stroke-width="2"/>
+        <line id="Línea_2019-2" data-name="Línea 2019" x2="337.979" transform="translate(0 0.401)" fill="none" stroke="#173d7a" stroke-width="2"/>
+      </g>
+      <line id="Línea_2017" data-name="Línea 2017" y2="83.401" transform="translate(700.676 10547.5)" fill="none" stroke="#173d7a" stroke-width="2"/>
+      <line id="Línea_2018" data-name="Línea 2018" y2="83.401" transform="translate(901.676 10547.5)" fill="none" stroke="#173d7a" stroke-width="2"/>
+    </g>
+    <g id="Grupo_162470" data-name="Grupo 162470">
+      <g id="Grupo_162468" data-name="Grupo 162468" transform="translate(572)">
+        <line id="Línea_1863-2" data-name="Línea 1863" y2="52.314" transform="translate(327.676 10961.743)" fill="none" stroke="#173d7a" stroke-width="2"/>
+        <line id="Línea_2007-4" data-name="Línea 2007" y2="52.314" transform="translate(327.676 11061.743)" fill="none" stroke="#173d7a" stroke-width="2"/>
+      </g>
+      <g id="Grupo_162469" data-name="Grupo 162469" transform="translate(893)">
+        <line id="Línea_1863-3" data-name="Línea 1863" y2="52.314" transform="translate(327.676 10961.743)" fill="none" stroke="#173d7a" stroke-width="2"/>
+        <line id="Línea_2007-5" data-name="Línea 2007" y2="52.314" transform="translate(327.676 11061.743)" fill="none" stroke="#173d7a" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="Grupo_162466" data-name="Grupo 162466">
+      <line id="Línea_2009" data-name="Línea 2009" y2="52.314" transform="translate(592.676 10961.743)" fill="none" stroke="#173d7a" stroke-width="2"/>
+      <line id="Línea_2008" data-name="Línea 2008" y2="52.314" transform="translate(592.676 11061.743)" fill="none" stroke="#173d7a" stroke-width="2"/>
+      <line id="Línea_2010" data-name="Línea 2010" y2="52.314" transform="translate(592.676 11154.743)" fill="none" stroke="#173d7a" stroke-width="2"/>
+      <line id="Línea_2011" data-name="Línea 2011" y2="52.314" transform="translate(592.676 11247.743)" fill="none" stroke="#173d7a" stroke-width="2"/>
+      <line id="Línea_2012" data-name="Línea 2012" y2="52.314" transform="translate(592.676 11340.743)" fill="none" stroke="#173d7a" stroke-width="2"/>
+      <line id="Línea_2013" data-name="Línea 2013" y2="52.314" transform="translate(592.676 11433.743)" fill="none" stroke="#173d7a" stroke-width="2"/>
+      <line id="Línea_2014" data-name="Línea 2014" y2="52.314" transform="translate(592.676 11533.743)" fill="none" stroke="#173d7a" stroke-width="2"/>
+      <line id="Línea_2015" data-name="Línea 2015" y2="52.314" transform="translate(592.676 11622.743)" fill="none" stroke="#173d7a" stroke-width="2"/>
+      <line id="Línea_2016" data-name="Línea 2016" y2="52.314" transform="translate(592.676 11715.743)" fill="none" stroke="#173d7a" stroke-width="2"/>
+    </g>
+    <g id="Grupo_162465" data-name="Grupo 162465" transform="translate(0 -194.165)">
+      <rect id="Rectángulo_45377" data-name="Rectángulo 45377" width="190" height="59.357" rx="10" transform="translate(232.676 11204.223)" fill="url(#linear-gradient)"/>
+      <text id="Evaluar" transform="translate(327.348 11240.4)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-28.424" y="0">Evaluar</tspan></text>
+      <rect id="Rectángulo_48289" data-name="Rectángulo 48289" width="190" height="59.357" rx="10" transform="translate(232.676 11298.223)" fill="url(#linear-gradient)"/>
+      <text id="Modificar" transform="translate(327.347 11334.4)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-37.696" y="0">Modificar</tspan></text>
+      <rect id="Rectángulo_48290" data-name="Rectángulo 48290" width="295" height="59.357" rx="10" transform="translate(442.676 11204.223)" fill="url(#linear-gradient)"/>
+      <text id="Monitorear" transform="translate(589.583 11240.4)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-44.495" y="0">Monitorear</tspan></text>
+      <rect id="Rectángulo_48291" data-name="Rectángulo 48291" width="295" height="59.357" rx="10" transform="translate(442.676 11298.223)" fill="url(#linear-gradient)"/>
+      <rect id="Rectángulo_48294" data-name="Rectángulo 48294" width="295" height="59.357" rx="10" transform="translate(442.676 11392.223)" fill="url(#linear-gradient)"/>
+      <rect id="Rectángulo_48295" data-name="Rectángulo 48295" width="295" height="59.357" rx="10" transform="translate(442.676 11486.223)" fill="url(#linear-gradient)"/>
+      <rect id="Rectángulo_48296" data-name="Rectángulo 48296" width="295" height="59.357" rx="10" transform="translate(442.676 11580.223)" fill="url(#linear-gradient)"/>
+      <rect id="Rectángulo_48297" data-name="Rectángulo 48297" width="295" height="59.357" rx="10" transform="translate(442.676 11674.223)" fill="url(#linear-gradient)"/>
+      <rect id="Rectángulo_48298" data-name="Rectángulo 48298" width="295" height="59.357" rx="10" transform="translate(442.676 11768.223)" fill="url(#linear-gradient)"/>
+      <rect id="Rectángulo_48299" data-name="Rectángulo 48299" width="295" height="59.357" rx="10" transform="translate(442.676 11862.223)" fill="url(#linear-gradient)"/>
+      <rect id="Rectángulo_48300" data-name="Rectángulo 48300" width="295" height="59.357" rx="10" transform="translate(442.676 11956.223)" fill="url(#linear-gradient)"/>
+      <text id="Captura_de_datos" data-name="Captura de datos" transform="translate(589.544 11334.4)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-68.251" y="0">Captura de datos</tspan></text>
+      <text id="Administrar_infraestructura" data-name="Administrar infraestructura" transform="translate(589.544 11428.4)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-106.084" y="0">Administrar infraestructura</tspan></text>
+      <text id="Administrar_Almacenamiento" data-name="Administrar Almacenamiento" transform="translate(589.544 11522.4)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-115.387" y="0">Administrar Almacenamiento</tspan></text>
+      <text id="Administrar_privilegios" data-name="Administrar privilegios" transform="translate(589.544 11616.4)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-89.029" y="0">Administrar privilegios</tspan></text>
+      <text id="Configurar_sistemas_operativos" data-name="Configurar sistemas operativos" transform="translate(589.544 11710.4)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-122.432" y="0">Configurar sistemas operativos</tspan></text>
+      <text id="Administrar_entorno" data-name="Administrar entorno" transform="translate(589.544 11804.4)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-80.099" y="0">Administrar entorno</tspan></text>
+      <text id="Supervisar_entorno" data-name="Supervisar entorno" transform="translate(589.544 11898.4)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-75.103" y="0">Supervisar entorno</tspan></text>
+      <text id="Registrar_problemas" data-name="Registrar problemas" transform="translate(589.544 11992.4)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-79.497" y="0">Registrar problemas</tspan></text>
+      <rect id="Rectángulo_48292" data-name="Rectángulo 48292" width="295" height="59.357" rx="10" transform="translate(757.676 11204.223)" fill="url(#linear-gradient)"/>
+      <rect id="Rectángulo_48301" data-name="Rectángulo 48301" width="295" height="59.357" rx="10" transform="translate(1072.676 11204.223)" fill="url(#linear-gradient)"/>
+      <text id="Seguimiento_de_activos" data-name="Seguimiento de activos" transform="translate(904.583 11240.4)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-92.421" y="0">Seguimiento de activos</tspan></text>
+      <text id="Información_de_Auditoría" data-name="Información  de Auditoría" transform="translate(1219.583 11240.4)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-101.733" y="0" xml:space="preserve">Información  de Auditoría</tspan></text>
+      <rect id="Rectángulo_48293" data-name="Rectángulo 48293" width="295" height="59.357" rx="10" transform="translate(757.676 11298.223)" fill="url(#linear-gradient)"/>
+      <rect id="Rectángulo_48302" data-name="Rectángulo 48302" width="295" height="59.357" rx="10" transform="translate(1072.676 11298.223)" fill="url(#linear-gradient)"/>
+      <text id="Alta_y_baja_de_activos" data-name="Alta y baja de activos" transform="translate(904.544 11334.4)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-83.834" y="0">Alta y baja de activos</tspan></text>
+      <text id="Registro_de_Información" data-name="Registro de Información" transform="translate(1219.544 11334.4)" fill="#12263f" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-95.256" y="0">Registro de Información</tspan></text>
+    </g>
+    <rect id="Rectángulo_48307" data-name="Rectángulo 48307" width="190" height="221.786" rx="10" transform="translate(232.676 10744.124)" fill="#e8e8e8"/>
+    <rect id="Rectángulo_48308" data-name="Rectángulo 48308" width="295" height="221.786" rx="10" transform="translate(442.676 10744.124)" fill="#e8e8e8"/>
+    <rect id="Rectángulo_48309" data-name="Rectángulo 48309" width="295" height="221.786" rx="10" transform="translate(757.676 10744.124)" fill="#e8e8e8"/>
+    <rect id="Rectángulo_48310" data-name="Rectángulo 48310" width="295" height="221.786" rx="10" transform="translate(1072.676 10744.124)" fill="#e8e8e8"/>
+    <text id="Consiste_en_preparar_los_sistemas_del_entorno_del_proveedor_para_nuevas_implementaciones_de_servicios_en_la_nube." data-name="Consiste en preparar los sistemas del entorno del proveedor para nuevas implementaciones de servicios en la nube." transform="translate(245.676 10760.835)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">Consiste en preparar </tspan><tspan x="0" y="41">los sistemas del </tspan><tspan x="0" y="65">entorno del proveedor </tspan><tspan x="0" y="89">para nuevas </tspan><tspan x="0" y="113">implementaciones de </tspan><tspan x="0" y="137">servicios en la nube.</tspan></text>
+    <text id="Consiste_en_la_recopilación_y_provisión_de_datos_relevantes_para_una_solicitud_de_auditoría_como_la_relacionada_con_los_controles_de_seguridad_o_el_desempeño_del_servicio._Los_datos_solicitados_dependerán_del_esquema_o_estándar_de_auditoría_que_se_esté_ut" data-name="Consiste en la recopilación y provisión de datos relevantes para una solicitud de auditoría, como la relacionada con los controles de seguridad o el desempeño del servicio. Los datos solicitados dependerán del esquema o estándar de auditoría que se esté ut" transform="translate(1087.676 10760.835)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">Consiste en la recopilación y </tspan><tspan x="0" y="41">provisión de datos relevantes para </tspan><tspan x="0" y="65">una solicitud de auditoría, como la </tspan><tspan x="0" y="89">relacionada con los controles de </tspan><tspan x="0" y="113">seguridad o el desempeño del </tspan><tspan x="0" y="137">servicio. Los datos solicitados </tspan><tspan x="0" y="161">dependerán del esquema o estándar </tspan><tspan x="0" y="185">de auditoría que se esté utilizando.</tspan></text>
+    <text id="Consiste_en_gestionar_los_datos_de_inventario_y_activos_de_la_empresa." data-name="Consiste en gestionar los datos de inventario y activos de la empresa." transform="translate(772.676 10760.835)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">Consiste en gestionar los datos de </tspan><tspan x="0" y="41">inventario y activos de la empresa.</tspan></text>
+    <path id="Trazado_828790" data-name="Trazado 828790" d="M10,0H265.959a10,10,0,0,1,10,10V49.357a10,10,0,0,1-10,10H10a10,10,0,0,1-10-10V10A10,10,0,0,1,10,0Z" transform="translate(661.676 10493.223)" fill="#ff8e7c"/>
+    <text id="Gerente_de_Operaciones" data-name="Gerente de Operaciones" transform="translate(799.676 10529.901)" fill="#12263f" font-size="20" font-family="SegoeUIBlack, Segoe UI"><tspan x="-117.144" y="0">Gerente de Operaciones</tspan></text>
+    <rect id="Rectángulo_48303" data-name="Rectángulo 48303" width="190" height="92.112" rx="10" transform="translate(232.676 10613.223)" fill="#ffc8bf"/>
+    <rect id="Rectángulo_48304" data-name="Rectángulo 48304" width="295" height="92.112" rx="10" transform="translate(442.676 10613.223)" fill="#ffc8bf"/>
+    <rect id="Rectángulo_48305" data-name="Rectángulo 48305" width="295" height="92.112" rx="10" transform="translate(757.676 10613.223)" fill="#ffc8bf"/>
+    <rect id="Rectángulo_48306" data-name="Rectángulo 48306" width="295" height="92.112" rx="10" transform="translate(1072.676 10613.223)" fill="#ffc8bf"/>
+    <text id="_1._Preparar_sistemas" data-name="1. Preparar
+sistemas" transform="translate(329.676 10649.901)" fill="#12263f" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-47.612" y="0">1. Preparar</tspan><tspan x="-37.471" y="27">sistemas</tspan></text>
+    <text id="_2._Supervisar_y_administrar_los_servicios" data-name="2. Supervisar y administrar
+los servicios" transform="translate(580.655 10649.901)" fill="#12263f" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-115.957" y="0">2. Supervisar y administrar</tspan><tspan x="-52.568" y="27">los servicios</tspan></text>
+    <text id="_3._Gestión_de_activos_e_inventario" data-name="3. Gestión de activos
+e inventario" transform="translate(895.655 10649.901)" fill="#12263f" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-90.967" y="0">3. Gestión de activos</tspan><tspan x="-51.963" y="27">e inventario</tspan></text>
+    <text id="_4._Proporcionar_datos_de_auditoria" data-name="4. Proporcionar datos
+de auditoria" transform="translate(1210.655 10649.901)" fill="#12263f" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-94.78" y="0">4. Proporcionar datos</tspan><tspan x="-53.149" y="27">de auditoria</tspan></text>
+    <g id="Grupo_162476" data-name="Grupo 162476" transform="translate(245 -148)">
+      <circle id="Elipse_6530" data-name="Elipse 6530" cx="17" cy="17" r="17" transform="translate(154.676 11172)" fill="#2efec7"/>
+      <text id="_" data-name="+" transform="translate(171.676 11198)" fill="#12263f" font-size="26" font-family="SegoeUIBlack, Segoe UI"><tspan x="-9.293" y="0">+</tspan></text>
+    </g>
+    <g id="Grupo_162481" data-name="Grupo 162481" transform="translate(245 -58)">
+      <circle id="Elipse_6530-2" data-name="Elipse 6530" cx="17" cy="17" r="17" transform="translate(154.676 11172)" fill="#2efec7"/>
+      <text id="_2" data-name="+" transform="translate(171.676 11198)" fill="#12263f" font-size="26" font-family="SegoeUIBlack, Segoe UI"><tspan x="-9.293" y="0">+</tspan></text>
+    </g>
+    <g id="Grupo_162482" data-name="Grupo 162482" transform="translate(561 -151)">
+      <circle id="Elipse_6530-3" data-name="Elipse 6530" cx="17" cy="17" r="17" transform="translate(154.676 11172)" fill="#2efec7"/>
+      <text id="_3" data-name="+" transform="translate(171.676 11198)" fill="#12263f" font-size="26" font-family="SegoeUIBlack, Segoe UI"><tspan x="-9.293" y="0">+</tspan></text>
+    </g>
+    <g id="Grupo_162492" data-name="Grupo 162492" transform="translate(881 -151)">
+      <circle id="Elipse_6530-4" data-name="Elipse 6530" cx="17" cy="17" r="17" transform="translate(154.676 11172)" fill="#2efec7"/>
+      <text id="_4" data-name="+" transform="translate(171.676 11198)" fill="#12263f" font-size="26" font-family="SegoeUIBlack, Segoe UI"><tspan x="-9.293" y="0">+</tspan></text>
+    </g>
+    <g id="Grupo_162495" data-name="Grupo 162495" transform="translate(1196 -151)">
+      <circle id="Elipse_6530-5" data-name="Elipse 6530" cx="17" cy="17" r="17" transform="translate(154.676 11172)" fill="#2efec7"/>
+      <text id="_5" data-name="+" transform="translate(171.676 11198)" fill="#12263f" font-size="26" font-family="SegoeUIBlack, Segoe UI"><tspan x="-9.293" y="0">+</tspan></text>
+    </g>
+    <g id="Grupo_162493" data-name="Grupo 162493" transform="translate(881 -58)">
+      <circle id="Elipse_6530-6" data-name="Elipse 6530" cx="17" cy="17" r="17" transform="translate(154.676 11172)" fill="#2efec7"/>
+      <text id="_6" data-name="+" transform="translate(171.676 11198)" fill="#12263f" font-size="26" font-family="SegoeUIBlack, Segoe UI"><tspan x="-9.293" y="0">+</tspan></text>
+    </g>
+    <g id="Grupo_162494" data-name="Grupo 162494" transform="translate(1196 -58)">
+      <circle id="Elipse_6530-7" data-name="Elipse 6530" cx="17" cy="17" r="17" transform="translate(154.676 11172)" fill="#2efec7"/>
+      <text id="_7" data-name="+" transform="translate(171.676 11198)" fill="#12263f" font-size="26" font-family="SegoeUIBlack, Segoe UI"><tspan x="-9.293" y="0">+</tspan></text>
+    </g>
+    <g id="Grupo_162484" data-name="Grupo 162484" transform="translate(561 -58)">
+      <circle id="Elipse_6530-8" data-name="Elipse 6530" cx="17" cy="17" r="17" transform="translate(154.676 11172)" fill="#2efec7"/>
+      <text id="_8" data-name="+" transform="translate(171.676 11198)" fill="#12263f" font-size="26" font-family="SegoeUIBlack, Segoe UI"><tspan x="-9.293" y="0">+</tspan></text>
+    </g>
+    <g id="Grupo_162485" data-name="Grupo 162485" transform="translate(561 41)">
+      <circle id="Elipse_6530-9" data-name="Elipse 6530" cx="17" cy="17" r="17" transform="translate(154.676 11172)" fill="#2efec7"/>
+      <text id="_9" data-name="+" transform="translate(171.676 11198)" fill="#12263f" font-size="26" font-family="SegoeUIBlack, Segoe UI"><tspan x="-9.293" y="0">+</tspan></text>
+    </g>
+    <g id="Grupo_162486" data-name="Grupo 162486" transform="translate(561 134)">
+      <circle id="Elipse_6530-10" data-name="Elipse 6530" cx="17" cy="17" r="17" transform="translate(154.676 11172)" fill="#2efec7"/>
+      <text id="_10" data-name="+" transform="translate(171.676 11198)" fill="#12263f" font-size="26" font-family="SegoeUIBlack, Segoe UI"><tspan x="-9.293" y="0">+</tspan></text>
+    </g>
+    <g id="Grupo_162487" data-name="Grupo 162487" transform="translate(561 227)">
+      <circle id="Elipse_6530-11" data-name="Elipse 6530" cx="17" cy="17" r="17" transform="translate(154.676 11172)" fill="#2efec7"/>
+      <text id="_11" data-name="+" transform="translate(171.676 11198)" fill="#12263f" font-size="26" font-family="SegoeUIBlack, Segoe UI"><tspan x="-9.293" y="0">+</tspan></text>
+    </g>
+    <g id="Grupo_162488" data-name="Grupo 162488" transform="translate(561 320)">
+      <circle id="Elipse_6530-12" data-name="Elipse 6530" cx="17" cy="17" r="17" transform="translate(154.676 11172)" fill="#2efec7"/>
+      <text id="_12" data-name="+" transform="translate(171.676 11198)" fill="#12263f" font-size="26" font-family="SegoeUIBlack, Segoe UI"><tspan x="-9.293" y="0">+</tspan></text>
+    </g>
+    <g id="Grupo_162489" data-name="Grupo 162489" transform="translate(561 413)">
+      <circle id="Elipse_6530-13" data-name="Elipse 6530" cx="17" cy="17" r="17" transform="translate(154.676 11172)" fill="#2efec7"/>
+      <text id="_13" data-name="+" transform="translate(171.676 11198)" fill="#12263f" font-size="26" font-family="SegoeUIBlack, Segoe UI"><tspan x="-9.293" y="0">+</tspan></text>
+    </g>
+    <g id="Grupo_162490" data-name="Grupo 162490" transform="translate(561 506)">
+      <circle id="Elipse_6530-14" data-name="Elipse 6530" cx="17" cy="17" r="17" transform="translate(154.676 11172)" fill="#2efec7"/>
+      <text id="_14" data-name="+" transform="translate(171.676 11198)" fill="#12263f" font-size="26" font-family="SegoeUIBlack, Segoe UI"><tspan x="-9.293" y="0">+</tspan></text>
+    </g>
+    <g id="Grupo_162491" data-name="Grupo 162491" transform="translate(561 605)">
+      <circle id="Elipse_6530-15" data-name="Elipse 6530" cx="17" cy="17" r="17" transform="translate(154.676 11172)" fill="#2efec7"/>
+      <text id="_15" data-name="+" transform="translate(171.676 11198)" fill="#12263f" font-size="26" font-family="SegoeUIBlack, Segoe UI"><tspan x="-9.293" y="0">+</tspan></text>
+    </g>
+    <text id="Consiste_en_monitorear_y_administrar_servicios_y_su_infraestructura_asociada_que_incluye_los_privilegios_de_usuario_y_del_sistema." data-name="Consiste en monitorear y administrar servicios y su infraestructura asociada que incluye los privilegios de usuario y del sistema." transform="translate(459.676 10760.835)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">Consiste en monitorear y administrar </tspan><tspan x="0" y="41">servicios y su infraestructura asociada </tspan><tspan x="0" y="65">que incluye los privilegios de usuario </tspan><tspan x="0" y="89">y del sistema.</tspan></text>
+    <g id="Grupo_162477" data-name="Grupo 162477" transform="translate(1235.389 10695.593) rotate(90)">
+      <path id="Unión_62" data-name="Unión 62" d="M0,0H14.146V11.085H0Z" transform="translate(30.055 19.755) rotate(180)" fill="#ffb476"/>
+      <path id="Unión_64" data-name="Unión 64" d="M19.9,14.213,0,28.427V0Z" transform="translate(24.482 0)" fill="#ffb476"/>
+    </g>
+    <g id="Grupo_162478" data-name="Grupo 162478" transform="translate(920.389 10695.593) rotate(90)">
+      <path id="Unión_62-2" data-name="Unión 62" d="M0,0H14.146V11.085H0Z" transform="translate(30.055 19.755) rotate(180)" fill="#ffb476"/>
+      <path id="Unión_64-2" data-name="Unión 64" d="M19.9,14.213,0,28.427V0Z" transform="translate(24.482 0)" fill="#ffb476"/>
+    </g>
+    <g id="Grupo_162479" data-name="Grupo 162479" transform="translate(605.389 10695.593) rotate(90)">
+      <path id="Unión_62-3" data-name="Unión 62" d="M0,0H14.146V11.085H0Z" transform="translate(30.055 19.755) rotate(180)" fill="#ffb476"/>
+      <path id="Unión_64-3" data-name="Unión 64" d="M19.9,14.213,0,28.427V0Z" transform="translate(24.482 0)" fill="#ffb476"/>
+    </g>
+    <g id="Grupo_162480" data-name="Grupo 162480" transform="translate(340.889 10695.593) rotate(90)">
+      <path id="Unión_62-4" data-name="Unión 62" d="M0,0H14.146V11.085H0Z" transform="translate(30.055 19.755) rotate(180)" fill="#ffb476"/>
+      <path id="Unión_64-4" data-name="Unión 64" d="M19.9,14.213,0,28.427V0Z" transform="translate(24.482 0)" fill="#ffb476"/>
+    </g>
+  </g>
+</svg>

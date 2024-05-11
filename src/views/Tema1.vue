@@ -78,7 +78,7 @@
         Separador
         #t_1_2.titulo-segundo.color-acento-contenido
          h2 1.2 Capas funcionales: usuario, acceso, servicio y recursos
-        .row.justify-content-center.t1-1.mb-5(data-aos="fade-down")
+        .row.justify-content-center.t1-3.mb-5(data-aos="fade-down")
           .col-lg-10      
             .bloque-texto-g.color-secundario.p-sm-5
               .bloque-texto-g__img(
@@ -262,7 +262,7 @@
         #7.subtitulo.mb-4(data-aos="fade")
           h3.mb-0 La vista funcional
         
-        .row.justify-content-center.t1-1.mb-5(data-aos="fade-down")
+        .row.justify-content-center.t1-3.mb-5(data-aos="fade-down")
           .col-lg-10      
             .bloque-texto-g.color-secundario.p-sm-5
               .bloque-texto-g__img(
@@ -336,12 +336,29 @@
             li
               i.fas.fa-chevron-right
               | Sistemas de apoyo empresarial.
-        
-        .row.justify-content-center.align-items-center(data-aos="fade-rigth")
-          .col-lg-12
-            img(src="@/assets/curso/temas/tema1/img23.png", alt="")
 
-        .row.py-4
+      #menu1.row.justify-content-center.mb-5(data-aos="fade")
+        .col-lg-12
+          img(src='@/assets/curso/temas/menu.png')
+        .col-lg-11    
+          .tarjeta.fondo-menu.mt-n5.p-4
+            .row.justify-content-center
+              .menu7.mb-3
+                .caja.p-3
+                  img.m-auto.mb-3(src='@/assets/curso/temas/tema1/01.svg' alt='')
+                  a(href="#1", title="Redes de datos").mb-0 Capas de usuario
+              .menu7.mb-3
+                .caja.p-3
+                  img.m-auto.mb-3(src='@/assets/curso/temas/tema1/02.svg' alt='')
+                  a.indicador__container(href="#2", title="Modelos de referencia" @mouseover="mostrarIndicador = false").mb-0 Capas de acceso
+                    .indicador--click(v-if="mostrarIndicador")
+              .menu7.mb-3
+                .caja.p-3
+                  img.m-auto.mb-3(src='@/assets/curso/temas/tema1/03.svg' alt='')
+                  a(href="#3", title="Modelo de referencia TCP /IP").mb-0 Capa de servicio
+        
+
+      .row.py-4
         #7.subtitulo.mb-4(data-aos="fade")
           h3.mb-0 Capas de usuario
       
@@ -466,7 +483,7 @@
           img.d-block.d-md-none(src='@/assets/curso/temas/tema1/img35.svg',alt='')
     
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-        h2 Auditabilidad
+        h2.titulo1 Auditabilidad
         .row.justify-content-center.align-items-center(data-aos="fade-left").p-4
           .col-lg-4.col-8.py-2
             img(src='@/assets/curso/temas/tema1/img36.svg', alt='')
@@ -544,7 +561,7 @@
           .col-lg-6
             img(src='@/assets/curso/temas/tema1/img37.svg', alt='')
         .py-4
-        h2.p-4 Disponibilidad
+        h2.titulo1 Disponibilidad
 
         .row.justify-content-center.align-items-center(data-aos="fade-left")
           .col-lg-6
@@ -555,7 +572,7 @@
             p La disponibilidad como tal en los servicios en nube es un aspecto que debe ser concretizado en los SLA asociados.
 
         .py-4
-        h2.p-4 Gobernanza 
+        h2.titulo1 Gobernanza 
         .row.justify-content-center.align-items-center(data-aos="fade-left")
           .col-lg-4
             img(src='@/assets/curso/temas/tema1/img39.svg', alt='')
@@ -575,7 +592,7 @@
                 img.desbordante(src='@/assets/curso/temas/tema1/img40.svg', alt='')
 
         .py-4
-        h2 Interoperabilidad
+        h2.titulo1 Interoperabilidad
 
         p Este aspecto en el contexto de la computación en nube se refiere a la capacidad de un cliente de servicios de computación en la nube para interactuar e intercambiar información de acuerdo con un método prescrito y obtener resultados predecibles. En el siguiente vídeo se podrá conocer más a este respecto.
         
@@ -585,7 +602,7 @@
         figcaption Video. Arquitectura y servicios en la nube
 
         .py-4
-        h2 Control de versiones
+        h2.titulo1 Control de versiones
         .py-3
         .row.justify-content-center.align-items-center(data-aos="fade-left")
           .col-lg-10
@@ -607,7 +624,7 @@
         
         p.py-2 Las prácticas de mantenimiento en los servicios deben estar documentadas en el SLA e incluir la capacidad para que el cliente informe problemas y solicite soluciones junto a mecanismos de comunicación para que el proveedor notifique al cliente los cambios asociados a mantenimientos pendientes y su programación en el tiempo.
 
-        .row.justify-content-center.t1-1.mb-5(data-aos="fade-down")
+        .row.justify-content-center.t1-3.mb-5(data-aos="fade-down")
           .col-lg-10      
             .bloque-texto-g.color-secundario.p-sm-5
               .bloque-texto-g__img(
@@ -618,11 +635,11 @@
         
         p Por ejemplo, cuando se realicen cambios significativos en un servicio de una versión a una nueva, la versión más antigua del servicio debería estar disponible en paralelo con la nueva versión durante un período de tiempo acordado.
         .py-4
-        h2 Portabilidad
+        h2.titulo1 Portabilidad
         .py-3
         p Este aspecto es importante considerando que los potenciales clientes están interesados en evitar quedar cautivos del proveedor cuando eligen utilizar los servicios en la nube. 
 
-        .row.justify-content-center.t1-1.mb-5(data-aos="fade-down")
+        .row.justify-content-center.t1-3.mb-5(data-aos="fade-down")
           .col-lg-10      
             .bloque-texto-g.color-secundario.p-sm-5
               .bloque-texto-g__img(
@@ -641,7 +658,7 @@
         p De forma similar a la pérdida de la tabla de indexación de una base de datos relacional, la conservación de los metadatos en un proceso de portabilidad es fundamental para poder materializarla.
 
         .py-4
-        h2 Resiliencia
+        h2.titulo1 Resiliencia
         .py-3
         p Este aspecto se refiere a la capacidad de un sistema para proporcionar y mantener un nivel aceptable de servicio ante fallas (involuntarias, intencionales o causadas naturalmente) que afecten el funcionamiento normal.
         .py-3 
@@ -658,7 +675,7 @@
             img.d-none.d-md-block(src='@/assets/curso/temas/tema1/img46.svg', alt='').alaizq
             img.d-block.d-md-none(src='@/assets/curso/temas/tema1/img47.svg',alt='')
         .py-4
-        h2 Reservisibilidad
+        h2.titulo1 Reservisibilidad
         .py-3
         p Este aspecto es un término relacionado con el proceso para que los clientes de servicios en la nube recuperen sus datos de cliente y componentes de aplicaciones en la nube.
         p Desde el punto de vista del proveedor para que pueda eliminar todos los datos de un cliente, así como los datos derivados de la prestación del servicio de nube especificados contractualmente después de un período acordado.
