@@ -326,7 +326,7 @@
         p Las actividades de computación en la nube del gerente de operaciones en la nube incluyen:
         
         .row.justify-content-center.d-none.d-md-flex.mb-5(data-aos="fade-down")
-          .col-lg-9
+          .col-lg-12
             ImagenInfografica.color-acento-botones
               template(v-slot:imagen)
                 figure

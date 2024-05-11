@@ -327,26 +327,17 @@ export default {
   ],
   creditos: [
     {
-      titulo: 'AUTORES',
+      titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Cesar Antonio Villamizar Núñez',
-          cargo: 'Experto Temático',
-          centro: 'Regional Norte de Santander - Centro CIES',
-          fecha: 'Septiembre,2022',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo: 'Responsable del Ecosistema',
+          centro: 'Dirección General',
         },
         {
-          nombre: 'Silvia Milena Sequeda Cárdenas',
-          cargo: 'Asesor metodológico y pedagógico',
-          centro: 'Regional Distrito Capital. Centro de Diseño y Metrología. ',
-          fecha: 'Septiembre,2022',
-        },
-        {
-          nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Responsable Equipo Desarrollo Curricular',
-          centro:
-            'Regional Santander. Centro Industrial del Diseño y la Manufactura',
-          fecha: 'Septiembre,2022',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo: 'Responsable de Línea de Producción',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
@@ -354,17 +345,32 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Giovanna Andrea Escobar Ospina',
-          cargo: 'Diseñador Instruccional',
-          centro: 'Regional Norte de Santander - Centro CIES',
-          fecha: 'Septiembre,2022',
+          nombre: 'Henry Eduardo Bastidas Paruma ',
+          cargo: 'Instructor',
+          centro:
+            'Centro de teleinformática y producción industrial - Regional Cauca',
         },
         {
-          nombre: 'Fabián Leonardo Correa Díaz',
-          cargo: 'Diseñador Instruccional',
+          nombre: 'María Inés Machado López',
+          cargo: 'Diseñadora Instruccional',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Silvia Milena Sequeda Cárdenas',
+          cargo: 'Evaluadora instruccional',
+          centro: 'Centro de gestión industrial - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Asesor pedagógico',
           centro:
-            'Regional Norte de Santander. Centro de la Industria, la Empresa y los Servicios',
-          fecha: 'Septiembre,2022',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          cargo: 'Revisión y corrección de estilo',
+          centro:
+            'Centro para la Industria de la Comunicación Gráfica - Distrito capital',
         },
       ],
     },
@@ -372,23 +378,18 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Yazmin Rocio Figueroa Pacheco',
           cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Leonardo Castellanos Rodriguez',
-          cargo: 'Ingeniero desarrollador Full Stack',
-          centro: 'Regional Santander. San Gil',
+          cargo: 'Desarrollador Fullstack',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Nombre',
+          nombre: '',
           cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -397,9 +398,19 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '',
-          cargo: '',
-          centro: '',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+        {
+          nombre: 'Laura Paola Gelvez Manosalva',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
+        {
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
     },
