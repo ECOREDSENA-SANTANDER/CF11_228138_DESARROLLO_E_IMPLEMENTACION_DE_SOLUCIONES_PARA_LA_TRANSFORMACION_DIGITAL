@@ -5,7 +5,7 @@
       .titulo-principal.color-acento-botones
         .titulo-principal__numero
           span 1
-        h1 Arquitectura Cloud Computing
+        h1 Arquitectura #[em Cloud Computing]
     .container.fondo1
       .row.justify-content-center.align-items-center(data-aos="fade-left")
         .col-lg-5.col-8.p-3
@@ -16,18 +16,18 @@
       
         Separador
         #t_1_1.titulo-segundo.color-acento-contenido
-         h2 1.1 Tipos de servicios y modelos Cloud 
+         h2 1.1 Tipos de servicios y modelos #[em Cloud]
 
         .row.justify-content-center.align-items-center(data-aos="fade-rigth")
           .col-lg-4.justify-content-center
-            p Los servicios tradicionales se categorizan en tres tipos
+            p Los servicios tradicionales se categorizan en tres tipos:
       
         .row.justify-content-center.align-items-center(data-aos="fade-right")
           .col-lg-3.col-12.mb-4-lg-0.py-2
             .tarjeta.resaltado-azul.p-4
               img.recurso(src='@/assets/curso/temas/tema1/img2.svg' alt='AvatarTop')
               h4.py-2.text-center.txt-naranja Pass
-              p.text-white.text-center Se refiere a un servicio que ofrece una plataforma para desarrollar y ejecutar aplicaciones, usualmente incluye un lenguaje de programación, acceso a APIS, farmework de desarrollo, bases de datos entre otros.
+              p.text-white.text-center Se refiere a un servicio que ofrece una plataforma para desarrollar y ejecutar aplicaciones, usualmente incluye un lenguaje de programación, acceso a APIS, #[em framework] de desarrollo, bases de datos entre otros.
     
           .col-lg-3.col-12.mb-4-lg-0.py-2
             .tarjeta.resaltado-azul.p-4
@@ -39,26 +39,26 @@
             .tarjeta.resaltado-azul.p-4
               img.recurso(src='@/assets/curso/temas/tema1/img4.svg' alt='AvatarTop')
               h4.py-2.text-center.txt-naranja Idas
-              p.text-center.text-white Proporciona el hardware virtualizado en forma de máquinas virtuales en diferentes instancias de Sistemas operativos o Contenedores generalmente docker, incluye de igual manera el networking. 
+              p.text-center.text-white Proporciona el #[em hardware] virtualizado en forma de máquinas virtuales en diferentes instancias de Sistemas operativos o Contenedores generalmente #[em docker], incluye de igual manera el #[em networking]. 
         .py-4
-        p Los proveedores de servicios de computación en la nube (CSP) actuales, ofrecen una variedad de servicios disponibles y listos para dar respuesta a los problemas o necesidades del cliente, estos servicios pueden ser adquiridos solos independientes o en combinación de varios de ellos, la oferta va desde algunos considerados “básicos”  se conocen de esta manera porque proporcionan una capa de abstracción sobre los recursos físicos en el centro de datos en la nube.
-        p En términos generales los servicios más importantes son: servicios de computo, almacenamiento y redes, a continuación de mencionan de manera general algunos de los servicios más comunes o de mayor demanda por parte de los clientes:
+        p Los proveedores de servicios de computación en la nube (CSP) actuales, ofrecen una variedad de servicios disponibles y listos para dar respuesta a los problemas o necesidades del cliente, estos servicios pueden ser adquiridos solos, independientes o en combinación de varios de ellos, la oferta va desde algunos considerados “básicos”  se conocen de esta manera porque proporcionan una capa de abstracción sobre los recursos físicos en el centro de datos en la nube.
+        p En términos generales los servicios más importantes son: servicios de computo, almacenamiento y redes, a continuación se mencionan de manera general algunos de los servicios más comunes o de mayor demanda por parte de los clientes:
         .py-4
         .row.justify-content-center.align-items-center(data-aos="fade-right")
           .col-lg-8.col-12.mb-4-lg-0
             LineaTiempoD.color-acento-botones
               .row(numero="1" titulo="Servicios informáticos")
                 .col-md-8.mb-4.mb-md-0
-                  p.text-small Generalmente son los servicios más importantes, representan la columna vertebral para los clientes, acá se encuentra regularmente el acceso a máquinas virtuales, instancias de distintos tipos, contenedores docker, clúster de alto rendimiento, normalmente usados para el alojamiento de aplicaciones y servicios web.
+                  p.text-small Generalmente son los servicios más importantes, representan la columna vertebral para los clientes, acá se encuentra regularmente el acceso a máquinas virtuales, instancias de distintos tipos, contenedores #[em docker], clúster de alto rendimiento, normalmente usados para el alojamiento de aplicaciones y servicios web.
               .row(numero="2" titulo="Servicios de almacenamiento")
                 .col-md-8.mb-4.mb-md-0
-                  p.text-small Este tipo de servicio ofrece una variedad que va desde el almacenamiento de objetos y archivos, bases de datos SQL tradicionales como MySQL, PostgreSQL, Oracle, SQLServer o bases de datos NOSQL.         
-              .row(numero="3" titulo="Servicios se networking (Acceso a Redes)")
+                  p.text-small Este tipo de servicio ofrece una variedad que va desde el almacenamiento de objetos y archivos, bases de datos #[em SQL] tradicionales como #[em MySQL, PostgreSQL, Oracle, SQLServer] o bases de datos #[em NOSQL].         
+              .row(numero="3" titulo="Servicios se <i>networking</i> (Acceso a Redes)")
                 .col-md-8.mb-4.mb-md-0
                   p.text-small Los accesos a los servicios de la computación en la nube son alojados en internet para lograr acceder a los servicios contratados PaaS, SaaS, LaaS, se requiere contar con acceso desde y hacia redes externas, regularmente al crear un servicio en la nube se incluye la creación de una red virtual que permita la interconexión.
               .row(numero="4" titulo="Servicios de analítica")
                 .col-md-8.mb-4.mb-md-0
-                  p.text-small El gran crecimiento en los datos que con lleva a la generación de la big Data obliga o posibilita que las empresas puedan adquirir servicios que realicen el análisis de los datos de tal manera que se facilite la inteligencia de negocios, aqui se incluyen las bodegas de datos, herramientas de transformación y extracción (ETL), y herramientas de big Data.
+                  p.text-small El gran crecimiento en los datos que con lleva a la generación de la #[em big Data] obliga o posibilita que las empresas puedan adquirir servicios que realicen el análisis de los datos de tal manera que se facilite la inteligencia de negocios, aqui se incluyen las bodegas de datos, herramientas de transformación y extracción (ETL), y herramientas de #[em big Data].
               .row(numero="5" titulo="Servicios de autenticación o control de identidad")
                 .col-md-8.mb-4.mb-md-0
                   p.text-small Se ofrecen herramientas de control de acceso basado en roles, por supuesto la seguridad debe ser parte fundamental en el acceso a los servicios, por lo que el control de la identidad, se requiere mediante la gobernanza, autenticación, autorización en el control del acceso.
@@ -84,7 +84,7 @@
               .bloque-texto-g__img(
                 :style="{'background-image':`url(${require('@/assets/curso/temas/tema1/img6.png')})`}")
               .bloque-texto-g__texto.p-4
-                p.mb-0 Cada proveedor de servicios cloud dispone de una arquitectura propia como elemento diferenciador del resto de competidores de mercado y/o para adaptarse mejor a la evolución de sus propios servicios tradicionales y necesidades de sus clientes actuales y potenciales.<br><br>
+                p.mb-0 Cada proveedor de servicios #[em cloud] dispone de una arquitectura propia como elemento diferenciador del resto de competidores de mercado y/o para adaptarse mejor a la evolución de sus propios servicios tradicionales y necesidades de sus clientes actuales y potenciales.<br><br>
                 p.mb-0 Si bien existen diferencias marcadas entre las nubes públicas o privadas, a continuación se mencionan los diferentes componentes funcionales de alto nivel presentes en una arquitectura de nube en términos generales o genérica.
         
         .cajon.color-secundario.bg-9.p-4.mb-4
@@ -104,7 +104,8 @@
           .py-4.py-md-5(titulo="Capa de acceso" :icono="require('@/assets/curso/temas/tema1/img8.svg')")
             .row.justify-content-center.align-items-center(data-aos="fade-left")
               .col-md-8.mb-4.mb-md-0
-                p This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion.
+                p Proporciona una interfaz común para el acceso manual y automático a las capacidades disponibles en la capa de servicios. Incluye además de las capacidades de servicio, las capacidades administrativas y comerciales. Es responsable de presentar las capacidades del servicio en la nube a través de uno o más mecanismos de acceso, por ejemplo, como un conjunto de páginas web a las que se accede a través de un navegador, o como un conjunto de servicios web a los que se puede acceder mediante una comunicación segura.  Aplica la funcionalidad de seguridad adecuada al acceso de las capacidades del servicio en la nube, es decir, autentica la solicitud mediante el uso de credenciales de usuario y valida la autorización del usuario para usar capacidades particulares.
+                p Es responsable de manejar el cifrado y verificar la integridad de la solicitud, cuando sea necesario, también puede ser responsable de hacer cumplir las políticas de calidad del servicio (QoS –Quality of Service) en el tráfico procedente de la capa de usuario (por ejemplo, las solicitudes de servicio que se realizan al proveedor) y, en sentido inverso, el tráfico hacia la capa de usuario (p.ej. salida de los servicios en la nube). Transmite solicitudes validadas a los componentes de la capa de servicios. La capa de acceso acepta las solicitudes del cliente o del proveedor para el consumo de los servicios en la nube, y así acceder a los servicios y recursos de los proveedores de servicios.
               .col-md-4.col-8
                 figure
                   img(src='@/assets/curso/temas/tema1/img8.1.svg', alt='Texto que describa la imagen')
@@ -112,8 +113,8 @@
           .py-4.py-md-5(titulo="Capa de servicios" :icono="require('@/assets/curso/temas/tema1/img9.svg')")
             .row.justify-content-center.align-items-center(data-aos="fade-left")
               .col-md-8.mb-4.mb-md-0
-                p Contiene la implementación de los servicios que proporciona el proveedor. Esta capa contiene y controla los componentes de software que implementan los servicios, sin incluir aquellos componentes subyacentes como los hipervisores, los sistemas operativos, los controladores de dispositivos, entre otros; y se encarga de ofrecer los servicios en la nube a los usuarios a través de la capa de acceso.
-                p El software de implementación de servicios en esta capa, a su vez, se basa en las capacidades disponibles en la capa de recursos, para proporcionar los servicios que se ofrecen y así garantizar que se cumplan los requisitos de cualquier acuerdo de nivel de servicio (SLA-Service Level Agreement), por ejemplo, mediante el uso de suficientes recursos.
+                p Contiene la implementación de los servicios que proporciona el proveedor. Esta capa contiene y controla los componentes de #[em software] que implementan los servicios, sin incluir aquellos componentes subyacentes como los hipervisores, los sistemas operativos, los controladores de dispositivos, entre otros; y se encarga de ofrecer los servicios en la nube a los usuarios a través de la capa de acceso.
+                p El #[em software]  de implementación de servicios en esta capa, a su vez, se basa en las capacidades disponibles en la capa de recursos, para proporcionar los servicios que se ofrecen y así garantizar que se cumplan los requisitos de cualquier acuerdo de nivel de servicio (SLA-Service Level Agreement), por ejemplo, mediante el uso de suficientes recursos.
               .col-md-4.col-8
                 figure
                   img(src='@/assets/curso/temas/tema1/img9.1.svg', alt='Texto que describa la imagen')
@@ -121,7 +122,7 @@
           .py-4.py-md-5(titulo="Capa de recursos" :icono="require('@/assets/curso/temas/tema1/img10.svg')")
             .row.justify-content-center.align-items-center(data-aos="fade-left")
               .col-md-8.mb-4.mb-md-0
-                p En esta capa es donde residen los recursos y que incluye equipamiento típico de un Datacenter como: servidores, switches y routers de red, dispositivos de almacenamiento y también el software correspondiente no específico de la nube que se ejecuta en los servidores y otros equipos como sistemas operativos host, hipervisores, controladores de dispositivos y software de gestión de sistemas genérico.
+                p En esta capa es donde residen los recursos y que incluye equipamiento típico de un #[em Datacenter] como: servidores, #[em switches] y #[em router]s de red, dispositivos de almacenamiento y también el #[em software]  correspondiente no específico de la nube que se ejecuta en los servidores y otros equipos como sistemas operativos host, hipervisores, controladores de dispositivos y #[em software]  de gestión de sistemas genérico.
                 |La capa de recursos también representa y aloja la funcionalidad de la red de transporte en la nube, necesaria para la conectividad de red subyacente entre el proveedor de servicios en la nube y los usuarios, así como en la parte interna del propio proveedor de servicios en la nube y sus proveedores de servicios de soporte asociados en la cadena de provisión.
                 |Tenga en cuenta que para que un proveedor de servicios en la nube proporcione servicios consistentes con el SLA, puede requerir conexiones dedicadas y/o seguras entre los usuarios y el proveedor de servicios en la nube.
               .col-md-4.col-8
@@ -174,20 +175,22 @@
         #7.subtitulo.mb-4(data-aos="fade")
           h3.mb-0 Actividades de computación en la nube
         .cajon.cajon-gris.p-4.mb-4
-          p.mb-4 Los servicios en la nube son los elementos esenciales de la computación en la nube, son los diferentes tipos de capacidades ofertados por un proveedor de servicios de Cloud, en la actualidad son muchos los diferentes tipos de servicios ofertados, pero de acuerdo al estándar ISO/IEC 17788, son tres los tipos de servicios o capacidades proporcionados por el servicio en la nube, estos son:
+          p.mb-4 Los servicios en la nube son los elementos esenciales de la computación en la nube, son los diferentes tipos de capacidades ofertados por un proveedor de servicios de #[em Cloud], en la actualidad son muchos los diferentes tipos de servicios ofertados, pero de acuerdo al estándar ISO/IEC 17788, son tres los tipos de servicios o capacidades proporcionados por el servicio en la nube, estos son:
         
         #7.subtitulo.mb-4(data-aos="fade")
           h3.mb-0 Roles y subroles
         .cajon.cajon-gris.p-4.mb-4
           p.mb-4 Un rol es un conjunto de actividades de computación en la nube que tienen un propósito común. A continuación, se mencionarán tres roles esenciales:
-
+        
+        img.d-block.d-md-none(src='@/assets/curso/temas/tema1/infomobile.svg',alt='')
+        .py-2
         .row.justify-content-center.d-none.d-md-flex.mb-5(data-aos="fade-down")
           .col-lg-9
             ImagenInfografica.color-acento-botones
               template(v-slot:imagen)
                 figure
-                img.d-none.d-md-block(src='@/assets/curso/temas/tema1/infografia.svg',alt='') 
-                img.d-block.d-md-none(src='@/assets/curso/temas/tema1/infomobile.svg',alt='')
+                  img.d-none.d-md-block(src='@/assets/curso/temas/tema1/infografia.svg',alt='') 
+                  
               
               .tarjeta.bg4.p-3(x="4%" y="50%" numero="1")
                 .row.space-between.img-infog1.align-items-center.mb-0
@@ -217,7 +220,7 @@
         #7.subtitulo.mb-4(data-aos="fade")
           h3.mb-0 Servicios en la nube
         .cajon.cajon-gris.p-4.mb-4
-          p.mb-4 La Los servicios en la nube son los elementos esenciales de la computación en la nube, son los diferentes tipos de capacidades ofertados por un proveedor de servicios de Cloud, en la actualidad son muchos los diferentes tipos de servicios ofertados, pero de acuerdo al estándar ISO/IEC 17788, son tres los tipos de servicios o capacidades proporcionados por el servicio en la nube, estos son:
+          p.mb-4 La Los servicios en la nube son los elementos esenciales de la computación en la nube, son los diferentes tipos de capacidades ofertados por un proveedor de servicios de #[em Cloud], en la actualidad son muchos los diferentes tipos de servicios ofertados, pero de acuerdo al estándar ISO/IEC 17788, son tres los tipos de servicios o capacidades proporcionados por el servicio en la nube, estos son:
         
         .row.justify-content-center.align-items-center(data-aos="fade-right")
           .col-lg-3.col-12.mb-4-lg-0.py-2
@@ -229,7 +232,7 @@
           .col-lg-3.col-12.mb-4-lg-0.py-2
             .tarjeta.resaltado-azul.p-4.tamano-tarjeta
               img.recurso(src='@/assets/curso/temas/tema1/img3.svg' alt='AvatarTop')
-              h5.py-2.text-center.txt-naranja Servicios de networking (Acceso a Redes)
+              h5.py-2.text-center.txt-naranja Servicios de #[em networking] (Acceso a Redes)
               p.text-center.text-white.text-small Aquí, el proveedor proporciona la plataforma para el desarrollo de aplicaciones, así como su mantenimiento y gestión. Es decir, ofrece todo lo que se necesita para completar el ciclo de vida y despliegue de dichas aplicaciones o servicios web. El usuario carece de control sobre la infraestructura de almacenamiento o redes.
           
           .col-lg-3.col-12.mb-4-lg-0.py-2
@@ -255,7 +258,9 @@
         
         .row.justify-content-center.align-items-center(data-aos="fade-right").p-3
           .col-lg-8
-            img(src='@/assets/curso/temas/tema1/img17.svg' alt='')
+            .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+              h5 Figura 1. 
+            img(src='@/assets/curso/temas/tema1/img17.svg' alt='En la figura se mencionan los siguientes conceptos: nube pública, nube privada, nube hibrida, nube comunitaria.')
           
       p Existen algunos aspectos que se llaman transversales, porque se aplican a múltiples roles individuales o componentes funcionales, por ejemplo, la seguridad.
         
@@ -277,7 +282,7 @@
           h3.mb-0 Capas funcionales
 
         .cajon.cajon-gris.p-4.mb-4
-          p.mb-4La arquitectura funcional está segmentada en capas junto a un conjunto de funciones multicapa, cada capa representa un conjunto de componentes funcionales que proporcionan capacidades similares o tienen un propósito común.
+          p.mb-4La La arquitectura funcional está segmentada en capas junto a un conjunto de funciones multicapa, cada capa representa un conjunto de componentes funcionales que proporcionan capacidades similares o tienen un propósito común.
           p Las siguientes cuatro capas representadas son de referencia típica, pero se debe tener en cuenta que no todas las capas o componentes funcionales requeridos están necesariamente instanciados en un sistema de computación en la nube específico:
 
       .row.justify-content-center.align-items-center(data-aos="fade-rigth")
@@ -286,7 +291,7 @@
             div(titulo=" Capa de usuario")
               .row.justify-content-center.align-items-center(data-aos="fade-rigth")
                 .col-md-5
-                  p Incluye los componentes funcionales que respaldan las actividades de la nube de los Clientes de Servicios en la Nube y los Partners de Servicios en la Nube.
+                  p Incluye los componentes funcionales que respaldan las actividades de la nube de los Clientes de Servicios en la Nube y los #[em Partners] de Servicios en la Nube.
                 .col-md-6.col-9
                   img(src="@/assets/curso/temas/tema1/img19.png", alt="")
             
@@ -428,7 +433,7 @@
             .row.justify-content-center.align-items-center(data-aos="fade-left")
               .col-md-5.mb-4.mb-md-0
                 h4 Capacidades de servicio
-                p Consiste en el software necesario para implementar el servicio ofrecido a los proveedores de servicios cloud, despliega y entrega la interfaz del servicio, es decir, la interfaz ofrecida a los clientes, independientemente del modo o tipo de implementación del servicio.
+                p Consiste en el #[em software]  necesario para implementar el servicio ofrecido a los proveedores de servicios #[em cloud], despliega y entrega la interfaz del servicio, es decir, la interfaz ofrecida a los clientes, independientemente del modo o tipo de implementación del servicio.
               .col-md-5.mb-3.mb-md-0
                 img(src='@/assets/curso/temas/tema1/img28.svg', alt='')
             
@@ -473,14 +478,14 @@
             img(src='@/assets/curso/temas/tema1/img33.svg', alt='')
         .py-4
         .titulo-sexto.color-acento-contenido
-          h5 Figura 1.  
+          h5 Figura 2.  
           span Servicios en la nube
     
     .container.fondo2
       .row.justify-content-center.align-items-center(data-aos="fade-left").p-4
         .col-lg-12
-          img.d-none.d-md-block(src='@/assets/curso/temas/tema1/img34.svg', alt='')
-          img.d-block.d-md-none(src='@/assets/curso/temas/tema1/img35.svg',alt='')
+          img.d-none.d-md-block(src='@/assets/curso/temas/tema1/img34.svg', alt='la figura presenta un diagrama donde se definen los siguientes conceptos: Auditabilidad: Capacidad de ser auditado. Disponibilidad: Capacidad de disposición del servicio. Gobernanza: Dirección y prestación del servicio Interoperabilidad: Interacción o intercambio de información. Control de versiones: Reparación, actualización y control del servicio. Portabilidad: Traslado a otros proveedores. Protección de la información de la identidad personal. Resiliencia: capacidad de proporcionar un nivel aceptable de servicio. Reservisibilidad: Recuperación de datos del cliente y componentes de aplicaciones en la nube.')
+          img.d-block.d-md-none(src='@/assets/curso/temas/tema1/img35.svg',alt='la figura presenta un diagrama donde se definen los siguientes conceptos: Auditabilidad: Capacidad de ser auditado. Disponibilidad: Capacidad de disposición del servicio. Gobernanza: Dirección y prestación del servicio Interoperabilidad: Interacción o intercambio de información. Control de versiones: Reparación, actualización y control del servicio. Portabilidad: Traslado a otros proveedores. Protección de la información de la identidad personal. Resiliencia: capacidad de proporcionar un nivel aceptable de servicio. Reservisibilidad: Recuperación de datos del cliente y componentes de aplicaciones en la nube.')
     
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
         h2.titulo1 Auditabilidad
@@ -489,7 +494,7 @@
             img(src='@/assets/curso/temas/tema1/img36.svg', alt='')
           .col-lg-8
             p Hace referencia a la propiedad o capacidad de poder auditarse, este es un aspecto que se refiere a la capacidad de recopilar y poner a disposición la información probatoria necesaria relacionada con la operación y el uso de un servicio en la nube, con el objetivo de realizar una auditoría. 
-            p Está relacionado con la gobernanza de los servicios en nube como garantía que esos servicios se prestan y utilizan en coherencia con los acuerdos de servicios asociados entre los clientes, proveedores y partners de servicios en la nube. Por tanto, esta garantía se logra con mayor frecuencia mediante auditorías independientes de servicios.
+            p Está relacionado con la gobernanza de los servicios en nube como garantía que esos servicios se prestan y utilizan en coherencia con los acuerdos de servicios asociados entre los clientes, proveedores y #[em Partners] de servicios en la nube. Por tanto, esta garantía se logra con mayor frecuencia mediante auditorías independientes de servicios.
         .py-3
         .row.justify-content-center.align-items-center(data-aos="fade-left")
           .col-lg-10  
@@ -615,8 +620,8 @@
         .py-4
         .row.justify-content-center.align-items-center(data-aos="fade-left")
           .col-lg-7
-            p Se debe diferenciar los mantenimientos desarrollados por cliente de los desarrollados por el proveedor de servicios en la nube especialmente dependerá del tipo de servicio al cual se le programa, por ejemplo. para el caso de un servicio SaaS prácticamente todas las acciones de mantenimiento se espera que sean realizadas por el proveedor mientras que, en el caso de los servicios IaaS y PaaS, los componentes de la aplicación pertenecen al cliente y consecuentemente será el responsable del mantenimiento de esos componentes que podrá realizar con personal propio o mediante un partner asociado que proporcione servicios gestionados en su portfolio. 
-            p En cualquier caso, el proveedor es responsable del entorno en el que se ejecutan los componentes de la aplicación, que varía según los detalles del servicio pero que puede incluir elementos como los recursos de hardware, el sistema operativo o el middleware.
+            p Se debe diferenciar los mantenimientos desarrollados por cliente de los desarrollados por el proveedor de servicios en la nube especialmente dependerá del tipo de servicio al cual se le programa, por ejemplo. para el caso de un servicio SaaS prácticamente todas las acciones de mantenimiento se espera que sean realizadas por el proveedor mientras que, en el caso de los servicios IaaS y PaaS, los componentes de la aplicación pertenecen al cliente y consecuentemente será el responsable del mantenimiento de esos componentes que podrá realizar con personal propio o mediante un partner asociado que proporcione servicios gestionados en su portafolio. 
+            p En cualquier caso, el proveedor es responsable del entorno en el que se ejecutan los componentes de la aplicación, que varía según los detalles del servicio pero que puede incluir elementos como los recursos de #[em hardware], el sistema operativo o el #[em middleware].
             .cajon.color-secundario.bg-9.p-4.mb-4
               p Aunque inicialmente es interesante para el cliente que un servicio o una plataforma de servicios se actualice o se arregle hay que considerar que cualquier cambio en el comportamiento de un servicio puede tener un impacto negativo en la parte del cliente y que acarrea, frecuentemente, cambios en los componentes de la aplicación y en los sistemas TIC del cliente y/o nuevas acciones de capacitación de los usuarios del servicio del proveedor. Por tanto, es importante que el mantenimiento de los servicios esté sujeto a prácticas de gobierno transparentes para que el proveedor pueda estar en la mejor posición para estar prevenido anticipando acciones internas convenientemente y con el objetivo de evitar impactos significativos en el negocio.
           .col-lg-4.col-8
@@ -654,7 +659,7 @@
         .cajon.color-secundario.bg-9.p-4.mb-4
           p En la portabilidad de aplicaciones en la nube se permite la migración de elementos de un modo similar a instancias de máquina virtual completamente detenida o una Imágen de máquina (servicio IaaS) de un proveedor a otro o la migración de componentes de aplicaciones (servicio PaaS) desde un proveedor u otro.
 
-        p En ambos casos, existe un aspecto importante a considerar relacionado con la portabilidad de los metadatos relacionados con los componentes de la aplicación que proporcionan información sobre las relaciones de los componentes de la aplicación y sobre la infraestructura requerida asociada, por ejemplo, la configuración de balanceo de cargas o la configuración del firewall.
+        p En ambos casos, existe un aspecto importante a considerar relacionado con la portabilidad de los metadatos relacionados con los componentes de la aplicación que proporcionan información sobre las relaciones de los componentes de la aplicación y sobre la infraestructura requerida asociada, por ejemplo, la configuración de balanceo de cargas o la configuración del #[em firewall].
         p De forma similar a la pérdida de la tabla de indexación de una base de datos relacional, la conservación de los metadatos en un proceso de portabilidad es fundamental para poder materializarla.
 
         .py-4
@@ -667,7 +672,7 @@
             .row.fondo33.p-4.d-none.d-md-block
               p.d-none.d-md-block La resiliencia describe el conjunto de procesos de monitoreo, preventivos y de respuesta que permiten que un servicio en la nube brinde operaciones continuadas, con cortes predecibles y verificables, a través de acciones de falla y recuperación.  
             .row.fondoazulito.p-4.d-none.d-md-block
-              p.d-none.d-md-block Estos procesos, pueden incluir fallas de hardware, comunicaciones y/o software y pueden ocurrir como incidentes aislados o en combinación, incluyendo fallas en serie en forma de efecto dominó. 
+              p.d-none.d-md-block Estos procesos, pueden incluir fallas de #[em hardware], comunicaciones y/o #[em software]  y pueden ocurrir como incidentes aislados o en combinación, incluyendo fallas en serie en forma de efecto dominó. 
             .row.fondo33.p-4.d-none.d-md-block  
               p.d-none.d-md-block También pueden incluir acciones tanto automáticas como manuales, que generalmente abarcan múltiples sistemas y, por lo tanto, su descripción y realización son parte de la infraestructura de nube en global y no una función.
                 | Está ligado a temas de seguridad ya que se buscará siempre encontrar el lugar más débil o menos resilientes. 
