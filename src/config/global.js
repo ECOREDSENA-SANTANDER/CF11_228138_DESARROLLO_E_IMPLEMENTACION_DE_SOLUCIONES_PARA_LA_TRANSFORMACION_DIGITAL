@@ -139,190 +139,122 @@ export default {
   },
   complementario: [
     {
-      tema: 'Cableado estructurado',
-      referencia:
-        'Joskowicz, J. (2013). Cableado Estructurado.Universidad de la República Montevideo, URUGUAY',
-      tipo: 'Documento PDF',
-      link:
-        'https://iie.fing.edu.uy/ense/asign/ccu/material/docs/Cableado%20Estructurado.pdf',
-    },
-    {
-      tema: 'Conceptos básicos y componentes de una red',
-      referencia:
-        'Pérez, E. H. (2003). Tecnologías y redes de transmisión de datos. Editorial Limusa.',
-      tipo: 'E-Libro',
-      link:
-        'https://books.google.es/books?id=RmYvfnMKrsgC&printsec=frontcover#v=onepage&q&f=false',
-    },
-    {
-      tema: 'Protocolos de comunicación',
-      referencia:
-        'Redes Informáticas - Nociones fundamentales (7ª edición) - (Protocolos, Arquitecturas, Redes inalámbricas, Virtualización, Seguridad, IPv6...) Editorial ENI',
-      tipo: 'E-Libro',
-      link:
-        'https://www.ediciones-eni.com/open/mediabook.aspx?idR=9a76703d59b0fd180004f0cd38f2c537',
-    },
-    {
-      tema: 'Arquitectura y equipos de cómputo, clientes y servidores',
-      referencia:
-        'Página relacionada con los proveedores de servicios en la nube. Accedida el 27 de diciembre de 2021 Public Cloud Services Comparison, comparecloud.in',
-      tipo: 'Página web',
-      link: 'https://comparecloud.in',
-    },
-    {
-      tema: 'Tipos de contratos',
-      referencia:
-        'Ministerio de Comercio, Industria y Turismo. (2013). Decreto Número 1317 del 27 de junio de 2013. https://www.mintic.gov.co/arquitecturati/630/articles-9011_documento.pdf',
-      tipo: 'PDF',
-      link:
-        'https://www.mintic.gov.co/arquitecturati/630/articles-9011_documento.pdf ',
-    },
-    {
-      tema: 'Contratación',
-      referencia:
-        'República de Colombia, Ministerio de tecnologías de la información y las comunicaciones.  (2012). Ley 1581 de 2012. https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=49981',
-      tipo: 'PDF',
-      link:
-        'http://www.oas.org/es/sla/ddi/docs/Gu%C3%ADa%20para%20clientes%20que%20contraten%20servicios%20de%20Cloud%20Computing%20-%20AGPD.pdf',
-    },
-    {
-      tema: 'Contratación',
-      referencia:
-        'República de Colombia, Ministerio de tecnologías de la información y las comunicaciones.  (2012). Ley 1581 de 2012. https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=49981',
-      tipo: 'PDF',
-      link:
-        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=49981',
+      tema: '',
+      referencia: '',
+      tipo: '',
+      link: '',
     },
   ],
   glosario: [
     {
-      termino: 'Adaptador de red:',
-      significado: 'dispositivo que añade funcionalidad de red a su equipo.',
-    },
-    {
-      termino: 'Ancho de banda:',
+      termino: 'AWS',
       significado:
-        'capacidad de transmisión de un dispositivo o red determinado',
+        'Amazón Web Services: servicios de cloud ofrecidos por Amazon.',
     },
     {
-      termino: 'Bit (dígito binario):',
-      significado: 'unidad más pequeña de información de una máquina.',
+      termino: 'Azure',
+      significado: 'Servicios de computación en la nube de Microsoft. ',
     },
     {
-      termino: 'Comunicación',
+      termino: 'CapEx',
       significado:
-        'transmisión y recepción de datos entre dos o más actores con el fin de transmitir o recibir mensajes u opiniones distintas.',
+        'En los sistemas de TI es una inversión a largo plazo que inmoviliza una gran suma de dinero en una sola inversión. ',
     },
     {
-      termino: 'Conmutador',
+      termino: 'CSC',
+      significado: 'Cliente de Servicios Cloud. ',
+    },
+    {
+      termino: 'CSP',
+      significado: 'Proveedor de Servicios Cloud. ',
+    },
+    {
+      termino: 'GCP',
+      significado: 'Google Cloud Platform. ',
+    },
+    {
+      termino: 'Huella de Carbono ',
       significado:
-        'dispositivo que es el punto central de conexión de equipos y otros dispositivos de una red, de forma que los datos puedan transmitirse a velocidad de transmisión completa.',
+        'Representa el volumen total de gases de efecto invernadero (GEI) que producen las actividades económicas y cotidianas del ser humano. ',
     },
     {
-      termino: 'Contratación',
+      termino: 'Hypervisor',
       significado:
-        'según la RAE, “Pacto o convenio, oral o escrito, entre partes que se obligan sobre materia o cosa determinada, y a cuyo cumplimiento pueden ser compelidas”.',
+        'Un hipervisor, conocido también como monitor de máquina virtual (VMM), es un software que crea y ejecuta máquinas virtuales (VM) y que, además, aísla su sistema operativo y recursos de las máquinas virtuales y permite crearlas y gestionarlas. ',
     },
     {
-      termino: 'Cloud Computing',
+      termino: 'IaaS',
+      significado: 'Infraestructura como servicio. ',
+    },
+    {
+      termino: 'NaaS',
+      significado: 'Redes como servicio. ',
+    },
+    {
+      termino: 'Nube Hibrida ',
       significado:
-        'computación en la nube, conocida también como servicios en la nube, consiste en el uso de una red de servidores remotos alojados en Internet para almacenar, administrar y procesar datos e información, en lugar de un servidor local o una computadora personal.',
+        'Son nubes que combinan las características de dos nubes privadas, las nubes públicas o compartidas, se caracterizan por que permiten el poder compartir servicios e infraestructura entre ambas nubes. ',
     },
     {
-      termino: 'Criptografía',
+      termino: 'Nube Privada',
       significado:
-        'arte de escribir con clave secreta o de un modo enigmático.',
+        'En este tipo de nube los servicios y la infraestructura es gestionada específicamente por una organización y no se ofrecen estos servicios al público en general. ',
     },
     {
-      termino: 'Criptomoneda',
-      significado: 'son monedas digitales que se intercambian online.',
-    },
-    {
-      termino: 'DHCP (Protocolo de configuración dinámica de host):',
+      termino: 'Nube Publica    ',
       significado:
-        'protocolo que permite a un dispositivo de una red, conocido como servidor DHCP, asigna direcciones IP temporales a otros dispositivos de red y normalmente equipos.',
+        'Los servicios e infraestructura son gestionados por un proveedor de tecnológico el cual ofrece estos servicios al público en general.',
     },
     {
-      termino: 'Dirección IP',
+      termino: 'OpEx',
       significado:
-        'dirección que se utiliza para identificar un equipo o dispositivo en una red.',
+        'Es un gasto recurrente que podría dotar a la compañía de la agilidad de usar los fondos en otras inversiones rentables. ',
     },
     {
-      termino: 'Enrutador',
+      termino: 'Partner    ',
       significado:
-        'dispositivo de red que conecta redes múltiples, tales como una red local e Internet.',
+        'Socio u operador de servicios en la nube (CSN) es una parte que se dedica a respaldar o proporcionar actividades de soporte auxiliar a las actividades del cliente o proveedor de servicios cloud. ',
     },
     {
-      termino: 'Migración',
-      significado:
-        'en tecnología, consiste en el desplazamiento del software, aplicaciones o sistemas de información de una infraestructura tecnológica a otra, por ejemplo, la migración de una aplicación de un servidor local a un servidor en la nube.',
+      termino: 'PaaS    ',
+      significado: 'Plataforma como servicio. ',
     },
     {
-      termino: 'Proveedor',
-      significado: 'sujeto o entidad que suministra un producto o servicios.',
-    },
-    {
-      termino: 'Red',
-      significado:
-        'serie de equipos o dispositivos conectados con el fin de compartir datos, almacenamiento y la transmisión entre usuarios.',
-    },
-    {
-      termino: 'TCP (Transport Control Protocol):',
-      significado:
-        'protocolo de red para la transmisión de datos que requiere la confirmación del destinatario de los datos enviados.',
-    },
-    {
-      termino: 'Topología',
-      significado: 'distribución física de una red.',
+      termino: 'SaaS    ',
+      significado: 'Software como servicio. ',
     },
   ],
   referencias: [
     {
-      referencia: 'Allcode.com (2021). 10 Top Cloud Providers in 2021',
-      link: 'https://allcode.com/cloud-providers/',
+      referencia:
+        'Del Vecchio, J. F., Paternina, F. J., y Henríquez Miranda, C. (2015). La computación en la nube: un modelo para el desarrollo de las empresas. Prospectiva, 13(2), 81-87. ',
+      link: '',
     },
     {
       referencia:
-        'Claranet.es (2021). 6 enfoques para afrontar la migración a la nube. ',
+        'Escobar, V. C., Celis, M. T. B., y Ramírez, J. D. S.  (2015). Modelo, diseño y técnicas básicas para implantar un sistema de computación en la nube. [Tesis de pregrado, Institución Universitaria Politécnico Grancolombiano]. Sistema Nacional de Bibliotecas SISNAB. ',
+      link: '',
+    },
+    {
+      referencia:
+        'Giraldo, L. A. (2019). ¿Cómo ha evolucionado la computación en la nube a través del tiempo?',
       link:
-        '. https://www.claranet.es/blog/6-enfoques-para-afrontar-la-migracion-a-la-nube',
+        'https://www.pragma.com.co/blog/como-ha-evolucionado-la-computacion-en-la-nube-a-traves-del-tiempo',
     },
     {
-      referencia: 'Corona, A. E. (2004). Protocolos tcp/ip de internet.',
-      link: 'https://basicamente18.wixsite.com/todored/historia',
-    },
-    {
-      referencia: 'La red y todo sobre ella. ',
-      link: 'https://basicamente18.wixsite.com/todored/historia',
+      referencia: 'ISO/IEC 17789:2014. (2021).',
+      link: 'https://www.iso.org/standard/60545.html',
     },
     {
       referencia:
-        'Moro Vallina, M. (2013). Infraestructuras de redes de datos y sistemas de telefonía. Editorial Paraninfo.',
+        'Padilla Aguilar, J. J., & Pinzón Castellanos, J. (2015). Estándares para Cloud Computing: estado del arte y análisis de protocolos para varias nubes. Puente. Revista Científica. Vol. 9 No. 2. ',
       link: '',
     },
     {
       referencia:
-        'Pérez, E. H. (2003). Tecnologías y redes de transmisión de datos. Editorial Limusa.',
-      link: '',
-    },
-    {
-      referencia: 'RAE / Real Academia Española (2021). Contratar',
-      link: 'https://dle.rae.es/contratar ',
-    },
-    {
-      referencia: 'SANTOS GARCÍA (2012).  Comunicación oral y escrita',
+        'Califf, C.; Sarker, S.; Skilton, M. (2016). The role and Value of a Cloud Service Partner. MIS Quarterly Executive. 15:3.',
       link:
-        'http://190.57.147.202:90/jspui/bitstream/123456789/650/1/Comunicacion_oral_y_escrita.pdf',
-    },
-    {
-      referencia:
-        'SECRETARIA GENERAL DE LA ORGANIZACIÓN DE LOS ESTADOS AMERICANOS (1992). Honduras - Proyecto de Manejo de los Recursos Naturales Renovables de la Cuenca del Embalse el Cajón - Estudio de Factibilidad. Costos y financiamiento. ',
-      link: 'https://www.oas.org/dsd/publications/Unit/oea15s/ch09.htm',
-    },
-    {
-      referencia:
-        'Stallings, W., Stallings, W., Tanenbaum, A., Fall, K. R., y Stevens, W. R. (2000). Comunicaciones y Redes de Computadores, 7ª Edición. Pearson Prentice-Hall',
-      link: '',
+        'https://www.researchgate.net/publication/309285232_The_Role_and_Value_of_a_Cloud_Service_Partner.',
     },
   ],
   creditos: [
@@ -337,7 +269,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -348,7 +280,7 @@ export default {
           nombre: 'Henry Eduardo Bastidas Paruma ',
           cargo: 'Instructor',
           centro:
-            'Centro de teleinformática y producción industrial - Regional Cauca',
+            'Centro de Teleinformática y Producción Industrial - Regional Cauca',
         },
         {
           nombre: 'María Inés Machado López',
@@ -356,21 +288,27 @@ export default {
           centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
-          nombre: 'Silvia Milena Sequeda Cárdenas',
-          cargo: 'Evaluadora instruccional',
-          centro: 'Centro de gestión industrial - Regional Distrito Capital',
+          nombre: 'Ana Catalina Córdoba Sus ',
+          cargo: 'Revisora metodológica y pedagógica ',
+          centro:
+            'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica.',
         },
         {
-          nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesor pedagógico',
+          nombre: 'Rafael Neftalí Lizcano Reyes ',
+          cargo: 'Asesor Pedagógico ',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura. ',
         },
         {
-          nombre: 'Sandra Patricia Hoyos Sepúlveda',
-          cargo: 'Revisión y corrección de estilo',
+          nombre: 'Jhon Jairo Rodríguez Pérez ',
+          cargo: 'Diseñador y Evaluador Instruccional ',
           centro:
-            'Centro para la Industria de la Comunicación Gráfica - Distrito capital',
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica  ',
+        },
+        {
+          nombre: 'Carolina Jiménez Suescun',
+          cargo: 'Evaluadora Instruccional',
+          centro: 'Regional Santander - Centro Agroturístico ',
         },
       ],
     },
@@ -380,17 +318,17 @@ export default {
         {
           nombre: 'Yazmin Rocio Figueroa Pacheco',
           cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Leonardo Castellanos Rodriguez',
-          cargo: 'Desarrollador Fullstack',
-          centro: 'Centro Agroturístico - Regional Santander',
+          cargo: 'Desarrollador <i>Fullstack</i>',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: '',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Maria Alejandra Vera Briceño',
+          cargo: 'Animadora y Productora Multimedia',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -400,17 +338,12 @@ export default {
         {
           nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro Agroturístico - Regional Santander',
-        },
-        {
-          nombre: 'Laura Paola Gelvez Manosalva',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro Agroturístico - Regional Santander',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },

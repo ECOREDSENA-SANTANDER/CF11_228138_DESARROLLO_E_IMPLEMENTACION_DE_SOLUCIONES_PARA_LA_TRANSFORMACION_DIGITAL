@@ -19,7 +19,7 @@
          h2 1.1 Tipos de servicios y modelos #[em Cloud]
 
         .row.justify-content-center.align-items-center(data-aos="fade-rigth")
-          .col-lg-4.justify-content-center
+          .col-lg-5.justify-content-center
             p Los servicios tradicionales se categorizan en tres tipos:
       
         .row.justify-content-center.align-items-center(data-aos="fade-right")
@@ -48,29 +48,29 @@
           .col-lg-8.col-12.mb-4-lg-0
             LineaTiempoD.color-acento-botones
               .row(numero="1" titulo="Servicios informáticos")
-                .col-md-8.mb-4.mb-md-0
-                  p.text-small Generalmente son los servicios más importantes, representan la columna vertebral para los clientes, acá se encuentra regularmente el acceso a máquinas virtuales, instancias de distintos tipos, contenedores #[em docker], clúster de alto rendimiento, normalmente usados para el alojamiento de aplicaciones y servicios web.
+                .col-md-12.mb-4.mb-md-0
+                  p.text-small Generalmente son los servicios más importantes, representan la columna vertebral para los clientes, acá se encuentra regularmente el acceso a máquinas virtuales, instancias de distintos tipos, contenedores #[em docker], #[em clúster] de alto rendimiento, normalmente usados para el alojamiento de aplicaciones y servicios web.
               .row(numero="2" titulo="Servicios de almacenamiento")
-                .col-md-8.mb-4.mb-md-0
+                .col-md-12.mb-4.mb-md-0
                   p.text-small Este tipo de servicio ofrece una variedad que va desde el almacenamiento de objetos y archivos, bases de datos #[em SQL] tradicionales como #[em MySQL, PostgreSQL, Oracle, SQLServer] o bases de datos #[em NOSQL].         
               .row(numero="3" titulo="Servicios se <i>networking</i> (Acceso a Redes)")
-                .col-md-8.mb-4.mb-md-0
+                .col-md-12.mb-4.mb-md-0
                   p.text-small Los accesos a los servicios de la computación en la nube son alojados en internet para lograr acceder a los servicios contratados PaaS, SaaS, LaaS, se requiere contar con acceso desde y hacia redes externas, regularmente al crear un servicio en la nube se incluye la creación de una red virtual que permita la interconexión.
               .row(numero="4" titulo="Servicios de analítica")
-                .col-md-8.mb-4.mb-md-0
+                .col-md-12.mb-4.mb-md-0
                   p.text-small El gran crecimiento en los datos que con lleva a la generación de la #[em big Data] obliga o posibilita que las empresas puedan adquirir servicios que realicen el análisis de los datos de tal manera que se facilite la inteligencia de negocios, aqui se incluyen las bodegas de datos, herramientas de transformación y extracción (ETL), y herramientas de #[em big Data].
               .row(numero="5" titulo="Servicios de autenticación o control de identidad")
-                .col-md-8.mb-4.mb-md-0
+                .col-md-12.mb-4.mb-md-0
                   p.text-small Se ofrecen herramientas de control de acceso basado en roles, por supuesto la seguridad debe ser parte fundamental en el acceso a los servicios, por lo que el control de la identidad, se requiere mediante la gobernanza, autenticación, autorización en el control del acceso.
               .row(numero="6" titulo="Servicios IoT")
-                .col-md-8.mb-4.mb-md-0
+                .col-md-12.mb-4.mb-md-0
                   p.text-small Las tecnologías IoT precisamente se han convertido en un disparador de la generación de datos que deben ser capturados, almacenados y procesados, por esta razón los proveedores ofrecen motores de procesamiento de flujo que permiten el trabajo en tiempo real con los datos generados por estos dispositivos.
               .row(numero="7" titulo="Servicios de IA")
-                .col-md-8.mb-4.mb-md-0
+                .col-md-12.mb-4.mb-md-0
                   p.text-small En este tipo de servicios se incluye el aprendizaje profundo y automático, ofrece aplicaciones para crear, capacitar y probar modelos de aprendizaje automático, con soporte de GPU, en forma de servicios SaaS a los que se accede a través de un navegador.
               .row(numero="8" titulo="Servicios de gestión y gobernanza")
-                .col-md-8.mb-4.mb-md-0
-                  p.text-small Incluyen funciones de recuperación ante desastres como copia de seguridad y replicación, servicios de regulación de implementación que hacen cumplir las reglas sobre los tipos y la configuración de servicios que se pueden usar, automatización de la configuración y servicios de monitoreo que brindan información (en algunos casos, en tiempo real o alertas casi en tiempo real) sobre problemas de rendimiento y seguridad.,
+                .col-md-12.mb-4.mb-md-0
+                  p.text-small Incluyen funciones de recuperación ante desastres como copia de seguridad y replicación, servicios de regulación de implementación que hacen cumplir las reglas sobre los tipos y la configuración de servicios que se pueden usar, automatización de la configuración y servicios de monitoreo que brindan información (en algunos casos, en tiempo real o alertas casi en tiempo real) sobre problemas de rendimiento y seguridad.
  
           .col-lg-4.col-7.py-2 
             img(alt="" src="@/assets/curso/temas/tema1/img5.svg")
@@ -114,7 +114,7 @@
             .row.justify-content-center.align-items-center(data-aos="fade-left")
               .col-md-8.mb-4.mb-md-0
                 p Contiene la implementación de los servicios que proporciona el proveedor. Esta capa contiene y controla los componentes de #[em software] que implementan los servicios, sin incluir aquellos componentes subyacentes como los hipervisores, los sistemas operativos, los controladores de dispositivos, entre otros; y se encarga de ofrecer los servicios en la nube a los usuarios a través de la capa de acceso.
-                p El #[em software]  de implementación de servicios en esta capa, a su vez, se basa en las capacidades disponibles en la capa de recursos, para proporcionar los servicios que se ofrecen y así garantizar que se cumplan los requisitos de cualquier acuerdo de nivel de servicio (SLA-Service Level Agreement), por ejemplo, mediante el uso de suficientes recursos.
+                p El #[em software]  de implementación de servicios en esta capa, a su vez, se basa en las capacidades disponibles en la capa de recursos, para proporcionar los servicios que se ofrecen y así garantizar que se cumplan los requisitos de cualquier acuerdo de nivel de servicio (#[em SLA-Service Level Agreement]), por ejemplo, mediante el uso de suficientes recursos.
               .col-md-4.col-8
                 figure
                   img(src='@/assets/curso/temas/tema1/img9.1.svg', alt='Texto que describa la imagen')
@@ -175,7 +175,7 @@
         #7.subtitulo.mb-4(data-aos="fade")
           h3.mb-0 Actividades de computación en la nube
         .cajon.cajon-gris.p-4.mb-4
-          p.mb-4 Los servicios en la nube son los elementos esenciales de la computación en la nube, son los diferentes tipos de capacidades ofertados por un proveedor de servicios de #[em Cloud], en la actualidad son muchos los diferentes tipos de servicios ofertados, pero de acuerdo al estándar ISO/IEC 17788, son tres los tipos de servicios o capacidades proporcionados por el servicio en la nube, estos son:
+          p.mb-4 Una actividad de computación en la nube se define como una búsqueda o un conjunto de tareas específicas, las cuales deben tener un propósito y generar uno o más resultados y se llevan a cabo utilizando componentes funcionales.
         
         #7.subtitulo.mb-4(data-aos="fade")
           h3.mb-0 Roles y subroles
@@ -202,7 +202,7 @@
               
               .tarjeta.bg4.p-3(x="51.7%" y="50%" numero="3")
                 .row.space-between.img-infog1.align-items-center.mb-0
-                p.mb-0 Partner de servicios en la nube (CSN): parte que se dedica a proporcionar soporte o asistencia a las actividades del CSP, del CSC o de ambos.
+                p.mb-0 #[em Partner] de servicios en la nube (CSN): parte que se dedica a proporcionar soporte o asistencia a las actividades del CSP, del CSC o de ambos.
               
               .tarjeta.bg4.p-3(x="76%" y="50%" numero="4")
                 .row.space-between.img-infog1.align-items-center.mb-0
@@ -210,8 +210,8 @@
 
         #7.subtitulo.mb-4(data-aos="fade")
           h3.mb-0 Partes
-        .row.align-items-center.mb-4
-          .col-lg-1.col-md-3.col-7.mb-4(data-aos="fade-right")
+        .row.justify-content-center.align-items-center.mb-4
+          .col-lg-1.col-md-3.col-4.mb-4(data-aos="fade-right")
             img(src='@/assets/curso/temas/tema1/corporacion.svg', alt='')
           .col-lg-10.col-md-9(data-aos="fade-left")
             p Una parte es una persona física o jurídica, incorporada o no, o un grupo de ambas, conocidas como partes interesadas.
@@ -260,6 +260,7 @@
           .col-lg-8
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
               h5 Figura 1. 
+              span Modelos de implementación en la nube
             img(src='@/assets/curso/temas/tema1/img17.svg' alt='En la figura se mencionan los siguientes conceptos: nube pública, nube privada, nube hibrida, nube comunitaria.')
           
       p Existen algunos aspectos que se llaman transversales, porque se aplican a múltiples roles individuales o componentes funcionales, por ejemplo, la seguridad.
@@ -273,7 +274,7 @@
               .bloque-texto-g__img(
                 :style="{'background-image':`url(${require('@/assets/curso/temas/tema1/img18.png')})`}")
               .bloque-texto-g__texto.p-4
-                p.mb-0 Este punto de vista funcional trata de aportar una visión similar al del modelo OSI (Open Systems Interconnection) de “Interconexión de Sistemas Abiertos” en el ámbito de los protocolos de comunicación de las redes informáticas, es decir, las funcionalidades que cada capa debe aportar en relación al resto en relación a las dependencias entre funciones.
+                p.mb-0 Este punto de vista funcional trata de aportar una visión similar al del modelo OSI (#[em Open Systems Interconnection]) de “Interconexión de Sistemas Abiertos” en el ámbito de los protocolos de comunicación de las redes informáticas, es decir, las funcionalidades que cada capa debe aportar en relación al resto en relación a las dependencias entre funciones.
         
       p Esto permite situar a los fabricantes y sus tecnologías específicas dentro de los objetivos de funcionalidad concretos dentro de cada capa para que todos los componentes de todas las capas del sistema tengan sentido encajando unos con otros según lo esperado e independientemente de las diferencias particulares en prestaciones, fiabilidad, calidad, rendimiento, entre otras que cada vendedor incorpore en su caso particular.
       p Según este sentido, los conceptos presentes en la vista funcional son: las capas funcionales y los componentes funcionales. Se ampliará la información sobre cada uno de ellos.
@@ -341,7 +342,7 @@
             li
               i.fas.fa-chevron-right
               | Sistemas de apoyo empresarial.
-
+      p A continuación, se podrá observar en detalle los componentes funcionales por capa:
       #menu1.row.justify-content-center.mb-5(data-aos="fade")
         .col-lg-12
           img(src='@/assets/curso/temas/menu.png')
@@ -465,7 +466,7 @@
         .row.p-4.mb-4.justify-content-center.align-items-center
           .col-lg-10
             .row.cajon-gris.justify-content-center.align-items-center(data-aos="fade-left").p-4
-              .col-lg-2.col-8.py-2
+              .col-lg-2.col-6.py-2
                 img(src='@/assets/curso/temas/tema1/img32.svg', alt='')
               .col-lg-9
                 p.mb-4 Existen aspectos transversales que, como su nombre lo indica, aplican tanto a la vista del usuario como en la arquitectura y en lo funcional del lado del proveedor de servicios de computación en la nube. Estos aspectos transversales son cuestiones compartidas entre los roles, actividades y componentes funcionales que aplican a roles y sub-roles en la vista del usuario y deben considerarse en las actividades que desempeñan directa o indirectamente.
@@ -473,7 +474,7 @@
         .row.justify-content-center.align-items-center(data-aos="fade-left")
           .col-lg-9
             p Un ejemplo de aspecto transversal es la seguridad porque aplica a la infraestructura, los servicios, los proveedores de servicios en la nube, los clientes de servicios en la nube y los socios de servicios en la nube (auditores de la nube, desarrolladores de servicios en la nube, etc.).
-            p Aunque la seguridad es transversal, el proceso, implementación y gestión de esta es distinta dependiendo de la capa del servicio y del nivel funcional, (figura 1). A continuación, se mencionarán de manera general los diferentes aspectos que de manera transversal intervienen en la computación en la nube.
+            p Aunque la seguridad es transversal, el proceso, implementación y gestión de esta es distinta dependiendo de la capa del servicio y del nivel funcional, (figura 2). A continuación, se mencionarán de manera general los diferentes aspectos que de manera transversal intervienen en la computación en la nube.
           .col-lg-3
             img(src='@/assets/curso/temas/tema1/img33.svg', alt='')
         .py-4
@@ -599,7 +600,7 @@
         .py-4
         h2.titulo1 Interoperabilidad
 
-        p Este aspecto en el contexto de la computación en nube se refiere a la capacidad de un cliente de servicios de computación en la nube para interactuar e intercambiar información de acuerdo con un método prescrito y obtener resultados predecibles. En el siguiente vídeo se podrá conocer más a este respecto.
+        p Este aspecto en el contexto de la computación en nube se refiere a la capacidad de un cliente de servicios de computación en la nube para interactuar e intercambiar información de acuerdo con un método prescrito y obtener resultados predecibles. En el siguiente vídeo se podrá conocer más al respecto:
         
         figure(data-aos="fade-right")
         .video.mb-1
@@ -614,13 +615,13 @@
             .row.justify-content-center.align-items-center(data-aos="fade-left").fondo2.p-4
               .col-lg-7
                 p El mantenimiento puede tener lugar por una variedad de razones, incluida la necesidad de reparar fallas y también la necesidad de actualizar o ampliar las instalaciones, estos procesos de mantenimiento pueden cambiar el comportamiento de los servicios en la nube, por ejemplo, afectando el funcionamiento de un servicio cuando lo utiliza un cliente, por estos motivos es un elemento importante relacionado con la gobernanza tanto por las actividades en sí mismas como por los recursos subyacentes relacionados con estas acciones.
-              .col-lg-4
+              .col-lg-4.col-8
                 img(src='@/assets/curso/temas/tema1/img41.svg', alt='')
 
         .py-4
         .row.justify-content-center.align-items-center(data-aos="fade-left")
           .col-lg-7
-            p Se debe diferenciar los mantenimientos desarrollados por cliente de los desarrollados por el proveedor de servicios en la nube especialmente dependerá del tipo de servicio al cual se le programa, por ejemplo. para el caso de un servicio SaaS prácticamente todas las acciones de mantenimiento se espera que sean realizadas por el proveedor mientras que, en el caso de los servicios IaaS y PaaS, los componentes de la aplicación pertenecen al cliente y consecuentemente será el responsable del mantenimiento de esos componentes que podrá realizar con personal propio o mediante un partner asociado que proporcione servicios gestionados en su portafolio. 
+            p Se debe diferenciar los mantenimientos desarrollados por cliente de los desarrollados por el proveedor de servicios en la nube especialmente dependerá del tipo de servicio al cual se le programa, por ejemplo. para el caso de un servicio SaaS prácticamente todas las acciones de mantenimiento se espera que sean realizadas por el proveedor mientras que, en el caso de los servicios IaaS y PaaS, los componentes de la aplicación pertenecen al cliente y consecuentemente será el responsable del mantenimiento de esos componentes que podrá realizar con personal propio o mediante un #[em Partner]  asociado que proporcione servicios gestionados en su portafolio. 
             p En cualquier caso, el proveedor es responsable del entorno en el que se ejecutan los componentes de la aplicación, que varía según los detalles del servicio pero que puede incluir elementos como los recursos de #[em hardware], el sistema operativo o el #[em middleware].
             .cajon.color-secundario.bg-9.p-4.mb-4
               p Aunque inicialmente es interesante para el cliente que un servicio o una plataforma de servicios se actualice o se arregle hay que considerar que cualquier cambio en el comportamiento de un servicio puede tener un impacto negativo en la parte del cliente y que acarrea, frecuentemente, cambios en los componentes de la aplicación y en los sistemas TIC del cliente y/o nuevas acciones de capacitación de los usuarios del servicio del proveedor. Por tanto, es importante que el mantenimiento de los servicios esté sujeto a prácticas de gobierno transparentes para que el proveedor pueda estar en la mejor posición para estar prevenido anticipando acciones internas convenientemente y con el objetivo de evitar impactos significativos en el negocio.
@@ -661,7 +662,18 @@
 
         p En ambos casos, existe un aspecto importante a considerar relacionado con la portabilidad de los metadatos relacionados con los componentes de la aplicación que proporcionan información sobre las relaciones de los componentes de la aplicación y sobre la infraestructura requerida asociada, por ejemplo, la configuración de balanceo de cargas o la configuración del #[em firewall].
         p De forma similar a la pérdida de la tabla de indexación de una base de datos relacional, la conservación de los metadatos en un proceso de portabilidad es fundamental para poder materializarla.
-
+        .py-4
+        h2.titulo1 Protección de la información de la identidad personal
+        .py-3
+        .row.justify-content-center.align-items-center(data-aos="fade-left")
+          .col-lg-10.bg-rosado.p-4
+            .row.justify-content-center.align-items-center 
+              .col-lg-7
+                p Los proveedores deben proteger la recopilación, el procesamiento, la comunicación, el uso y la eliminación segura, adecuada y consistente de la información personal identificable en relación con los servicios en la nube. De acuerdo con las pautas establecidas, uno de los imperativos comerciales claves de una organización es garantizar la protección de datos personales. Aunque la computación en la nube proporciona una solución flexible para recursos compartidos y que incluye software e información, también plantea desafíos adicionales de confidencialidad para los clientes que utilizan servicios en la nube y también para los proveedores.
+              .col-lg-4
+                img(src='@/assets/curso/temas/tema1/img48.svg', alt='')
+          .py-3
+          p Ya en el mundo entero y en particular en Colombia existe regulación y normatividad que obliga a los proveedores de servicios a garantizar la información de datos personales, los requisitos legales, reglamentarios y estatutarios varían según el sector del mercado y la jurisdicción y pueden cambiar, en consecuencia, las responsabilidades tanto de los clientes como de los proveedores de servicios en la nube. El cumplimiento de tales requisitos a menudo está relacionado con las actividades de gobierno y gestión de riesgos y puede llegar a ser una labor cada vez más compleja según se incrementa la diversidad del cliente.
         .py-4
         h2.titulo1 Resiliencia
         .py-3

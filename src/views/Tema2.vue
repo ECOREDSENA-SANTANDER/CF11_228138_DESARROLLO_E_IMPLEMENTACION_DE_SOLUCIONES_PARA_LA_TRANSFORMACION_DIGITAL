@@ -24,12 +24,12 @@
 
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
       .row.justify-content-center.t1-3.mb-5(data-aos="fade-down")
-        .col-lg-10      
-          .bloque-texto-g.color-secundario.p-sm-5
+        .col-lg-11     
+          .bloque-texto-g.color-secundario.p-sm-4
             .bloque-texto-g__img(
               :style="{'background-image':`url(${require('@/assets/curso/temas/tema2/img02.png')})`}")
             .bloque-texto-g__texto.p-4
-              p Por todos estos motivos, si la definición de los roles, responsabilidades y autoridad asociada al primer término son importantes en el funcionamiento interno de una organización lo son, aún más, en el caso de la externalización de servicios de soporte esenciales para la entrega de los productos y servicios a proveedores de nube.
+              p Por todos estos motivos, si la definición de los roles, responsabilidades y autoridad asociada al primer término son importantes en el funcionamiento interno de una organización lo son, aún más, en el caso de la externalización de servicios de soporte esenciales para la entrega de los productos y servicios a proveedores de nube. <br><br>
               p Aunque el desarrollo de los servicios en nube es una forma novedosa de prestar los servicios TIC, diversos roles y responsabilidades por parte del proveedor se mantienen en relación a terminología ya utilizada en el entorno de los servicios de las nuevas tecnologías desde el inicio del presente siglo y, en muchas ocasiones, organizadas en relación a marcos de buenas prácticas como ITIL®, COBIT, entre otros posibles y según el tipo de servicio final prestado por el proveedor.
         .py-3
         p A continuación, se mencionarán algunos de los roles más importantes y sus respectivas actividades.
@@ -360,7 +360,7 @@
                 p Registrar problemas, informar los problemas de manera adecuada siguiendo los canales de comunicación con las partes establecido por el proveedor a nivel interno y con los roles externos del cliente y el partner y seguir los procesos de resolución de problemas hasta que se solucione el problema.
 
               .tarjeta.color-acento-botones.p-3(x="70%" y="41%" numero="+")
-                p Realizar un seguimiento de todos los activos computacionales, de almacenamiento, de red y de software y la relación entre ellos. Esto incluye aspectos de seguimiento como versiones y niveles de parcheo, además de información de configuración, cuando sea relevante.
+                p Realizar un seguimiento de todos los activos computacionales, de almacenamiento, de red y de #[em software] y la relación entre ellos. Esto incluye aspectos de seguimiento como versiones y niveles de parcheo, además de información de configuración, cuando sea relevante.
               
               .tarjeta.color-acento-botones.p-3(x="70%" y="48%" numero="+")
                 p Alta de nuevos activos y baja de activos antiguos. Esto puede incluir garantizar que los nuevos activos sean adecuados para su propósito y que se hayan verificado adecuadamente desde el punto de vista de la seguridad y la capacidad de gestión y puede incluir la eliminación segura de activos que ya no son necesarios considerando los datos que pueda contener.
@@ -373,7 +373,7 @@
         .py-3
         .row.py-3
           #7.subtitulo.mb-4(data-aos="fade")
-            h3.mb-0 Gerente de servicios en la nube
+            h3.mb-0 Gerente de entregas
         
         p Tiene la responsabilidad de planificar la implementación de un servicio en producción. Esto incluye la definición del entorno operativo para el servicio, los pasos iniciales para la implementación del servicio y sus dependencias y la habilitación de los procesos operativos que se utilizan durante la ejecución del servicio.
         p A continuación, se presentan las actividades que le corresponden:
@@ -388,7 +388,7 @@
                 ul.lista-ul--color
                   li 
                     i.fas.fa-chevron-right
-                    | Definir el entorno técnico requerido en términos de recursos informáticos, de almacenamiento y de red, las dependencias del software, incluida la configuración.
+                    | Definir el entorno técnico requerido en términos de recursos informáticos, de almacenamiento y de red, las dependencias del #[em software], incluida la configuración.
                   li
                     i.fas.fa-chevron-right
                     | Definir políticas y procesos para ampliar y reducir el uso de recursos en respuesta a la demanda de uso cambiante.
@@ -435,7 +435,7 @@
         .py-3
         .row.py-3
           #7.subtitulo.mb-4(data-aos="fade")
-            h3.mb-0 Gerente de entregas
+            h3.mb-0 Gerente de servicios en la nube
         
         p El gerente de servicios en la nube tiene la responsabilidad de garantizar que los servicios del proveedor estén disponibles para su uso por los clientes y que funcionen correctamente y cumplan con los objetivos especificados en el acuerdo de nivel de servicio.
         p También es responsable de garantizar el buen funcionamiento del sistema de soporte comercial y del sistema de soporte operativo del proveedor, así como, del funcionamiento de las otras funcionalidades que se ofrecen a los clientes y #[em partners] para la gestión y administración, entre otras actividades, de la computación en la nube.
@@ -477,7 +477,7 @@
 
                     li 
                       i.fas.fa-chevron-right
-                      | Instalar y configurar el software necesario para ejecutar y respaldar las implementaciones de servicios en la nube. Esto incluye la aplicación de correcciones, actualizaciones y mejoras a ese software, según sea necesario.
+                      | Instalar y configurar el #[em software] necesario para ejecutar y respaldar las implementaciones de servicios en la nube. Esto incluye la aplicación de correcciones, actualizaciones y mejoras a ese #[em software], según sea necesario.
               .row(numero="3" titulo="Desplegar y suministrar servicios")
                 .col-md-12.mb-4.mb-md-0
                   p.text-small Esta actividad implica poner en funcionamiento una implementación de servicio y ponerla a disposición en un punto final de la red accesible para los usuarios del cliente y hacer que pueda manejar las solicitudes de servicio de los usuarios. Esta actividad incluye:
@@ -524,7 +524,7 @@
                 ul.lista-ul--color
                   li 
                     i.fas.fa-chevron-right
-                    | Definir una oferta de servicio, describiendo los aspectos técnicos de la oferta (interfaces funcionales, SLA, …) y los aspectos comerciales de la oferta. Al establecer la oferta de servicios, el proveedor no debe descuidar aquellos aspectos relacionados con la interacción con otros proveedores pares.
+                    | Definir una oferta de servicio, describiendo los aspectos técnicos de la oferta (#[em interfaces] funcionales, SLA, …) y los aspectos comerciales de la oferta. Al establecer la oferta de servicios, el proveedor no debe descuidar aquellos aspectos relacionados con la interacción con otros proveedores pares.
 
                   li
                     i.fas.fa-chevron-right
@@ -593,19 +593,19 @@
           #7.subtitulo.mb-4(data-aos="fade")
             h3.mb-0 Representante de atención y soporte al cliente
         p Es la interfaz principal entre el cliente y el proveedor es responsable de reaccionar a los problemas y consultas de los clientes de manera oportuna y rentable con el objetivo de mantener la satisfacción del cliente en la relación con el proveedor y los servicios en la nube ofrecidos.
-        p Manejo de solicitudes de soporte, informes e incidentes de clientes de servicios en la nube, independientemente de cómo se reciban.
         p Las actividades del representante de atención al cliente del proveedor son esencialmente el manejo de las solicitudes de los clientes que implica:
-
+      
         .py-3
         .row.justify-content-center.align-items-center(data-aos="fade-left")
           .col-lg-10
-            .row.justify-content-center.align-items-center(data-aos="fade-left").fondo2.p-2
+            .row.justify-content-center.align-items-center(data-aos="fade-left").fondo2.p-3
               .col-lg-12
-                p Se puede proporcionar a los clientes una variedad de medios para comunicarse, desde foros a través del correo electrónico, sistemas de soporte al cliente o portales web hasta comunicación en tiempo real con el personal de soporte del proveedor.
+                p Manejo de solicitudes de soporte, informes e incidentes de clientes de servicios en la nube, independientemente de cómo se reciban.
 
-
+        p.py-4 Se puede proporcionar a los clientes una variedad de medios para comunicarse, desde foros a través del correo electrónico, sistemas de soporte al cliente o portales web hasta comunicación en tiempo real con el personal de soporte del proveedor.
+      
       .row.justify-content-center.t1-3.mb-5(data-aos="fade-down")
-        .col-lg-10      
+        .col-lg-11      
           .bloque-texto-g.color-secundario.p-sm-5
             .bloque-texto-g__img(
               :style="{'background-image':`url(${require('@/assets/curso/temas/tema2/img32.png')})`}")
@@ -625,13 +625,13 @@
             p Los proveedores de servicio de #[em cloud] pueden depender de uno o más proveedores “pares” (#[em peer]) homólogos y encadenados para proporcionar parte o la totalidad de los servicios en la nube ofrecidos a los clientes.
             .cajon.color-secundario.bg-9.p-4.mb-4
               p Las principales actividades del proveedor “entre nubes” son la intermediación, agregación, arbitraje, emparejamiento o federación de los servicios en la nube de los proveedores de servicios de nube pares y sus capacidades comerciales y de administración.
-            p El objetivo es que, desde el punto de vista del proveedor de servicios de #[em cloud] principal, los clientes solo utilicen su servicio, interfaces comerciales y de administración y, en ningún caso, las de los proveedores encadenados en el servicio del proveedor.
+            p El objetivo es que, desde el punto de vista del proveedor de servicios de #[em cloud] principal, los clientes solo utilicen su servicio, #[em interfaces] comerciales y de administración y, en ningún caso, las de los proveedores encadenados en el servicio del proveedor.
             p Las actividades del proveedor entre nubes incluyen:
           .col-lg-6
             img(src='@/assets/curso/temas/tema2/img33.png', alt='')
       .py-3
       .row.justify-content-center.align-items-center(data-aos="fade-left")
-        .col-lg-10
+        .col-lg-11
           h5 Gestionar servicios en la nube de pares: esta actividad consiste en administrar el uso de los servicios en la nube de un proveedor homólogo, implica:
 
 
@@ -669,7 +669,7 @@
 
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
       .row.justify-content-center.align-items-center(data-aos="fade-left")
-        .col-lg-10
+        .col-lg-11
            h5 Realizar #[em peering], federación, intermediación, agregación y arbitraje: esta actividad implica el uso de los servicios en la nube del proveedor homólogos de todas estas maneras particulares y que se explican a continuación:
 
     .container.amarillo.p-4.p-md-5
@@ -681,7 +681,7 @@
           ul.lista-ul--color
             li 
               i.fas.fa-chevron-right
-              | Peering es el uso de servicios en la nube de un proveedor homólogo.
+              | #[em Peering] es el uso de servicios en la nube de un proveedor homólogo.
 
 
             li
@@ -713,7 +713,12 @@
             h3.mb-0 Gestor de riesgos y seguridad del servicio en la nube
             
         p Tiene la responsabilidad de garantizar que el proveedor gestione adecuadamente los riesgos asociados con el desarrollo, la entrega, el uso y el soporte de los servicios en la nube, esto incluye garantizar la alineación de las políticas de seguridad de la información del cliente y el proveedor para cumplir, en último término, con los requisitos de seguridad establecidos en el SLA.
-        h5 Diseñar e implementar la continuidad del servicio. Esta actividad implica considerar los modos potenciales de falla de un servicio en la nube y la infraestructura de soporte y poner en marcha procesos de recuperación que permitan que el servicio en la nube esté disponible dentro de los términos del SLA, a través de técnicas como la conmutación por error y la redundancia.
+        
+        .row.py-2(data-aos="fade-left")
+          .col-lg-1
+            img.nubesize(src="@/assets/curso/temas/tema2/nube.svg", alt="")
+          .col-lg-11
+            h5 Gestionar la seguridad y los riesgos. Esta actividad consiste en la gestión de la seguridad y los riesgos asociados con el desarrollo, la entrega, el uso y el soporte de los servicios en la nube, como puede verse a continuación:
 
 
         .py-3
@@ -745,17 +750,24 @@
                 .col-md-10
                   p Asegurar que los sistemas de soporte operativo y comercial brinden acceso a los datos al personal del proveedor en función de los inquilinos de los clientes, en particular a los que brindan un servicio.
         
-        .row.justify-content-center.align-items-center(data-aos="fade-left") 
-          h5 Gestionar la seguridad y los riesgos. Esta actividad consiste en la gestión de la seguridad y los riesgos asociados con el desarrollo, la entrega, el uso y el soporte de los servicios en la nube, como puede verse a continuación:
-          .py-3
-          h5 Asegurar el cumplimiento. Esta actividad consiste en implementar el cumplimiento de normas y regulaciones e implica:
-          ul.lista-ul--color
-              li 
-                i.fas.fa-chevron-right
-                | Asegurar que la implementación del servicio en la nube y su infraestructura de soporte cumpla con los requisitos de cualquier estándar que deba ser compatible, por ejemplo, los estándares pueden ser requeridos por el cliente objetivo o pueden ser requeridos por el esquema de certificación que el proveedor ha elegido asegurar el servicio.
-              li
-                i.fas.fa-chevron-right
-                | Asegurar que la implementación del servicio en la nube y su infraestructura de soporte (incluido el manejo de datos) cumpla con los requisitos reglamentarios que puedan existir para el servicio o para los datos almacenados o procesados por el servicio.
+        .row.py-2(data-aos="fade-left")
+          .col-lg-1
+            img.nubesize(src="@/assets/curso/temas/tema2/nube.svg", alt="")
+          .col-lg-11
+            h5 Diseñar e implementar la continuidad del servicio. Esta actividad implica considerar los modos potenciales de falla de un servicio en la nube y la infraestructura de soporte y poner en marcha procesos de recuperación que permitan que el servicio en la nube esté disponible dentro de los términos del SLA, a través de técnicas como la conmutación por error y la redundancia.
+        
+        .row.py-2(data-aos="fade-left")
+          .col-lg-1
+            img.nubesize(src="@/assets/curso/temas/tema2/nube.svg", alt="")
+          .col-lg-11
+            h5 Asegurar el cumplimiento. Esta actividad consiste en implementar el cumplimiento de normas y regulaciones e implica:
+            ul.lista-ul--color
+                li 
+                  i.fas.fa-chevron-right
+                  | Asegurar que la implementación del servicio en la nube y su infraestructura de soporte cumpla con los requisitos de cualquier estándar que deba ser compatible, por ejemplo, los estándares pueden ser requeridos por el cliente objetivo o pueden ser requeridos por el esquema de certificación que el proveedor ha elegido asegurar el servicio.
+                li
+                  i.fas.fa-chevron-right
+                  | Asegurar que la implementación del servicio en la nube y su infraestructura de soporte (incluido el manejo de datos) cumpla con los requisitos reglamentarios que puedan existir para el servicio o para los datos almacenados o procesados por el servicio.
 
 
         .py-3
@@ -779,7 +791,7 @@
               div(titulo="Prestar servicios de red")
                 .row.justify-content-center.align-items-center
                   .col-md-6
-                    p.mb-0 Esta actividad implica la prestación de servicios relacionados con la red, como firewalls o equilibrio de carga.
+                    p.mb-0 Esta actividad implica la prestación de servicios relacionados con la red, como #[em firewalls] o equilibrio de carga.
                   .col-lg-6
                     img(src="@/assets/curso/temas/tema2/img37.png", alt="")
 
@@ -821,7 +833,7 @@
               .tarjeta.tarjeta--azul
                 .p-2
                   h4 Consultor
-                  p Socio que cuenta con un equipo técnico capacitado, certificado por el proveedor y que es capaz de brindar consultoría en cuanto a la mejor utilización de los recursos de la nube pública, servicios de optimización de costos, integración de software de terceros, arquitectura para diferentes cargas de trabajo, entre otro tipo de apoyos. 
+                  p Socio que cuenta con un equipo técnico capacitado, certificado por el proveedor y que es capaz de brindar consultoría en cuanto a la mejor utilización de los recursos de la nube pública, servicios de optimización de costos, integración de #[em software] de terceros, arquitectura para diferentes cargas de trabajo, entre otro tipo de apoyos. 
               
             .tarjeta-avatar-b.mb-5
               .tarjeta-avatar-b__img
@@ -942,11 +954,11 @@
                 ul.lista-ul--color
                   li 
                     i.fas.fa-chevron-right
-                    | Actúa como comerciante vendiendo el software del proveedor a sus clientes nuevos y existentes.
+                    | Actúa como comerciante vendiendo el #[em software] del proveedor a sus clientes nuevos y existentes.
 
                   li
                     i.fas.fa-chevron-right
-                    | Trabaja con un cliente para instalar y respaldar la infraestructura tecnológica necesaria para ejecutar un servicio en la nube (por ejemplo, red y alojamiento). Mientras que el proveedor de servicios en la nube crea y actualiza el software, el socio gestiona las relaciones entre el proveedor y los clientes.
+                    | Trabaja con un cliente para instalar y respaldar la infraestructura tecnológica necesaria para ejecutar un servicio en la nube (por ejemplo, red y alojamiento). Mientras que el proveedor de servicios en la nube crea y actualiza el #[em software], el socio gestiona las relaciones entre el proveedor y los clientes.
               .col-md-4.col-8
                 figure
                   img(src='@/assets/curso/temas/tema2/img51.svg', alt='Texto que describa la imagen')
@@ -992,7 +1004,7 @@
                 ul.lista-ul--color
                   li 
                     i.fas.fa-chevron-right
-                    | Diseñar y crear componentes de software que son parte de la implementación de un servicio.
+                    | Diseñar y crear componentes de #[em software] que son parte de la implementación de un servicio.
 
                   li
                     i.fas.fa-chevron-right
@@ -1024,7 +1036,7 @@
 
                   li
                     i.fas.fa-chevron-right
-                    | Describir los aspectos técnicos del servicio (interfaces funcionales, SLA, entre otros).
+                    | Describir los aspectos técnicos del servicio (#[em interfaces] funcionales, SLA, entre otros).
 
                   li 
                     i.fas.fa-chevron-right
@@ -1086,11 +1098,11 @@
 
                   li 
                     i.fas.fa-chevron-right
-                    | Obtener evidencia mediante programación, a través de un conjunto de interfaces proporcionadas por el sistema que se audita.
+                    | Obtener evidencia mediante programación, a través de un conjunto de #[em interfaces] proporcionadas por el sistema que se audita.
 
                   li
                     i.fas.fa-chevron-right
-                    | Redactar la evidencia, si es necesario, para proteger información sensible o información sujeta a control regulatorio (por ejemplo, PII).
+                    | Redactar la evidencia, si es necesario, para proteger información sensible o información sujeta a control regulatorio (por ejemplo: PII).
 
                   li 
                     i.fas.fa-chevron-right
@@ -1109,7 +1121,7 @@
                 ul.lista-ul--color
                   li 
                     i.fas.fa-chevron-right
-                    | Proporcionar un informe documentado de los resultados de la realización de una auditoría, por ejemplo, en un determinado servicio en la nube o en un proveedor de servicios en la nube o en el uso de un servicio en la nube por parte del cliente.
+                    | Proporcionar un informe documentado de los resultados de la realización de una auditoría, por ejemplo: en un determinado servicio en la nube, en un proveedor de servicios en la nube o en el uso de un servicio en la nube por parte del cliente.
 </template>
 
 <script>
