@@ -669,7 +669,7 @@
           .col-lg-10.bg-rosado.p-4
             .row.justify-content-center.align-items-center 
               .col-lg-7
-                p Los proveedores deben proteger la recopilación, el procesamiento, la comunicación, el uso y la eliminación segura, adecuada y consistente de la información personal identificable en relación con los servicios en la nube. De acuerdo con las pautas establecidas, uno de los imperativos comerciales claves de una organización es garantizar la protección de datos personales. Aunque la computación en la nube proporciona una solución flexible para recursos compartidos y que incluye software e información, también plantea desafíos adicionales de confidencialidad para los clientes que utilizan servicios en la nube y también para los proveedores.
+                p Los proveedores deben proteger la recopilación, el procesamiento, la comunicación, el uso y la eliminación segura, adecuada y consistente de la información personal identificable en relación con los servicios en la nube. De acuerdo con las pautas establecidas, uno de los imperativos comerciales claves de una organización es garantizar la protección de datos personales. Aunque la computación en la nube proporciona una solución flexible para recursos compartidos y que incluye #[em software] e información, también plantea desafíos adicionales de confidencialidad para los clientes que utilizan servicios en la nube y también para los proveedores.
               .col-lg-4
                 img(src='@/assets/curso/temas/tema1/img48.svg', alt='')
           .py-3

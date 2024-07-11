@@ -691,7 +691,7 @@
 
             li 
               i.fas.fa-chevron-right
-              | La intermediación consiste en una oferta desde un proveedor que ofrece un servicio en la nube acondicionando o mejorando el servicio en la nube de un proveedor original similar, por ejemplo, incluyendo la gestión del acceso a los servicios en la nube, proporcionando un frontal web más atractivo con una interfaz de programación de aplicaciones (API) de servicios en la nube, gestión de identidades, informes de rendimiento, seguridad mejorada, entre otros posibles.
+              | La intermediación consiste en una oferta desde un proveedor que ofrece un servicio en la nube acondicionando o mejorando el servicio en la nube de un proveedor original similar, por ejemplo, incluyendo la gestión del acceso a los servicios en la nube, proporcionando un frontal web más atractivo con una #[em interfaz] de programación de aplicaciones (API) de servicios en la nube, gestión de identidades, informes de rendimiento, seguridad mejorada, entre otros posibles.
 
 
             li
