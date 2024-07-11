@@ -342,7 +342,7 @@
             li
               i.fas.fa-chevron-right
               | Sistemas de apoyo empresarial.
-      p A continuación, se podrá observar en detalle los componentes funcionales por capa:
+      p A continuación, se podrá analizar en detalle los componentes funcionales por capa:
       #menu1.row.justify-content-center.mb-5(data-aos="fade")
         .col-lg-12
           img(src='@/assets/curso/temas/menu.png')

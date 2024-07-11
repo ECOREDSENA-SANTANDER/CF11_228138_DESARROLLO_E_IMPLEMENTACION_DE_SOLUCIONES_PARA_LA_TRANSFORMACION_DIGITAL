@@ -136,7 +136,7 @@ export default {
     {
       termino: 'AWS',
       significado:
-        'Amazón Web Services: servicios de cloud ofrecidos por Amazon.',
+        'Amazon Web Services: servicios de <i>cloud</i> ofrecidos por Amazon.',
     },
     {
       termino: 'Azure',
@@ -149,11 +149,11 @@ export default {
     },
     {
       termino: 'CSC',
-      significado: 'Cliente de Servicios Cloud. ',
+      significado: 'Cliente de Servicios <i>Cloud.</i> ',
     },
     {
       termino: 'CSP',
-      significado: 'Proveedor de Servicios Cloud. ',
+      significado: 'Proveedor de Servicios <i>Cloud</i>. ',
     },
     {
       termino: 'GCP',
@@ -165,9 +165,9 @@ export default {
         'Representa el volumen total de gases de efecto invernadero (GEI) que producen las actividades económicas y cotidianas del ser humano. ',
     },
     {
-      termino: 'Hypervisor',
+      termino: 'Hipervisor',
       significado:
-        'Un hipervisor, conocido también como monitor de máquina virtual (VMM), es un software que crea y ejecuta máquinas virtuales (VM) y que, además, aísla su sistema operativo y recursos de las máquinas virtuales y permite crearlas y gestionarlas. ',
+        'Un hipervisor, conocido también como monitor de máquina virtual (VMM), es un <i>software</i> que crea y ejecuta máquinas virtuales (VM) y que, además, aísla su sistema operativo y recursos de las máquinas virtuales y permite crearlas y gestionarlas. ',
     },
     {
       termino: 'IaaS',
@@ -198,9 +198,9 @@ export default {
         'Es un gasto recurrente que podría dotar a la compañía de la agilidad de usar los fondos en otras inversiones rentables. ',
     },
     {
-      termino: 'Partner    ',
+      termino: '<i>Partner</i>',
       significado:
-        'Socio u operador de servicios en la nube (CSN) es una parte que se dedica a respaldar o proporcionar actividades de soporte auxiliar a las actividades del cliente o proveedor de servicios cloud. ',
+        'Socio u operador de servicios en la nube (CSN) es una parte que se dedica a respaldar o proporcionar actividades de soporte auxiliar a las actividades del cliente o proveedor de servicios <i>cloud</i>. ',
     },
     {
       termino: 'PaaS    ',
@@ -208,7 +208,7 @@ export default {
     },
     {
       termino: 'SaaS    ',
-      significado: 'Software como servicio. ',
+      significado: '<i>Software</i> como servicio. ',
     },
   ],
   referencias: [
@@ -230,7 +230,7 @@ export default {
     },
     {
       referencia: 'ISO/IEC 17789:2014. (2021).',
-      link: 'https://www.iso.org/standard/60545.html',
+      link: '',
     },
     {
       referencia:
@@ -240,8 +240,7 @@ export default {
     {
       referencia:
         'Califf, C.; Sarker, S.; Skilton, M. (2016). The role and Value of a Cloud Service Partner. MIS Quarterly Executive. 15:3.',
-      link:
-        'https://www.researchgate.net/publication/309285232_The_Role_and_Value_of_a_Cloud_Service_Partner.',
+      link: '',
     },
   ],
   creditos: [

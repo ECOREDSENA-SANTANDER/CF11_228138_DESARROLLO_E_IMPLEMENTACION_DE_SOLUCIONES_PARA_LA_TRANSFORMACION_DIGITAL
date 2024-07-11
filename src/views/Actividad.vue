@@ -10,8 +10,8 @@
             img(src="@/assets/template/Falso_Verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 La infraestructura y los servicios tecnológicos
-        p.mb-4 #[b Fortalecer conceptos y generalidades para la construcción de infraestructura y servicios tecnológicos, con base en los contenidos de este componente formativo.] 
+          h2 Apropiación de conceptos
+        p.mb-4 Con esta actividad se pretende que el aprendiz se autoevalúe acerca de los conocimientos adquiridos en el componente. 
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
