@@ -15,7 +15,7 @@
       
       figure(data-aos="fade-right")
         .video.mb-1
-          iframe(width="1280" height="720" src="https://youtube.com/embed/ftIakHaCcxA" title="Infraestructura y servicios tecnológicos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="1280" height="720" src="https://youtube.com/embed/lony6fxahJQ?si=SgN0eU1lJlvGPdpy" title="Arquitectura y servicio en la nube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Arquitectura y servicios en la nube
         
   </template>

@@ -281,7 +281,7 @@
                   p Proporcionar a las partes interesadas una evaluación de la eficacia de los controles internos y la seguridad del proveedor de servicios de computación en la nube.
               .row.justify-content-center.align-items-center
                 .col-md-10
-                  p Identificar las deficiencias del control interno dentro de la organización del cliente y su interfaz con el proveedor de servicios.
+                  p Identificar las deficiencias del control interno dentro de la organización del cliente y su #[em interfaz] con el proveedor de servicios.
               .row.justify-content-center.align-items-center
                 .col-md-10.mb-4.mb-md-0
                   p Proporcionar a las partes interesadas de la auditoría una evaluación de la calidad y su capacidad para confiar en las certificaciones del proveedor de servicios con respecto a los controles internos.
@@ -473,7 +473,7 @@
 
                     li 
                       i.fas.fa-chevron-right
-                      | Instalar, configurar y realizar actualizaciones de mantenimiento en el hardware requerido para las capacidades de computación, almacenamiento y red para el #[em Datacenter] del proveedor de servicios en la nube.
+                      | Instalar, configurar y realizar actualizaciones de mantenimiento en el #[em hardware] requerido para las capacidades de computación, almacenamiento y red para el #[em Datacenter] del proveedor de servicios en la nube.
 
                     li 
                       i.fas.fa-chevron-right
@@ -592,7 +592,7 @@
         .row.py-3
           #7.subtitulo.mb-4(data-aos="fade")
             h3.mb-0 Representante de atención y soporte al cliente
-        p Es la interfaz principal entre el cliente y el proveedor es responsable de reaccionar a los problemas y consultas de los clientes de manera oportuna y rentable con el objetivo de mantener la satisfacción del cliente en la relación con el proveedor y los servicios en la nube ofrecidos.
+        p Es la #[em interfaz] principal entre el cliente y el proveedor es responsable de reaccionar a los problemas y consultas de los clientes de manera oportuna y rentable con el objetivo de mantener la satisfacción del cliente en la relación con el proveedor y los servicios en la nube ofrecidos.
         p Las actividades del representante de atención al cliente del proveedor son esencialmente el manejo de las solicitudes de los clientes que implica:
       
         .py-3
@@ -1040,7 +1040,7 @@
 
                   li 
                     i.fas.fa-chevron-right
-                    | Diseñar una interfaz para el cliente del servicio en la nube que represente los servicios compuestos a través de múltiples ofertas de proveedores de servicios en la nube.
+                    | Diseñar una #[em interfaz] para el cliente del servicio en la nube que represente los servicios compuestos a través de múltiples ofertas de proveedores de servicios en la nube.
 
                   li 
                     i.fas.fa-chevron-right

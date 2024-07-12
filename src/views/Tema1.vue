@@ -19,23 +19,23 @@
          h2 1.1 Tipos de servicios y modelos #[em Cloud]
 
         .row.justify-content-center.align-items-center(data-aos="fade-rigth")
-          .col-lg-5.justify-content-center
+          .col-lg-6.justify-content-center
             p Los servicios tradicionales se categorizan en tres tipos:
       
         .row.justify-content-center.align-items-center(data-aos="fade-right")
-          .col-lg-3.col-12.mb-4-lg-0.py-2
+          .col-lg-4.col-12.col-md-4.py-2
             .tarjeta.resaltado-azul.p-4
               img.recurso(src='@/assets/curso/temas/tema1/img2.svg' alt='AvatarTop')
               h4.py-2.text-center.txt-naranja Pass
               p.text-white.text-center Se refiere a un servicio que ofrece una plataforma para desarrollar y ejecutar aplicaciones, usualmente incluye un lenguaje de programación, acceso a APIS, #[em framework] de desarrollo, bases de datos entre otros.
     
-          .col-lg-3.col-12.mb-4-lg-0.py-2
+          .col-lg-4.col-12.col-md-4.py-2
             .tarjeta.resaltado-azul.p-4
               img.recurso(src='@/assets/curso/temas/tema1/img3.svg' alt='AvatarTop')
               h4.py-2.text-center.txt-naranja Sass
               p.text-center.text-white Es el acceso a Aplicaciones o plataformas totalmente administradas por el proveedor, el cliente solo requiere de un navegador y conexión a internet para acceder a los servicios contratados.
           
-          .col-lg-3.col-12.mb-4-lg-0.py-2
+          .col-lg-4.col-12.col-md-10.py-2
             .tarjeta.resaltado-azul.p-4
               img.recurso(src='@/assets/curso/temas/tema1/img4.svg' alt='AvatarTop')
               h4.py-2.text-center.txt-naranja Idas
@@ -88,7 +88,7 @@
                 p.mb-0 Si bien existen diferencias marcadas entre las nubes públicas o privadas, a continuación se mencionan los diferentes componentes funcionales de alto nivel presentes en una arquitectura de nube en términos generales o genérica.
         
         .cajon.color-secundario.bg-9.p-4.mb-4
-          p Los componentes funcionales representan conjuntos de funciones que se requieren para realizar las actividades de computación en nube para los diversos roles y sub-roles involucrados, de acuerdo con una abstracción más general la arquitectura funcional define unos componentes funcionales divididos en capas en las cuales cada una determina unas funciones específicas y existe una conexión sucesiva entre cada capa dada a través de interfaces. 
+          p Los componentes funcionales representan conjuntos de funciones que se requieren para realizar las actividades de computación en nube para los diversos roles y sub-roles involucrados, de acuerdo con una abstracción más general la arquitectura funcional define unos componentes funcionales divididos en capas en las cuales cada una determina unas funciones específicas y existe una conexión sucesiva entre cada capa dada a través de #[em interfaces]. 
         .py-3
         p La ISO /IEC 17789:2014 determina cuatro capas con sus respectivas funciones:
         .py-3
@@ -96,7 +96,7 @@
           .py-4.py-md-5(titulo="Capa de usuario" :icono="require('@/assets/curso/temas/tema1/img7.svg')")
             .row.justify-content-center.align-items-center(data-aos="fade-left")
               .col-md-8.mb-4.mb-md-0
-                p  La capa de usuario es la interfaz de usuario a través de la cual un cliente de servicios en la nube interactúa con el proveedor de servicios en la nube y con los servicios en la nube, realiza actividades administrativas relacionadas con el cliente y monitorea los servicios adquiridos por su organización.
+                p  La capa de usuario es la #[em interfaz] de usuario a través de la cual un cliente de servicios en la nube interactúa con el proveedor de servicios en la nube y con los servicios en la nube, realiza actividades administrativas relacionadas con el cliente y monitorea los servicios adquiridos por su organización.
               .col-md-4.col-8
                 figure
                   img(src='@/assets/curso/temas/tema1/img7.1.svg', alt='Texto que describa la imagen')
@@ -104,7 +104,7 @@
           .py-4.py-md-5(titulo="Capa de acceso" :icono="require('@/assets/curso/temas/tema1/img8.svg')")
             .row.justify-content-center.align-items-center(data-aos="fade-left")
               .col-md-8.mb-4.mb-md-0
-                p Proporciona una interfaz común para el acceso manual y automático a las capacidades disponibles en la capa de servicios. Incluye además de las capacidades de servicio, las capacidades administrativas y comerciales. Es responsable de presentar las capacidades del servicio en la nube a través de uno o más mecanismos de acceso, por ejemplo, como un conjunto de páginas web a las que se accede a través de un navegador, o como un conjunto de servicios web a los que se puede acceder mediante una comunicación segura.  Aplica la funcionalidad de seguridad adecuada al acceso de las capacidades del servicio en la nube, es decir, autentica la solicitud mediante el uso de credenciales de usuario y valida la autorización del usuario para usar capacidades particulares.
+                p Proporciona una #[em interfaz] común para el acceso manual y automático a las capacidades disponibles en la capa de servicios. Incluye además de las capacidades de servicio, las capacidades administrativas y comerciales. Es responsable de presentar las capacidades del servicio en la nube a través de uno o más mecanismos de acceso, por ejemplo, como un conjunto de páginas web a las que se accede a través de un navegador, o como un conjunto de servicios web a los que se puede acceder mediante una comunicación segura.  Aplica la funcionalidad de seguridad adecuada al acceso de las capacidades del servicio en la nube, es decir, autentica la solicitud mediante el uso de credenciales de usuario y valida la autorización del usuario para usar capacidades particulares.
                 p Es responsable de manejar el cifrado y verificar la integridad de la solicitud, cuando sea necesario, también puede ser responsable de hacer cumplir las políticas de calidad del servicio (QoS –Quality of Service) en el tráfico procedente de la capa de usuario (por ejemplo, las solicitudes de servicio que se realizan al proveedor) y, en sentido inverso, el tráfico hacia la capa de usuario (p.ej. salida de los servicios en la nube). Transmite solicitudes validadas a los componentes de la capa de servicios. La capa de acceso acepta las solicitudes del cliente o del proveedor para el consumo de los servicios en la nube, y así acceder a los servicios y recursos de los proveedores de servicios.
               .col-md-4.col-8
                 figure
@@ -223,19 +223,19 @@
           p.mb-4 La Los servicios en la nube son los elementos esenciales de la computación en la nube, son los diferentes tipos de capacidades ofertados por un proveedor de servicios de #[em Cloud], en la actualidad son muchos los diferentes tipos de servicios ofertados, pero de acuerdo al estándar ISO/IEC 17788, son tres los tipos de servicios o capacidades proporcionados por el servicio en la nube, estos son:
         
         .row.justify-content-center.align-items-center(data-aos="fade-right")
-          .col-lg-3.col-12.mb-4-lg-0.py-2
+          .col-lg-4.col-8.col-md-6.p-2
             .tarjeta.resaltado-azul.p-4.tamano-tarjeta
               img.recurso(src='@/assets/curso/temas/tema1/img2.svg' alt='AvatarTop')
               h5.py-3.text-center.txt-naranja Aplicación
               p.text-white.text-center.text-small Se encuentra en la capa más alta, es un servicio ofrecido bajo demanada a través de multitenencia, es accesible por medio de un navegador web, el usuario no tiene control sobre ella, y posibilita la reducción de costos de soporte y mantenimiento.
           
-          .col-lg-3.col-12.mb-4-lg-0.py-2
+          .col-lg-4.col-8.col-md-6.p-2
             .tarjeta.resaltado-azul.p-4.tamano-tarjeta
               img.recurso(src='@/assets/curso/temas/tema1/img3.svg' alt='AvatarTop')
               h5.py-2.text-center.txt-naranja Servicios de #[em networking] (Acceso a Redes)
               p.text-center.text-white.text-small Aquí, el proveedor proporciona la plataforma para el desarrollo de aplicaciones, así como su mantenimiento y gestión. Es decir, ofrece todo lo que se necesita para completar el ciclo de vida y despliegue de dichas aplicaciones o servicios web. El usuario carece de control sobre la infraestructura de almacenamiento o redes.
           
-          .col-lg-3.col-12.mb-4-lg-0.py-2
+          .col-lg-4.col-8.col-md-6.p-2
             .tarjeta.resaltado-azul.p-4.tamano-tarjeta
               img.recurso(src='@/assets/curso/temas/tema1/img4.svg' alt='AvatarTop')
               h5.py-3.text-center.txt-naranja Infraestructura
@@ -415,7 +415,7 @@
                   p.text-small Este componente funcional proporciona acceso a las capacidades empresariales ofrecidas por el proveedor y adquiridas por el cliente, incluye sistemas y mecanismos de soporte de tipo empresarial.
               .row(numero="4" titulo="Administración acceso")
                 .col-md-12.mb-4.mb-md-0
-                  p.text-small Proporciona acceso a las capacidades de administración ofrecidas por el proveedor, son las interfaces de gestión y administración de los accesos con que cuenta cada usuario al adquirir un servicio en la nube.
+                  p.text-small Proporciona acceso a las capacidades de administración ofrecidas por el proveedor, son las #[em interfaces] de gestión y administración de los accesos con que cuenta cada usuario al adquirir un servicio en la nube.
               .row(numero="5" titulo="Acceso al desarrollo")
                 .col-md-12.mb-4.mb-md-0
                   p.text-small Capacidades dentro del sistema ofrecidas por el proveedor de servicios en la nube, que respalda el desarrollo, la prueba y el mantenimiento de las implementaciones de servicios adquiridos.
@@ -434,7 +434,7 @@
             .row.justify-content-center.align-items-center(data-aos="fade-left")
               .col-md-5.mb-4.mb-md-0
                 h4 Capacidades de servicio
-                p Consiste en el #[em software]  necesario para implementar el servicio ofrecido a los proveedores de servicios #[em cloud], despliega y entrega la interfaz del servicio, es decir, la interfaz ofrecida a los clientes, independientemente del modo o tipo de implementación del servicio.
+                p Consiste en el #[em software]  necesario para implementar el servicio ofrecido a los proveedores de servicios #[em cloud], despliega y entrega la #[em interfaz] del servicio, es decir, la #[em interfaz] ofrecida a los clientes, independientemente del modo o tipo de implementación del servicio.
               .col-md-5.mb-3.mb-md-0
                 img(src='@/assets/curso/temas/tema1/img28.svg', alt='')
             
@@ -511,7 +511,7 @@
                   p Proporcionar a las partes interesadas una evaluación de la eficacia de los controles internos y la seguridad del proveedor de servicios de computación en la nube.
               .row.justify-content-center.align-items-center
                 .col-md-10
-                  p Identificar las deficiencias del control interno dentro de la organización del cliente y su interfaz con el proveedor de servicios.
+                  p Identificar las deficiencias del control interno dentro de la organización del cliente y su #[em interfaz] con el proveedor de servicios.
               .row.justify-content-center.align-items-center
                 .col-md-10.mb-4.mb-md-0
                   p Proporcionar a las partes interesadas de la auditoría una evaluación de la calidad y su capacidad para confiar en las certificaciones del proveedor de servicios con respecto a los controles internos.
@@ -604,7 +604,7 @@
         
         figure(data-aos="fade-right")
         .video.mb-1
-          iframe(width="1280" height="720" src="https://youtube.com/embed/ftIakHaCcxA" title="Infraestructura y servicios tecnológicos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="1280" height="720" src="https://youtube.com/embed/jnyse9K-P7A?si=jNzLtyQnar7Yvha2" title="Servicios en la nube - Interoperabilidad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Arquitectura y servicios en la nube
 
         .py-4
@@ -655,7 +655,7 @@
                 p Un ejemplo típico es la portabilidad de una organización en su rol de cliente que pueda considerar pasar de su proveedor actual en IaaS a otro alternativo. En este escenario y para el aspecto de portabilidad que se está tratando, el cliente debería poder tomar sus datos y las imágenes de sus máquinas virtuales (VM) y ponerlos en funcionamiento en un servicio IaaS equivalente de una manera relativamente sencilla. 
         .py-2
         p De forma similar cuando un cliente desea trasladar o cambiar de proveedor de servicios SaaS, debería poder llevar sus datos consigo, pero hay que considerar los costes relacionados a costes asociados a las actividades de exportar, mapear e importar los datos en la aplicación SaaS del nuevo proveedor.
-        p Un nivel más o menos elevado de costes asociados a estas actividades va a quedar determinado por el grado de alineación de los modelos y formatos de datos de los SaaS de ambos proveedores considerados. Idealmente estos SaaS deberían adoptar formatos de intercambio de datos estándar relevantes según el dominio de aplicación. El cambio entre aplicaciones SaaS también puede implicar que el cliente se adapte a una nueva interfaz de servicio y que está relacionada con la interoperabilidad del servicio como se ha indicado.
+        p Un nivel más o menos elevado de costes asociados a estas actividades va a quedar determinado por el grado de alineación de los modelos y formatos de datos de los SaaS de ambos proveedores considerados. Idealmente estos SaaS deberían adoptar formatos de intercambio de datos estándar relevantes según el dominio de aplicación. El cambio entre aplicaciones SaaS también puede implicar que el cliente se adapte a una nueva #[em interfaz] de servicio y que está relacionada con la interoperabilidad del servicio como se ha indicado.
 
         .cajon.color-secundario.bg-9.p-4.mb-4
           p En la portabilidad de aplicaciones en la nube se permite la migración de elementos de un modo similar a instancias de máquina virtual completamente detenida o una Imágen de máquina (servicio IaaS) de un proveedor a otro o la migración de componentes de aplicaciones (servicio PaaS) desde un proveedor u otro.
