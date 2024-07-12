@@ -605,7 +605,7 @@
         figure(data-aos="fade-right")
         .video.mb-1
           iframe(width="1280" height="720" src="https://youtube.com/embed/jnyse9K-P7A?si=jNzLtyQnar7Yvha2" title="Servicios en la nube - Interoperabilidad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. Arquitectura y servicios en la nube
+        figcaption Video. Servicios en la nube - Interoperabilidad
 
         .py-4
         h2.titulo1 Control de versiones
