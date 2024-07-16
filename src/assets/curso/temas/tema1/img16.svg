@@ -60,8 +60,8 @@
       <path id="Trazado_827392" data-name="Trazado 827392" d="M263.049,551.608" transform="translate(-263.049 -551.608)" fill="none"/>
     </clipPath>
   </defs>
-  <g id="Grupo_1079626" data-name="Grupo 1079626" transform="translate(-293.497 -6468.432)">
-    <g id="Grupo_1078728" data-name="Grupo 1078728" transform="translate(0 2.61)">
+  <g id="Grupo_1079628" data-name="Grupo 1079628" transform="translate(-293.497 -11949.56)">
+    <g id="Grupo_1078728" data-name="Grupo 1078728" transform="translate(0 5483.738)">
       <g id="Grupo_1078559" data-name="Grupo 1078559" transform="translate(507.465 6465.821)">
         <g id="Grupo_1078558" data-name="Grupo 1078558" transform="translate(0 0)" clip-path="url(#clip-path)">
           <path id="Trazado_827456" data-name="Trazado 827456" d="M0,0H514.185V288.011H0Z" transform="translate(0 0)" fill="#d2e1f1"/>
@@ -78,30 +78,30 @@
 Plataforma como servicio (PaaS).
 Software como servicio (SaaS).
 Red como servicio (NaaS).
-Otros adicionales." transform="translate(644 6578.708)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">Infraestructura como servicio (IaaS).</tspan><tspan x="0" y="49">Plataforma como servicio (PaaS).</tspan><tspan x="0" y="81">Software como servicio (SaaS).</tspan><tspan x="0" y="113">Red como servicio (NaaS).</tspan><tspan x="0" y="145">Otros adicionales.</tspan></text>
+Otros adicionales." transform="translate(644 6578.708)" fill="#12263f" font-size="16" font-family="SegoeUI, Segoe UI"><tspan x="0" y="17">Infraestructura como servicio (IaaS).</tspan><tspan x="0" y="49">Plataforma como servicio (PaaS).</tspan><tspan font-family="SegoeUI-Italic, Segoe UI" font-style="italic"><tspan x="0" y="81">Software</tspan><tspan y="81" xml:space="preserve" font-family="SegoeUI, Segoe UI" font-style="normal"> como servicio (SaaS).</tspan></tspan><tspan x="0" y="113">Red como servicio (NaaS).</tspan><tspan x="0" y="145">Otros adicionales.</tspan></text>
       <g id="Grupo_944" data-name="Grupo 944" transform="translate(628 6582.851)">
         <g id="Grupo_423" data-name="Grupo 423">
-          <path id="Trazado_635" data-name="Trazado 635" d="M8.385,6.763,1.856.234A.8.8,0,0,0,.725.23l0,0L.24.715a.8.8,0,0,0,0,1.131l0,0L5.722,7.332.234,12.82a.8.8,0,0,0,0,1.131l0,0,.481.481a.8.8,0,0,0,1.131,0l0,0L8.385,7.9a.81.81,0,0,0,0-1.139Z" transform="translate(0.002 0.002)" fill="#12263f"/>
+          <path id="Trazado_635" data-name="Trazado 635" d="M8.385,6.763,1.856.234A.8.8,0,0,0,.725.23l0,0L.24.715a.8.8,0,0,0,0,1.131l0,0L5.722,7.332.234,12.82a.8.8,0,0,0,0,1.131l0,0,.481.481a.8.8,0,0,0,1.131,0l0,0L8.385,7.9a.81.81,0,0,0,0-1.139Z" transform="translate(0.002 0.002)" fill="#ff6148"/>
         </g>
       </g>
       <g id="Grupo_944-2" data-name="Grupo 944" transform="translate(628 6646.851)">
         <g id="Grupo_423-2" data-name="Grupo 423">
-          <path id="Trazado_635-2" data-name="Trazado 635" d="M8.385,6.763,1.856.234A.8.8,0,0,0,.725.23l0,0L.24.715a.8.8,0,0,0,0,1.131l0,0L5.722,7.332.234,12.82a.8.8,0,0,0,0,1.131l0,0,.481.481a.8.8,0,0,0,1.131,0l0,0L8.385,7.9a.81.81,0,0,0,0-1.139Z" transform="translate(0.002 0.002)" fill="#12263f"/>
+          <path id="Trazado_635-2" data-name="Trazado 635" d="M8.385,6.763,1.856.234A.8.8,0,0,0,.725.23l0,0L.24.715a.8.8,0,0,0,0,1.131l0,0L5.722,7.332.234,12.82a.8.8,0,0,0,0,1.131l0,0,.481.481a.8.8,0,0,0,1.131,0l0,0L8.385,7.9a.81.81,0,0,0,0-1.139Z" transform="translate(0.002 0.002)" fill="#ff6148"/>
         </g>
       </g>
       <g id="Grupo_944-3" data-name="Grupo 944" transform="translate(628 6614.851)">
         <g id="Grupo_423-3" data-name="Grupo 423">
-          <path id="Trazado_635-3" data-name="Trazado 635" d="M8.385,6.763,1.856.234A.8.8,0,0,0,.725.23l0,0L.24.715a.8.8,0,0,0,0,1.131l0,0L5.722,7.332.234,12.82a.8.8,0,0,0,0,1.131l0,0,.481.481a.8.8,0,0,0,1.131,0l0,0L8.385,7.9a.81.81,0,0,0,0-1.139Z" transform="translate(0.002 0.002)" fill="#12263f"/>
+          <path id="Trazado_635-3" data-name="Trazado 635" d="M8.385,6.763,1.856.234A.8.8,0,0,0,.725.23l0,0L.24.715a.8.8,0,0,0,0,1.131l0,0L5.722,7.332.234,12.82a.8.8,0,0,0,0,1.131l0,0,.481.481a.8.8,0,0,0,1.131,0l0,0L8.385,7.9a.81.81,0,0,0,0-1.139Z" transform="translate(0.002 0.002)" fill="#ff6148"/>
         </g>
       </g>
       <g id="Grupo_944-4" data-name="Grupo 944" transform="translate(628 6678.851)">
         <g id="Grupo_423-4" data-name="Grupo 423">
-          <path id="Trazado_635-4" data-name="Trazado 635" d="M8.385,6.763,1.856.234A.8.8,0,0,0,.725.23l0,0L.24.715a.8.8,0,0,0,0,1.131l0,0L5.722,7.332.234,12.82a.8.8,0,0,0,0,1.131l0,0,.481.481a.8.8,0,0,0,1.131,0l0,0L8.385,7.9a.81.81,0,0,0,0-1.139Z" transform="translate(0.002 0.002)" fill="#12263f"/>
+          <path id="Trazado_635-4" data-name="Trazado 635" d="M8.385,6.763,1.856.234A.8.8,0,0,0,.725.23l0,0L.24.715a.8.8,0,0,0,0,1.131l0,0L5.722,7.332.234,12.82a.8.8,0,0,0,0,1.131l0,0,.481.481a.8.8,0,0,0,1.131,0l0,0L8.385,7.9a.81.81,0,0,0,0-1.139Z" transform="translate(0.002 0.002)" fill="#ff6148"/>
         </g>
       </g>
       <g id="Grupo_944-5" data-name="Grupo 944" transform="translate(628 6710.851)">
         <g id="Grupo_423-5" data-name="Grupo 423">
-          <path id="Trazado_635-5" data-name="Trazado 635" d="M8.385,6.763,1.856.234A.8.8,0,0,0,.725.23l0,0L.24.715a.8.8,0,0,0,0,1.131l0,0L5.722,7.332.234,12.82a.8.8,0,0,0,0,1.131l0,0,.481.481a.8.8,0,0,0,1.131,0l0,0L8.385,7.9a.81.81,0,0,0,0-1.139Z" transform="translate(0.002 0.002)" fill="#12263f"/>
+          <path id="Trazado_635-5" data-name="Trazado 635" d="M8.385,6.763,1.856.234A.8.8,0,0,0,.725.23l0,0L.24.715a.8.8,0,0,0,0,1.131l0,0L5.722,7.332.234,12.82a.8.8,0,0,0,0,1.131l0,0,.481.481a.8.8,0,0,0,1.131,0l0,0L8.385,7.9a.81.81,0,0,0,0-1.139Z" transform="translate(0.002 0.002)" fill="#ff6148"/>
         </g>
       </g>
       <g id="Grupo_1078727" data-name="Grupo 1078727" transform="translate(6856 11828.877)">

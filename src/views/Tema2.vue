@@ -30,7 +30,7 @@
               :style="{'background-image':`url(${require('@/assets/curso/temas/tema2/img02.png')})`}")
             .bloque-texto-g__texto.p-4
               p Por todos estos motivos, si la definición de los roles, responsabilidades y autoridad asociada al primer término son importantes en el funcionamiento interno de una organización lo son, aún más, en el caso de la externalización de servicios de soporte esenciales para la entrega de los productos y servicios a proveedores de nube. <br><br>
-              p Aunque el desarrollo de los servicios en nube es una forma novedosa de prestar los servicios TIC, diversos roles y responsabilidades por parte del proveedor se mantienen en relación a terminología ya utilizada en el entorno de los servicios de las nuevas tecnologías desde el inicio del presente siglo y, en muchas ocasiones, organizadas en relación a marcos de buenas prácticas como ITIL®, COBIT, entre otros posibles y según el tipo de servicio final prestado por el proveedor.
+              p Aunque el desarrollo de los servicios en nube es una forma novedosa de prestar los servicios TIC, diversos roles y responsabilidades por parte del proveedor se mantienen con relación a terminología ya utilizada en el entorno de los servicios de las nuevas tecnologías desde el inicio del presente siglo y, en muchas ocasiones, organizadas con relación a marcos de buenas prácticas como ITIL®, COBIT, entre otros posibles y según el tipo de servicio final prestado por el proveedor.
         .py-3
         p A continuación, se mencionarán algunos de los roles más importantes y sus respectivas actividades.
 
@@ -44,7 +44,7 @@
               .col-lg-8
                 p Un cliente de servicios en la nube mantiene una relación comercial con un proveedor de servicios para el uso de unos servicios específicos, adicionalmente, un cliente de servicios en la nube puede mantener una relación comercial con un socio de servicios en la nube para una variedad de propósitos.
                 p Se Indica a continuación los cuatro sub-roles más habituales en el lado del cliente:
-              .col-lg-3
+              .col-lg-3.col-8
                 img(src='@/assets/curso/temas/tema2/img03.svg', alt='')
         .py-2
         .row.py-3
@@ -83,7 +83,7 @@
                 ul.lista-ul--color
                   li 
                     i.fas.fa-chevron-right
-                    | La provisión de las credenciales de usuario para permitir al proveedor autenticar al usuario y otorgar acceso al servicio en la nube “de prueba“.
+                    | La provisión de las credenciales de usuario para permitir al proveedor autenticar al usuario y otorgar acceso al servicio en la nube “de prueba”.
                   li
                     i.fas.fa-chevron-right
                     | La invocación del servicio en la nube “de prueba” que el cliente puede probar con fines comerciales.
@@ -258,7 +258,7 @@
             .row.justify-content-center.align-items-center(data-aos="fade-left").p-4
               .col-md-6.mb-4.mb-md-0
                 h4.py-2 Solicitar informe de auditoría
-                p Implica que el cliente del servicio en la nube solicite el informe de una auditoría del servicio, normalmente conforme a un esquema o estándar de auditoría en particular (por ejemplo ISO 27017).
+                p Implica que el cliente del servicio en la nube solicite el informe de una auditoría del servicio, normalmente conforme a un esquema o estándar de auditoría en particular (por ejemplo, ISO 27017).
                 p El cliente del servicio en la nube puede solicitar el informe a un auditor de la nube, o posiblemente al proveedor del servicio en la nube, aunque se espera que el informe de auditoría sea preparado por una entidad independiente del proveedor del servicio en la nube antes de que se complete una compra y también periódicamente a lo largo de uso del servicio.
               .col-md-5.mb-3.mb-md-0
                 img(src='@/assets/curso/temas/tema2/img19.png', alt='')
@@ -281,7 +281,7 @@
                   p Proporcionar a las partes interesadas una evaluación de la eficacia de los controles internos y la seguridad del proveedor de servicios de computación en la nube.
               .row.justify-content-center.align-items-center
                 .col-md-10
-                  p Identificar las deficiencias del control interno dentro de la organización del cliente y su #[em interfaz] con el proveedor de servicios.
+                  p Identificar las deficiencias del control interno dentro de la organización del cliente y su interfaz con el proveedor de servicios.
               .row.justify-content-center.align-items-center
                 .col-md-10.mb-4.mb-md-0
                   p Proporcionar a las partes interesadas de la auditoría una evaluación de la calidad y su capacidad para confiar en las certificaciones del proveedor de servicios con respecto a los controles internos.
@@ -294,13 +294,13 @@
                   ul.lista-ul--color
                     li 
                       i.fas.fa-chevron-right
-                      | La gobernanza que afecta a la computación en la nube
+                      | La gobernanza que afecta a la computación en la nube.
                     li
                       i.fas.fa-chevron-right
-                      | El cumplimiento contractual entre el prestador de servicios y el cliente
+                      | El cumplimiento contractual entre el prestador de servicios y el cliente.
                     li 
                       i.fas.fa-chevron-right
-                      | Controlar problemas específicos de la computación en nube
+                      | Controlar problemas específicos de la computación en nube.
               .row.justify-content-center.align-items-center
                 .col-md-10
                   p Dado que las áreas bajo revisión dependen en gran medida de la efectividad de los controles generales de TI básicos, se suelen realizar revisiones de aseguramiento de las siguientes áreas previas a la ejecución de la revisión propiamente dicha de los servicios de nube. 
@@ -345,7 +345,7 @@
                 p Capturar eventos y datos que son importantes para el negocio del proveedor y presentar estos datos en una forma que sea significativa para el gerente comercial del proveedor. Dicha información incluye elementos como el uso de los servicios en la nube por parte de los clientes y el costo de prestación de esos servicios.
               
               .tarjeta.color-acento-botones.p-3(x="45%" y="55%" numero="+")
-                p Administrar la infraestructura de red, incluidos routers, servidores de nombres de dominio, direcciones IP, redes privadas virtuales (VPN), cortafuegos y filtrado de contenido.
+                p Administrar la infraestructura de red, incluidos #[em routers], servidores de nombres de dominio, direcciones IP, redes privadas virtuales (VPN), cortafuegos y filtrado de contenido.
               .tarjeta.color-acento-botones.p-3(x="45%" y="62%" numero="+")
                 p Asignar y administrar el almacenamiento.
               .tarjeta.color-acento-botones.p-3(x="45%" y="70%" numero="+")
@@ -357,7 +357,7 @@
               .tarjeta.color-acento-botones.p-3(x="45%" y="91%" numero="+")
                 p Supervisar el comportamiento del entorno TIC del proveedor para garantizar que esté funcionando correctamente y que los servicios en la nube proporcionados cumplan los términos del SLA.
               .tarjeta.color-acento-botones.p-3(x="45%" y="98%" numero="+")
-                p Registrar problemas, informar los problemas de manera adecuada siguiendo los canales de comunicación con las partes establecido por el proveedor a nivel interno y con los roles externos del cliente y el partner y seguir los procesos de resolución de problemas hasta que se solucione el problema.
+                p Registrar problemas, informar los problemas de manera adecuada siguiendo los canales de comunicación con las partes establecido por el proveedor a nivel interno y con los roles externos del cliente y el #[em partner] y seguir los procesos de resolución de problemas hasta que se solucione el problema.
 
               .tarjeta.color-acento-botones.p-3(x="70%" y="41%" numero="+")
                 p Realizar un seguimiento de todos los activos computacionales, de almacenamiento, de red y de #[em software] y la relación entre ellos. Esto incluye aspectos de seguimiento como versiones y niveles de parcheo, además de información de configuración, cuando sea relevante.
@@ -512,7 +512,7 @@
           #7.subtitulo.mb-4(data-aos="fade")
             h3.mb-0 Gerente comercial de servicios en la nube
         
-        p Tiene la responsabilidad general en los aspectos comerciales y ofrecer servicios en la nube a los clientes. El gerente comercial de servicios en la nube crea y da seguimiento al plan comercial, define la estrategia de oferta de servicios y administra la relación comercial con los clientes. Las actividades de computación en la nube del proveedor: administrador comercial de servicios en la nube son:
+        p Tiene la responsabilidad general en los aspectos comerciales y ofrecer servicios en la nube a los clientes. El gerente comercial de servicios en la nube crea y da seguimiento al plan comercial, define la estrategia de oferta de servicios y administra la relación comercial con los clientes. Las actividades de computación en la nube del proveedor y administrador comercial de servicios en la nube son:
         
         .py-4
         .bg2.mb-4(data-aos="fade-down")
@@ -524,7 +524,7 @@
                 ul.lista-ul--color
                   li 
                     i.fas.fa-chevron-right
-                    | Definir una oferta de servicio, describiendo los aspectos técnicos de la oferta (#[em interfaces] funcionales, SLA, …) y los aspectos comerciales de la oferta. Al establecer la oferta de servicios, el proveedor no debe descuidar aquellos aspectos relacionados con la interacción con otros proveedores pares.
+                    | Definir una oferta de servicio, describiendo los aspectos técnicos de la oferta (interfaces funcionales, SLA, …) y los aspectos comerciales de la oferta. Al establecer la oferta de servicios, el proveedor no debe descuidar aquellos aspectos relacionados con la interacción con otros proveedores pares.
 
                   li
                     i.fas.fa-chevron-right
@@ -592,7 +592,7 @@
         .row.py-3
           #7.subtitulo.mb-4(data-aos="fade")
             h3.mb-0 Representante de atención y soporte al cliente
-        p Es la #[em interfaz] principal entre el cliente y el proveedor es responsable de reaccionar a los problemas y consultas de los clientes de manera oportuna y rentable con el objetivo de mantener la satisfacción del cliente en la relación con el proveedor y los servicios en la nube ofrecidos.
+        p Es la interfaz principal entre el cliente y el proveedor es responsable de reaccionar a los problemas y consultas de los clientes de manera oportuna y rentable con el objetivo de mantener la satisfacción del cliente en la relación con el proveedor y los servicios en la nube ofrecidos.
         p Las actividades del representante de atención al cliente del proveedor son esencialmente el manejo de las solicitudes de los clientes que implica:
       
         .py-3
@@ -602,7 +602,7 @@
               .col-lg-12
                 p Manejo de solicitudes de soporte, informes e incidentes de clientes de servicios en la nube, independientemente de cómo se reciban.
 
-        p.py-4 Se puede proporcionar a los clientes una variedad de medios para comunicarse, desde foros a través del correo electrónico, sistemas de soporte al cliente o portales web hasta comunicación en tiempo real con el personal de soporte del proveedor.
+        p.py-4 Se puede proporcionar a los clientes una variedad de medios para comunicarse, desde foros a través del correo electrónico, sistemas de soporte al cliente o portales #[em web] hasta comunicación en tiempo real con el personal de soporte del proveedor.
       
       .row.justify-content-center.t1-3.mb-5(data-aos="fade-down")
         .col-lg-11      
@@ -625,7 +625,7 @@
             p Los proveedores de servicio de #[em cloud] pueden depender de uno o más proveedores “pares” (#[em peer]) homólogos y encadenados para proporcionar parte o la totalidad de los servicios en la nube ofrecidos a los clientes.
             .cajon.color-secundario.bg-9.p-4.mb-4
               p Las principales actividades del proveedor “entre nubes” son la intermediación, agregación, arbitraje, emparejamiento o federación de los servicios en la nube de los proveedores de servicios de nube pares y sus capacidades comerciales y de administración.
-            p El objetivo es que, desde el punto de vista del proveedor de servicios de #[em cloud] principal, los clientes solo utilicen su servicio, #[em interfaces] comerciales y de administración y, en ningún caso, las de los proveedores encadenados en el servicio del proveedor.
+            p El objetivo es que, desde el punto de vista del proveedor de servicios de #[em cloud] principal, los clientes solo utilicen su servicio, interfaces comerciales y de administración y, en ningún caso, las de los proveedores encadenados en el servicio del proveedor.
             p Las actividades del proveedor entre nubes incluyen:
           .col-lg-6
             img(src='@/assets/curso/temas/tema2/img33.png', alt='')
@@ -691,7 +691,7 @@
 
             li 
               i.fas.fa-chevron-right
-              | La intermediación consiste en una oferta desde un proveedor que ofrece un servicio en la nube acondicionando o mejorando el servicio en la nube de un proveedor original similar, por ejemplo, incluyendo la gestión del acceso a los servicios en la nube, proporcionando un frontal web más atractivo con una #[em interfaz] de programación de aplicaciones (API) de servicios en la nube, gestión de identidades, informes de rendimiento, seguridad mejorada, entre otros posibles.
+              | La intermediación consiste en una oferta desde un proveedor que ofrece un servicio en la nube acondicionando o mejorando el servicio en la nube de un proveedor original similar, por ejemplo, incluyendo la gestión del acceso a los servicios en la nube, proporcionando un frontal #[em web] más atractivo con una interfaz de programación de aplicaciones (API) de servicios en la nube, gestión de identidades, informes de rendimiento, seguridad mejorada, entre otros posibles.
 
 
             li
@@ -730,7 +730,7 @@
                   p Definir la política de seguridad de la información, teniendo en cuenta los requisitos del servicio, los requisitos legales y reglamentarios y las obligaciones contractuales y SLA.
               .row.justify-content-center.align-items-center
                 .col-md-10
-                  p Definir los riesgos de seguridad de la información relacionados con el servicio en la nube y detectar aquellos riesgos relacionados con el cumplimiento de los objetivos comerciales del proveedor Como consideración importante, indicada en el tema sobre rentabilidad en la nube y modelos económicos del cliente y del proveedor, es que la gestión de los riesgos de seguridad de la información tiene un costo asociado. En consecuencia, el proveedor podría asumir la posición comercial de no manejar algunos riesgos, dejando la responsabilidad de esos riesgos al cliente mediante el contrato de servicio, con el fin de no asumir estos costes directamente y redirigiéndolos a otras partes del mercado.
+                  p Definir los riesgos de seguridad de la información relacionados con el servicio en la nube y detectar aquellos riesgos relacionados con el cumplimiento de los objetivos comerciales del proveedor. Como consideración importante, indicada en el tema sobre rentabilidad en la nube y modelos económicos del cliente y del proveedor, es que la gestión de los riesgos de seguridad de la información tiene un costo asociado. En consecuencia, el proveedor podría asumir la posición comercial de no manejar algunos riesgos, dejando la responsabilidad de esos riesgos al cliente mediante el contrato de servicio, con el fin de no asumir estos costes directamente y redirigiéndolos a otras partes del mercado.
               .row.justify-content-center.align-items-center
                 .col-md-10.mb-4.mb-md-0
                   p Seleccionar el punto de diseño y los controles de seguridad de la información necesarios para abordar los riesgos asociados con el servicio y el punto de diseño elegido. Los controles suelen cubrir un conjunto de categorías como la gestión de identidad y acceso, seguridad física y personal, protección de datos y activos de información y que se pueden presentar organizados de diferente forma en el caso de los marcos de seguridad de referencia (ISO 27002, ISO 27017, #[em Cloud Security Alliance, NIST].)
@@ -841,7 +841,7 @@
               .tarjeta.tarjeta--azul
                 .p-2
                   h4 Proveedor de servicios gestionados (MSP)
-                  p Socio que realmente se ocupa del entorno de nube pública del cliente y actúa como un equipo de infraestructura o DevOps externo, de acuerdo con los principios de confiabilidad del sitio.
+                  p Socio que realmente se ocupa del entorno de nube pública del cliente y actúa como un equipo de infraestructura o #[em DevOps] externo, de acuerdo con los principios de confiabilidad del sitio.
             
             .tarjeta-avatar-b.mb-5
               .tarjeta-avatar-b__img
@@ -884,7 +884,7 @@
               div(titulo="Soporte 24/7")
                 .row.justify-content-center
                   .col-md-6
-                    p.mb-0 Los socios pueden ofrecer asistencia las 24 horas, los 7 días de la semana en el idioma local y dentro de su zona horaria. El soporte de un socio es proporcionado por consultores y arquitectos certificados y capacitados y su objetivo es resolver el problema sin necesidad de planteárselo al proveedor. 
+                    p.mb-0 Los socios pueden ofrecer asistencia las 24 horas, los 7 días de la semana en el idioma local y dentro de su zona horaria. El soporte de un socio es proporcionado por consultores y arquitectos certificados y capacitados y su objetivo es resolver el problema sin necesidad de planteárselo al proveedor. <br><br>
                     p En último término, un socio puede presentar el #[em ticket] en nombre del cliente directamente con el proveedor y escalar el problema a instancias superiores dentro de la organización de soporte del proveedor si es necesario. 
                     p Existe una gran variedad de programas de atención al cliente disponibles con la planificación proactiva de las actividades futuras con el cliente en los más avanzados.
                   .col-lg-5
@@ -973,7 +973,7 @@
 
                   li
                     i.fas.fa-chevron-right
-                    | Interactúa con sus clientes únicamente a través de un ecosistema de segundo nivel
+                    | Interactúa con sus clientes únicamente a través de un ecosistema de segundo nivel.
 
                   li 
                     i.fas.fa-chevron-right
@@ -981,7 +981,7 @@
 
                   li
                     i.fas.fa-chevron-right
-                    | Diseña portales web fáciles de usar con gestión de identidad para el cliente.
+                    | Diseña portales #[em web] fáciles de usar con gestión de identidad para el cliente.
               .col-md-4.col-8
                 figure
                   img(src='@/assets/curso/temas/tema2/img52.svg', alt='Texto que describa la imagen')
@@ -1036,11 +1036,11 @@
 
                   li
                     i.fas.fa-chevron-right
-                    | Describir los aspectos técnicos del servicio (#[em interfaces] funcionales, SLA, entre otros).
+                    | Describir los aspectos técnicos del servicio (interfaces funcionales, SLA, entre otros).
 
                   li 
                     i.fas.fa-chevron-right
-                    | Diseñar una #[em interfaz] para el cliente del servicio en la nube que represente los servicios compuestos a través de múltiples ofertas de proveedores de servicios en la nube.
+                    | Diseñar una interfaz para el cliente del servicio en la nube que represente los servicios compuestos a través de múltiples ofertas de proveedores de servicios en la nube.
 
                   li 
                     i.fas.fa-chevron-right
@@ -1098,7 +1098,7 @@
 
                   li 
                     i.fas.fa-chevron-right
-                    | Obtener evidencia mediante programación, a través de un conjunto de #[em interfaces] proporcionadas por el sistema que se audita.
+                    | Obtener evidencia mediante programación, a través de un conjunto de interfaces proporcionadas por el sistema que se audita.
 
                   li
                     i.fas.fa-chevron-right

@@ -118,7 +118,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/228138_CF11_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -266,12 +266,12 @@ export default {
           nombre: 'Henry Eduardo Bastidas Paruma ',
           cargo: 'Instructor',
           centro:
-            'Centro de Teleinformática y Producción Industrial - Regional Cauca',
+            'Regional Cauca - Centro de Teleinformática y Producción Industrial',
         },
         {
           nombre: 'María Inés Machado López',
           cargo: 'Diseñadora Instruccional',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Ana Catalina Córdoba Sus ',
@@ -302,7 +302,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Yazmin Rocio Figueroa Pacheco',
+          nombre: 'Yazmín Rocío Figueroa Pacheco',
           cargo: 'Diseñador de Contenidos Digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
@@ -316,6 +316,11 @@ export default {
           cargo: 'Animadora y Productora Multimedia',
           centro: 'Regional Santander - Centro Agroturístico',
         },
+        {
+          nombre: 'Lucenith Pinilla Moreno',
+          cargo: 'Desarrollador <i>Fullstack</i> Junior',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
       ],
     },
     {
@@ -327,7 +332,7 @@ export default {
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
-          nombre: 'Erika Fernanda Mejía Pinzón',
+          nombre: 'Diana Lizeth Lozada Díaz',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro: 'Regional Santander - Centro Agroturístico',
         },
