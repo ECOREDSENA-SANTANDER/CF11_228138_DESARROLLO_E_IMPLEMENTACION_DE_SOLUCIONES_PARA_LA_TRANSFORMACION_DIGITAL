@@ -877,7 +877,7 @@
               div(titulo="Especialistas disponibles en cualquier momento que los necesite")
                 .row.justify-content-center
                   .col-md-6
-                    p.mb-0 La escasez de personal preparado complica a las organizaciones la disponibilidad de profesionales a los equipos de infraestructura o de desarrollo de aplicaciones en entornos actuales como DevOps, un socio puede evitar la espera de meses de contratación asignando miembros de su equipo cuando sea requerido. Además de las habilidades necesarias, estos miembros estarían respaldados por otros arquitectos y expertos de soluciones certificados de alto nivel y directamente del proveedor.
+                    p.mb-0 La escasez de personal preparado complica a las organizaciones la disponibilidad de profesionales a los equipos de infraestructura o de desarrollo de aplicaciones en entornos actuales como #[em DevOps], un socio puede evitar la espera de meses de contratación asignando miembros de su equipo cuando sea requerido. Además de las habilidades necesarias, estos miembros estarían respaldados por otros arquitectos y expertos de soluciones certificados de alto nivel y directamente del proveedor.
                   .col-lg-5
                     img(src="@/assets/curso/temas/tema2/img42.png", alt="")
               

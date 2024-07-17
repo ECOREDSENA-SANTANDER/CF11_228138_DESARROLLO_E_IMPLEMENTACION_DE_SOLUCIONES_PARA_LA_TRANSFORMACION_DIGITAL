@@ -178,7 +178,7 @@ export default {
       significado: 'Redes como servicio. ',
     },
     {
-      termino: 'Nube Hibrida ',
+      termino: 'Nube Híbrida ',
       significado:
         'Son nubes que combinan las características de dos nubes privadas, las nubes públicas o compartidas, se caracterizan por que permiten el poder compartir servicios e infraestructura entre ambas nubes. ',
     },
@@ -188,7 +188,7 @@ export default {
         'En este tipo de nube los servicios y la infraestructura es gestionada específicamente por una organización y no se ofrecen estos servicios al público en general. ',
     },
     {
-      termino: 'Nube Publica    ',
+      termino: 'Nube Pública    ',
       significado:
         'Los servicios e infraestructura son gestionados por un proveedor de tecnológico el cual ofrece estos servicios al público en general.',
     },
