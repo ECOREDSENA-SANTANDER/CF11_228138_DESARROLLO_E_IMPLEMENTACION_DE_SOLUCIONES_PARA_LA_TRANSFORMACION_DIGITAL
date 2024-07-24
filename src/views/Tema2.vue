@@ -899,7 +899,8 @@
                   .col-lg-5
                     img(src="@/assets/curso/temas/tema2/img44.png", alt="")
         .py-3
-        p A modo de clasificación general resumida, únicamente como ayuda para la identificación de las actividades principales en un mercado competitivo entre socios cada vez más diverso y variado. a continuación, se indican los roles y actividades principales de los #[em partners].  El objetivo de esta introducción es la de diferenciar la labor de los #[em partners] con respecto al rol y actividades de los proveedores de forma más clara.
+        p A modo de clasificación general resumida, únicamente como ayuda para la identificación de las actividades principales en un mercado competitivo entre socios cada vez más diverso y variado. 
+        p A continuación, se indican los roles y actividades principales de los #[em partners].  El objetivo de esta introducción es la de diferenciar la labor de los #[em partners] con respecto al rol y actividades de los proveedores de forma más clara.
         .py-3
         TabsB.color-primario
           .py-4.py-md-5(titulo="<i>Partner</i> como proveedor" :icono="require('@/assets/curso/temas/tema2/img45.svg')")
