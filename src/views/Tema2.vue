@@ -43,7 +43,7 @@
             .row.justify-content-center.align-items-center(data-aos="fade-left").fondo2.p-4
               .col-lg-8
                 p Un cliente de servicios en la nube mantiene una relación comercial con un proveedor de servicios para el uso de unos servicios específicos, adicionalmente, un cliente de servicios en la nube puede mantener una relación comercial con un socio de servicios en la nube para una variedad de propósitos.
-                p Se Indica a continuación los cuatro sub-roles más habituales en el lado del cliente:
+                p Se Indica a continuación los cuatro subroles más habituales en el lado del cliente:
               .col-lg-3.col-8
                 img(src='@/assets/curso/temas/tema2/img03.svg', alt='')
         .py-2
@@ -314,7 +314,7 @@
             .row.justify-content-center.align-items-center(data-aos="fade-left").fondo2.p-4
               .col-lg-9
                 p Un proveedor de servicios en la nube pone los servicios en la nube a disposición de los clientes de servicios en la nube, esta función (y todas sus sub-funciones) se centra en las actividades de computación necesarias en la nube para proporcionar un servicio allí y para garantizar su entrega al proveedor, así como el mantenimiento del servicio en la nube.
-                p Adicionalmente a la propia prestación del servicio, el proveedor es responsable de gestionar la relación comercial con los clientes del servicio en la nube; se indica a continuación los sub-roles más habituales en el lado del proveedor con las actividades típicas relacionadas.
+                p Adicionalmente a la propia prestación del servicio, el proveedor es responsable de gestionar la relación comercial con los clientes del servicio en la nube; se indica a continuación los subroles más habituales en el lado del proveedor con las actividades típicas relacionadas.
               .col-lg-3.col-8
                 img(src='@/assets/curso/temas/tema2/img21.png', alt='')
         .py-3
@@ -899,7 +899,7 @@
                   .col-lg-5
                     img(src="@/assets/curso/temas/tema2/img44.png", alt="")
         .py-3
-        p A modo de clasificación general resumida, únicamente como ayuda para la identificación de las actividades principales en un mercado competitivo entre socios cada vez más diverso y variado, a continuación, se indican los roles y actividades principales de los #[em partners].  El objetivo de esta introducción es la de diferenciar la labor de los #[em partners] con respecto al rol y actividades de los proveedores de forma más clara.
+        p A modo de clasificación general resumida, únicamente como ayuda para la identificación de las actividades principales en un mercado competitivo entre socios cada vez más diverso y variado. a continuación, se indican los roles y actividades principales de los #[em partners].  El objetivo de esta introducción es la de diferenciar la labor de los #[em partners] con respecto al rol y actividades de los proveedores de forma más clara.
         .py-3
         TabsB.color-primario
           .py-4.py-md-5(titulo="<i>Partner</i> como proveedor" :icono="require('@/assets/curso/temas/tema2/img45.svg')")
@@ -992,7 +992,7 @@
          h2 2.4 Desarrollador de servicios de nube
 
         p Es el responsable de diseñar, desarrollar, probar y mantener la implementación de un servicio en la nube, esto puede implicar componer la implementación del servicio a partir de implementaciones de servicios existentes.
-        p El integrador de servicios en la nube y el desarrollador de componentes de servicios en la nube describen sub-roles del desarrollador de servicios en la nube, donde el integrador de servicios en la nube se ocupa de la composición de un servicio desde otros servicios y donde el desarrollador del componente del servicio en la nube se ocupa del diseño, creación, prueba y mantenimiento de componentes de servicio individuales. Esto incluye implementaciones de servicios y componentes de servicios que implican interacciones con proveedores de servicio homólogos.
+        p El integrador de servicios en la nube y el desarrollador de componentes de servicios en la nube describen subroles del desarrollador de servicios en la nube, donde el integrador de servicios en la nube se ocupa de la composición de un servicio desde otros servicios y donde el desarrollador del componente del servicio en la nube se ocupa del diseño, creación, prueba y mantenimiento de componentes de servicio individuales. Esto incluye implementaciones de servicios y componentes de servicios que implican interacciones con proveedores de servicio homólogos.
         p Las actividades de computación en la nube del desarrollador de servicios en la nube incluyen:
         
         .bg2.mb-4(data-aos="fade-down")

@@ -275,7 +275,7 @@ export default {
         },
         {
           nombre: 'Ana Catalina Córdoba Sus ',
-          cargo: 'Revisora metodológica y pedagógica ',
+          cargo: 'Revisora Metodológica y Pedagógica ',
           centro:
             'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica.',
         },
@@ -333,7 +333,7 @@ export default {
         },
         {
           nombre: 'Diana Lizeth Lozada Díaz',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
